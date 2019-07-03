@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1561446273 source:/home/salman/Development/distanceWindowCPP/main.cpp
+	"stdafx.h"
+	"IO.h"
+	"spatialDistance.h"
+	<chrono>
+	"baselineWindow.h"
+	"incTrajLengthWindow.h"
+	"incDistArrayWindow.h"
+	<iostream>
+	<cmath>
+	<list>
+	<tuple>
+	<sstream>
+
+1561443681 /home/salman/Development/distanceWindowCPP/include/spatialDistance.h
+	"stdafx.h"
+
+1561443740 source:/home/salman/Development/distanceWindowCPP/src/spatialDistance.cpp
+	"spatialDistance.h"
+	<iostream>
+	<cmath>
+
+1561442376 source:/home/salman/Development/distanceWindowCPP/src/distanceWindow.cpp
+	"distanceWindow.h"
+	"spatialDistance.h"
+
+1561442320 /home/salman/Development/distanceWindowCPP/include/distanceWindow.h
+	<tuple>
+	<list>
+	<unordered_map>
+	<iostream>
+	"stdafx.h"
+
+1561434938 source:/home/salman/Development/distanceWindowCPP/src/IO.cpp
+	"IO.h"
+	<boost/tokenizer.hpp>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+
+1561434789 /home/salman/Development/distanceWindowCPP/include/IO.h
+	<iostream>
+	<vector>
+	<string>
+	<list>
+	<tuple>
+	"stdafx.h"
+
+1561369845 /home/salman/Development/distanceWindowCPP/include/baselineWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1561441057 source:/home/salman/Development/distanceWindowCPP/src/baselineWindow.cpp
+	"baselineWindow.h"
+	"spatialDistance.h"
+
+1561445910 /home/salman/Development/distanceWindowCPP/include/stdafx.h
+
+1561441067 source:/home/salman/Development/distanceWindowCPP/src/incDistArrayWindow.cpp
+	"incDistArrayWindow.h"
+	"spatialDistance.h"
+
+1561376687 /home/salman/Development/distanceWindowCPP/include/incDistArrayWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1561441074 source:/home/salman/Development/distanceWindowCPP/src/incTrajLengthWindow.cpp
+	"incTrajLengthWindow.h"
+	"spatialDistance.h"
+
+1561369820 /home/salman/Development/distanceWindowCPP/include/incTrajLengthWindow.h
+	<distanceWindow.h>
+	<unordered_map>
+	"stdafx.h"
+
