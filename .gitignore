@@ -22,6 +22,8 @@ output/
 .depend
 .py
 Makefile
+distanceWindowCPP.cbp
+distanceWindowCPP.depend
 
 # Packages #
 ############
