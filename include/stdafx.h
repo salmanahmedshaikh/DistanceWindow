@@ -2,6 +2,6 @@
 //#define EQUIRECTANGULAR
 #define SPHERICALLAWOFCOSINES
 
-#define BASELINE
+//#define BASELINE
 //#define ITL
-//#define IDA
+#define IDA

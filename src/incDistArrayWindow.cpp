@@ -45,6 +45,7 @@ void incDistArrayWindow::updateWindow(int trajectoryID)
                 trajectoryDistanceArrayMap.insert(trajectoryLengthPair);
             }
 
+
             return;
         }
         else if(trajectory.size() > 1) // We cannot compute distance from a trajectory with size 1 or 0

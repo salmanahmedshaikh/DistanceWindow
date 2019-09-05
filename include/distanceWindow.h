@@ -1,3 +1,4 @@
+#pragma once
 #include<tuple>
 #include<list>
 #include<unordered_map>
@@ -27,7 +28,6 @@ class distanceWindow
         void deleteOldestTrajectoryTuple(int trajectoryID);
         double distBetweenTwoOldestPoints(int trajectoryID);
         double distBetweenTwoNewestPoints(int trajectoryID);
-
 
         std::unordered_map<int, std::list<std::tuple<std::string,double,double> > > trajectoryMap;
         std::unordered_map<int, std::list<std::tuple<std::string,double,double> > >::iterator trajectoryMapIt;

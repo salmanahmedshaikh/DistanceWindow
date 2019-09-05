@@ -4,6 +4,8 @@
 #include <stdlib.h>
 #include <cstdlib>
 
+
+
 IO::IO()
 {
     //ctor
@@ -31,6 +33,96 @@ std::list<std::tuple<int, std::string, double, double> > IO::readCSVFile(std::st
     dataFile.close();
 
   return allTrajectories;
+}
+
+std::list<Point> IO::readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex)
+{
+    std::string line;
+    std::ifstream dataFile(fileName);
+    std::list<Point> allData;
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+            Point p( std::atof(vec[latitudeIndex].c_str()), std::atof(vec[longitudeIndex].c_str()) );
+            allData.push_back(p);
+        }
+    }
+    dataFile.close();
+
+  return allData;
+}
+
+
+std::list<std::tuple<Point, double> > IO::readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex)
+{
+    std::string line;
+    std::ifstream dataFile(fileName);
+    std::list<std::tuple<Point, double> > allData;
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+            Point p( std::atof(vec[latitudeIndex].c_str()), std::atof(vec[longitudeIndex].c_str()) );
+            double attrib = std::atof(vec[attribIndex].c_str());
+            allData.push_back( std::make_tuple (p, attrib) );
+        }
+    }
+    dataFile.close();
+
+  return allData;
+}
+
+
+std::list<std::tuple<std::string, Point> > IO::readCSVFileWGroupingAttrib(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex)
+{
+    std::string line;
+    std::ifstream dataFile(fileName);
+    std::list<std::tuple<std::string, Point> > allData;
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+            Point p( std::atof(vec[latitudeIndex].c_str()), std::atof(vec[longitudeIndex].c_str()) );
+            std::string attrib = vec[attribIndex].c_str();
+            allData.push_back( std::make_tuple (attrib, p) );
+
+            //p.print(std::cout);
+            //std::cout << attrib << std::endl;
+
+        }
+    }
+    dataFile.close();
+
+  return allData;
+}
+
+
+
+std::list<std::tuple<std::string, Point> > IO::readGasStationCSVFile(std::string fileName)
+{
+    std::string line;
+    std::ifstream dataFile(fileName);
+    std::list<std::tuple<std::string, Point> > allData;
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+            Point p(std::atof(vec[3].c_str()), std::atof(vec[4].c_str()));
+            allData.push_back( std::make_tuple (vec[0], p) );
+        }
+    }
+    dataFile.close();
+
+  return allData;
 }
 
 std::vector<std::string> IO::parseCSVLine(std::string line)

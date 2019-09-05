@@ -1,3 +1,4 @@
+#pragma once
 #include <distanceWindow.h>
 #include "stdafx.h"
 

@@ -1,3 +1,4 @@
+#pragma once
 #include <distanceWindow.h>
 #include<unordered_map>
 #include "stdafx.h"

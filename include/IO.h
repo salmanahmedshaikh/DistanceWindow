@@ -1,8 +1,10 @@
+#pragma once
 #include<iostream>
 #include<vector>
 #include<string>
 #include<list>
 #include<tuple>
+#include "point.h"
 
 #include "stdafx.h"
 
@@ -16,6 +18,12 @@ class IO
 
         // Each tuple consists of a trajectory id, timestamp, longitude, latitude
         std::list<std::tuple<int, std::string, double, double> > readCSVFile(std::string fileName);
+        std::list<std::tuple<std::string, Point> > readGasStationCSVFile(std::string fileName);
+        std::list<Point> readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex);
+        std::list<std::tuple<Point, double> > readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex);
+        std::list<std::tuple<std::string, Point> > readCSVFileWGroupingAttrib(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex);
+
+
         bool writeTextToFile(std::string fileName, std::string text);
 
     protected:
