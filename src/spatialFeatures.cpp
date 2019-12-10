@@ -95,7 +95,7 @@ int spatialFeatures::numCarParkingsWithinR(Point p, std::list<std::tuple<Point, 
             double objArea = std::get<1>(pointObj);
 
             if(withinDistanceR(p, objPoint, r))
-                numCarParkings += (objArea/(30*30)); // Assuming that one car require 30 sq. meters of space
+                numCarParkings += (objArea/(288)); // Assuming that one car require 288 sq. feet of space in a parking lot Ref. https://usa.streetsblog.org/2016/07/05/parking-takes-up-more-space-than-you-think/#targetText=A%20standard%20parking%20space%20is,feet%20(16.7%20square%20meters).
         }
     }
 

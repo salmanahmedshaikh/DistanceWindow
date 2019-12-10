@@ -42,6 +42,7 @@ int main()
     std::stringstream outputText;
     std::list<Point> candidPoints;
 
+    /*
     Point p1(40.883908, -73.856133);
     Point p2(40.809537, -73.880674);
     Point p3(40.834730, -73.917698);
@@ -63,7 +64,9 @@ int main()
     candidPoints.push_back(p8);
     candidPoints.push_back(p9);
     candidPoints.push_back(p10);
+    */
 
+    candidPoints = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NewYork-gas-station-locations.csv", 3, 4);
 
     /*
     std::list<Point> allGasStations;
@@ -72,7 +75,7 @@ int main()
     for(int i = 1; i <= 5; i++)
     {
         spatialFeatures sf;
-        int radius = 1000 * i; // in meters
+        int radius = 500 * i; // in meters
 
         std::cout <<  "radius : " << radius << std::endl;
         outputText << "Gas stations within radius : " << radius << "\n";
@@ -95,9 +98,8 @@ int main()
         outputText << "\n***\n\n";
     }
 
-    io.writeTextToFile("output/NYC_GasStation.txt", outputText.str() );
+    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
     */
-
 
 
     /*
@@ -108,7 +110,7 @@ int main()
     for(int i = 1; i <= 5; i++)
     {
         spatialFeatures sf;
-        int radius = 1000 * i; // in meters
+        int radius = 500 * i; // in meters
 
         std::cout <<  "radius : " << radius << std::endl;
         outputText << "Num cars parking within radius : " << radius << "\n";
@@ -130,8 +132,9 @@ int main()
         outputText << "\n***\n\n";
     }
 
-    io.writeTextToFile("output/NYC_GasStation.txt", outputText.str() );
+    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
     */
+
 
 
     /*
@@ -152,7 +155,7 @@ int main()
     for(int i = 1; i <= 5; i++)
     {
         spatialFeatures sf;
-        int radius = 1000 * i; // in meters
+        int radius = 50 * i; // in meters
 
         std::cout <<  "radius : " << radius << std::endl;
         outputText << "Four square check-ins within radius : " << radius << "\n";
@@ -173,26 +176,29 @@ int main()
             std::map<std::string, int>::iterator nCheckInsIt;
 
             p.print(std::cout);
-            outputText << p.GetX() << ", " << p.GetY() << "\n*******************\n";
+            //outputText << p.GetX() << ", " << p.GetY() << "\n*******************\n";
             std::cout << std::endl << "*******************" << std::endl;
 
             int totalCheckIns = 0;
             for(nCheckInsIt = nCheckIns.begin(); nCheckInsIt != nCheckIns.end(); nCheckInsIt++)
             {
-                std::cout <<  nCheckInsIt->first <<" : " << nCheckInsIt->second << std::endl;
-                outputText << nCheckInsIt->first << "\t" << nCheckInsIt->second <<"\n";
+                // Day wise check-in output
+                //std::cout <<  nCheckInsIt->first <<" : " << nCheckInsIt->second << std::endl;
+                //outputText << nCheckInsIt->first << "\t" << nCheckInsIt->second <<"\n";
 
                 totalCheckIns+= nCheckInsIt->second;
             }
             std::cout << "totalCheckIns: " << totalCheckIns << std::endl << std::endl;
 
-            outputText << "totalCheckIns\t" << totalCheckIns <<"\n\n";
+            outputText << p.GetX() << ", " << p.GetY() << "\t" << totalCheckIns <<"\n";
+            //outputText << "totalCheckIns\t" << totalCheckIns <<"\n\n";
         }
 
         outputText << "\n***\n\n";
     }
 
-    io.writeTextToFile("output/NYC_GasStation.txt", outputText.str() );
+    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
+
 
     /*
     // Traffic Estimate
@@ -202,7 +208,7 @@ int main()
     for(int i = 1; i <= 5; i++)
     {
         spatialFeatures sf;
-        int radius = 1000 * i; // in meters
+        int radius = 500 * i; // in meters
 
         std::cout <<  "radius : " << radius << std::endl;
         outputText << "Traffic Estimate within radius : " << radius << "\n";
@@ -223,8 +229,9 @@ int main()
         outputText << "\n***\n\n";
     }
 
-    io.writeTextToFile("output/NYC_GasStation.txt", outputText.str() );
+    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
     */
+
 
 
     // Distance Window Related
