@@ -15,6 +15,7 @@ void incDistArrayWindow::insertElement(int trajectoryID, std::string timestamp, 
 {
     insertTuple(trajectoryID,timestamp,longitude,latitude);
     updateWindow(trajectoryID);
+    deleteExpiredTrajectories();
 }
 
 // Keep the size of the window within given limits
@@ -106,3 +107,53 @@ void incDistArrayWindow::updateWindow(int trajectoryID)
 
     }
 }
+
+
+double incDistArrayWindow::getTrajectoryLength(int trajectoryID)
+{
+    double trajectoryLength = 0;
+    trajectoryMapIt = trajectoryMap.find(trajectoryID);
+    std::list<double> trajectoryLengthsList;
+
+    if ( trajectoryMapIt == trajectoryMap.end() )
+    {
+        std::cout << "Trajectory with ID " << trajectoryID << " not found!" << std::endl;
+        exit(0);
+    }
+    else // if the trajectory already exists
+    {
+        std::list<std::tuple<std::string,double,double> >& trajectory = trajectoryMapIt->second;
+
+        if (trajectory.size() == 1)
+        {
+            return trajectoryLength;
+        }
+        else if(trajectory.size() > 1) // We cannot compute distance from a trajectory with size 1 or 0
+        {
+            trajectoryDistanceArrayMapIt = trajectoryDistanceArrayMap.find(trajectoryID);
+
+            if ( trajectoryDistanceArrayMapIt != trajectoryDistanceArrayMap.end() )
+            {
+                trajectoryLengthsList = trajectoryDistanceArrayMapIt->second;
+            }
+            else
+            {
+                std::cout << "Distance entry not found in trajectoryDistanceArrayMap";
+                exit(0);
+            }
+
+            trajectoryLength = 0;
+
+            for (double trajLength : trajectoryLengthsList)
+                trajectoryLength += trajLength;
+
+            return trajectoryLength;
+        }
+        else
+        {
+            std::cout << "Invalid trajectory size" << std::endl;
+            exit(0);
+        }
+    }
+}
+

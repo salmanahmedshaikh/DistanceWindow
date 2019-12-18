@@ -1,7 +1,7 @@
 //#define HAVERSINE
 //#define EQUIRECTANGULAR
-#define SPHERICALLAWOFCOSINES
+#define SPHERICALLAWOFCOSINES   // Least expensive distance function
 
-//#define BASELINE
+#define BASELINE
 //#define ITL
-#define IDA
+//#define IDA

@@ -1,5 +1,6 @@
 #include "distanceWindow.h"
 #include "spatialDistance.h"
+#include "helperClass.h"
 
 distanceWindow::distanceWindow()
 {
@@ -28,13 +29,21 @@ int distanceWindow::getWindowSize(void)
     return mWindowSize;
 }
 
+void distanceWindow::setStalledTrajThreshold(uint64_t stalledTrajThreshold)
+{
+    stalledTrajThresholdMicroSeconds = stalledTrajThreshold;
+}
 
+uint64_t distanceWindow::getStalledTrajThreshold(void)
+{
+    return stalledTrajThresholdMicroSeconds;
+}
 
 void distanceWindow::insertTuple(int trajectoryID, std::string timestamp, double longitude, double latitude)
 {
     trajectoryMapIt = trajectoryMap.find(trajectoryID);
 
-    if ( trajectoryMapIt == trajectoryMap.end() )
+    if ( trajectoryMapIt == trajectoryMap.end() ) // If a trajectory does not already exist, create it
     {
         //std::cout << "Trajectory with ID " << trajectoryID << " does not exist. Creating!" << std::endl;
         // Creating a list trajectory
@@ -46,6 +55,11 @@ void distanceWindow::insertTuple(int trajectoryID, std::string timestamp, double
         //trajectoryMap.insert(make_pair<int, list<tuple<string,double,double> >>(trajectoryID, trajectory));
         //Inserting trajectory into trajectory map
         trajectoryMap.insert(trajectoryTuple);
+
+        uint64_t tupleUpdateTimestamp = helperClass::timeSinceEpochMicrosec();
+
+        trajectoryUpdateTimeMap.insert(std::pair<int, uint64_t>(trajectoryID, tupleUpdateTimestamp));
+        trajectoryUpdateTimePQ.push(std::pair<uint64_t, int>(tupleUpdateTimestamp, trajectoryID));
     }
     else
     {
@@ -55,6 +69,21 @@ void distanceWindow::insertTuple(int trajectoryID, std::string timestamp, double
 
         //Updating trajectoryMap
         trajectoryMap[trajectoryID] = trajectory;
+
+        uint64_t tupleUpdateTimestamp = helperClass::timeSinceEpochMicrosec();
+        //Insert in the PQ
+        trajectoryUpdateTimePQ.push(std::pair<uint64_t, int>(tupleUpdateTimestamp, trajectoryID));
+        //Update in the Map
+        trajectoryUpdateTimeMapIt = trajectoryUpdateTimeMap.find(trajectoryID);
+        if ( trajectoryUpdateTimeMapIt != trajectoryUpdateTimeMap.end() ) // If a trajectory already exist in the map
+        {
+            trajectoryUpdateTimeMap[trajectoryID] = tupleUpdateTimestamp;
+        }
+        else
+        {
+            std::cout << "DistanceWindow: Trajectory with given ID not found" << std::endl;
+            exit(0);
+        }
     }
 
     return;
@@ -81,25 +110,122 @@ void distanceWindow::listAllTrajectories()
 }
 
 
+int distanceWindow::getFilteredTrajectoriesCount(int trajLowerBound, int trajUpperBound)
+{
+    int counter = 0;
+
+    for(trajectoryMapIt = trajectoryMap.begin(); trajectoryMapIt != trajectoryMap.end(); trajectoryMapIt++)
+    {
+        if ( trajectoryMapIt != trajectoryMap.end() )
+        {
+            int trajectoryID = trajectoryMapIt->first;
+            if (trajectoryID > trajLowerBound && trajectoryID < trajUpperBound)
+            {
+                counter++;
+            }
+        }
+    }
+
+    return counter;
+}
+
+
+std::vector<int> distanceWindow::getFilteredTrajectoryIDs(int trajLowerBound, int trajUpperBound)
+{
+    std::vector<int> trajectoryIDs;
+    for(trajectoryMapIt = trajectoryMap.begin(); trajectoryMapIt != trajectoryMap.end(); trajectoryMapIt++)
+    {
+        if ( trajectoryMapIt != trajectoryMap.end() )
+        {
+            int trajectoryID = trajectoryMapIt->first;
+            if (trajectoryID > trajLowerBound && trajectoryID < trajUpperBound)
+            {
+                trajectoryIDs.push_back(trajectoryID);
+            }
+        }
+    }
+
+    return trajectoryIDs;
+}
+
+
 int distanceWindow::getNumOfTrajectories()
 {
     return trajectoryMap.size();
+}
+
+
+void distanceWindow::deleteExpiredTrajectories()
+{
+    uint64_t currentTimestamp = helperClass::timeSinceEpochMicrosec();
+    PQPair oldestTrajIDTimestampPair = trajectoryUpdateTimePQ.top();
+
+    // If there exist stalled trajectories
+    if ( (currentTimestamp - oldestTrajIDTimestampPair.first) >= stalledTrajThresholdMicroSeconds)
+    {
+        // Get the oldest trajectory ID
+        int trajID = oldestTrajIDTimestampPair.second;
+        // if trajectory with given ID found
+        if((trajectoryUpdateTimeMapIt = trajectoryUpdateTimeMap.find(trajID)) != trajectoryUpdateTimeMap.end())
+        {
+            // If the timestamps are equal then there exist stalled trajectories else the trajectory have been updated
+            if(trajectoryUpdateTimeMapIt->second == oldestTrajIDTimestampPair.first)
+            {
+                deleteTrajectory(trajID);
+                trajectoryUpdateTimePQ.pop();
+                trajectoryUpdateTimeMap.erase(trajectoryUpdateTimeMapIt);
+            }
+            else
+            {
+                // only delete the oldest trajectory record
+                trajectoryUpdateTimePQ.pop();
+            }
+
+        }
+        else
+        {
+            std::cout << "Trajectory with ID " << trajID << " not found!" << std::endl;
+            exit(0);
+        }
+    }
+
+    return;
+}
+
+
+void distanceWindow::deleteTrajectory(int trajectoryID)
+{
+    trajectoryMapIt = trajectoryMap.find(trajectoryID);
+
+    if ( trajectoryMapIt != trajectoryMap.end() ) // If a trajectory with given ID found
+    {
+        trajectoryMap.erase(trajectoryMapIt);
+    }
+    else
+    {
+        std::cout << "Trajectory with ID " << trajectoryID << " not found!" << std::endl;
+        exit(0);
+    }
+
+    return;
+
 }
 
 void distanceWindow::deleteOldestTrajectoryTuple(int trajectoryID)
 {
     trajectoryMapIt = trajectoryMap.find(trajectoryID);
 
-    if ( trajectoryMapIt == trajectoryMap.end() )
-    {
-        std::cout << "Trajectory with ID " << trajectoryID << " not found!" << std::endl;
-    }
-    else
+    if ( trajectoryMapIt != trajectoryMap.end() )  // If a trajectory with given ID found
     {
         std::list<std::tuple<std::string,double,double> >& trajectory = trajectoryMapIt->second;
 
         if(!trajectory.empty())
             trajectory.pop_front();
+    }
+    else
+    {
+        std::cout << "Trajectory with ID " << trajectoryID << " not found!" << std::endl;
+        exit(0);
     }
 
     return;

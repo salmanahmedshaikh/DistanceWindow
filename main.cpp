@@ -3,7 +3,10 @@
 //#include "spatialDistance.h"
 //#include "point.h"
 #include "spatialFeatures.h"
+#include "helperClass.h"
+#include "queries.h"
 #include <chrono>
+
 
 #ifdef BASELINE
     #include "baselineWindow.h"
@@ -18,18 +21,20 @@
 #include <list>
 #include <tuple>
 #include <sstream>
+#include <unistd.h>
 
 
 int main()
 {
+
+    // Optimal Site Selection Related
+    /*
     IO io;
     //std::list<std::tuple<int, Point> > objList;
 
     //std::list<std::tuple<std::string, Point > > allGasStations;
     //allGasStations = io.readGasStationCSVFile("/mnt/DataDrive/Data/NYC_Data/NewYork-gas-station-locations.csv");
 
-
-    /*
     for (auto& gasStation : allGasStations)
     {
         // Create a point using latitude and longitude
@@ -37,14 +42,13 @@ int main()
         objList.push_back( make_tuple (i, p) );
         i++;
     }
-    */
 
     std::stringstream outputText;
     std::list<Point> candidPoints;
 
-    /*
     Point p1(40.883908, -73.856133);
     Point p2(40.809537, -73.880674);
+
     Point p3(40.834730, -73.917698);
     Point p4(40.793056, -73.967525);
     Point p5(40.758583, -73.973072);
@@ -64,11 +68,10 @@ int main()
     candidPoints.push_back(p8);
     candidPoints.push_back(p9);
     candidPoints.push_back(p10);
-    */
 
-    candidPoints = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NewYork-gas-station-locations.csv", 3, 4);
+    //candidPoints = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NewYork-gas-station-locations.csv", 3, 4);
+    candidPoints = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NewYork-gas-station-locations.csv", 3, 4);
 
-    /*
     std::list<Point> allGasStations;
     allGasStations = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NewYork-gas-station-locations.csv", 3, 4);
 
@@ -99,10 +102,9 @@ int main()
     }
 
     io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
-    */
 
 
-    /*
+
     // Counting # of car parking slots
     std::list<std::tuple<Point, double> > carParksWArea;
     carParksWArea = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NYC_ParkingLotsCentroidsFinal.csv", 7, 6, 5); // latitude, longitude, area
@@ -133,11 +135,8 @@ int main()
     }
 
     io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
-    */
 
 
-
-    /*
     // Counting # of checkins for individual point
     std::unordered_map<std::string, int> nCheckInsWRTAttribute = sf.numCheckInsWRTAttribute(p1, fourSquareCheckinsWDay, radius);
     std::unordered_map<std::string, int>::iterator nCheckInsWRTAttributeIt;
@@ -145,12 +144,11 @@ int main()
     {
         std::cout <<  nCheckInsWRTAttributeIt->first <<" : " << nCheckInsWRTAttributeIt->second << std::endl;
     }
-    */
-
 
     // total number of check ins
     std::list<std::tuple<std::string, Point> > fourSquareCheckinsWDay;
-    fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/mnt/DataDrive/Data/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude, area
+    //fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/mnt/DataDrive/Data/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude, area
+    fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude, area
 
     for(int i = 1; i <= 5; i++)
     {
@@ -200,7 +198,7 @@ int main()
     io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
 
 
-    /*
+
     // Traffic Estimate
     std::list<std::tuple<Point, double> > trafficEstimate;
     trafficEstimate = io.readCSVFileWIndex("/mnt/DataDrive/Data/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/DecLastWeekTravelEstimates.csv", 4, 3, 2); // latitude, longitude, area
@@ -234,81 +232,204 @@ int main()
 
 
 
-    // Distance Window Related
-    /*
-    int windowSize = 1000; // 1000,2000,3000,4000,5000
-    IO io;
-    spatialDistance sd;
+    // Distance Window Related (BigMM and Journal)
 
-    #ifdef BASELINE
-        std::cout << "Baseline" << std::endl;
-        baselineWindow bw;
-        bw.setWindowSize(windowSize);
-    #elif defined ITL
-        std::cout << "ITL" << std::endl;
-        incTrajLengthWindow itlw;
-        itlw.setWindowSize(windowSize);
-    #elif defined IDA
-        std::cout << "IDA" << std::endl;
-        incDistArrayWindow idaw;
-        idaw.setWindowSize(windowSize);
-    #endif
-
+    uint64_t stalledTrajThreshold = 1000000; // stalledTrajThreshold duration in microseconds: 1 second = 1000000 microsecond
+    uint64_t slidingStep = 1000000; // slidingStep in microseconds: 1 second = 1000000 microsecond
     // reading data
     std::list<std::tuple<int, std::string, double, double> > allTrajectories;
-    allTrajectories = io.readCSVFile("/mnt/DataDrive/Data/MicrosoftGeolifeTrajectories/TrajLengthDivision/combinedTrajectories_all/MediumLength.csv");
+    IO io;
 
-    auto start = std::chrono::steady_clock::now();
-    for (auto& trajTuple : allTrajectories)
+    std::vector<std::string> fileNameVector;
+
+    fileNameVector.push_back("ShortestLength.csv");
+    fileNameVector.push_back("ShortLength.csv");
+    fileNameVector.push_back("MediumLength.csv");
+    fileNameVector.push_back("LongLength.csv");
+    fileNameVector.push_back("LongestLength.csv");
+
+    fileNameVector.push_back("3556Traj.csv");
+    fileNameVector.push_back("7113Traj.csv");
+    fileNameVector.push_back("10670Traj.csv");
+    fileNameVector.push_back("14227Traj.csv");
+    fileNameVector.push_back("17784Traj.csv");
+
+    for (std::string fileName : fileNameVector)
     {
-        //std::cout << std::get<0>(trajTuple) << ", " << std::get<1>(trajTuple) << ", " << std::get<2>(trajTuple) << ", " << std::get<3>(trajTuple) << std::endl;
-        #ifdef BASELINE
-            bw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
-        #elif defined ITL
-            itlw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
-        #elif defined IDA
-            idaw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
-        #endif
+        allTrajectories = io.readCSVFile("/media/salman/DATA/Datasets/2D_Spatial/MicrosoftGeolifeTrajectories/TrajLengthDivision/combinedTrajectories_all/" + fileName);
+        std::cout << "Finished reading file" << std::endl;
+
+        std::vector<std::string> queryStrVector;
+
+        queryStrVector.push_back("trajectoriesCount");
+        queryStrVector.push_back("filteredTrajectoriesCount");
+        queryStrVector.push_back("filteredTrajectoriesLength");
+
+        for (std::string queryStr : queryStrVector)
+        {
+            for(int i = 1; i <= 5; i++)
+            {
+                int windowSize = 500 * i; // 1000,2000,3000,4000,5000 - in meters
+                spatialDistance sd;
+
+                #ifdef BASELINE
+                    std::cout << "Baseline" << std::endl;
+                    baselineWindow bw;
+                    bw.setWindowSize(windowSize);
+                    bw.setStalledTrajThreshold(stalledTrajThreshold);
+                #elif defined ITL
+                    std::cout << "ITL" << std::endl;
+                    incTrajLengthWindow itlw;
+                    itlw.setWindowSize(windowSize);
+                    itlw.setStalledTrajThreshold(stalledTrajThreshold);
+                #elif defined IDA
+                    std::cout << "IDA" << std::endl;
+                    incDistArrayWindow idaw;
+                    idaw.setWindowSize(windowSize);
+                    idaw.setStalledTrajThreshold(stalledTrajThreshold);
+                #endif
+
+
+                //queries q;
+                int filterLowerBound = 500;
+                int filterUpperBound = 5000;
+                uint64_t slideStepStartTime = helperClass::timeSinceEpochMicrosec();
+                auto start = std::chrono::steady_clock::now();
+                for (auto& trajTuple : allTrajectories)
+                {
+                    uint64_t currentTime = helperClass::timeSinceEpochMicrosec();
+                    // Query is called based on window slide time
+                    if( (currentTime - slideStepStartTime) > slidingStep)
+                    {
+                        if(queryStr == "trajectoriesCount")
+                        {
+                            #ifdef BASELINE
+                                bw.getNumOfTrajectories();
+                            #elif defined ITL
+                                itlw.getNumOfTrajectories();
+                            #elif defined IDA
+                                idaw.getNumOfTrajectories();
+                            #endif
+                        }
+                        else if(queryStr == "filteredTrajectoriesCount")
+                        {
+                            #ifdef BASELINE
+                                bw.getFilteredTrajectoriesCount(filterLowerBound, filterUpperBound);
+                            #elif defined ITL
+                                itlw.getFilteredTrajectoriesCount(filterLowerBound, filterUpperBound);
+                            #elif defined IDA
+                                idaw.getFilteredTrajectoriesCount(filterLowerBound, filterUpperBound);
+                            #endif
+                        }
+                        else if(queryStr == "filteredTrajectoriesLength")
+                        {
+                            std::vector<int> filteredTrajectoryIDs;
+
+                            #ifdef BASELINE
+                                filteredTrajectoryIDs = bw.getFilteredTrajectoryIDs(filterLowerBound, filterUpperBound);
+                                for (int trajID : filteredTrajectoryIDs)
+                                    bw.getTrajectoryLength(trajID);
+                            #elif defined ITL
+                                filteredTrajectoryIDs = itlw.getFilteredTrajectoryIDs(filterLowerBound, filterUpperBound);
+                                for (int trajID : filteredTrajectoryIDs)
+                                    itlw.getTrajectoryLength(trajID);
+                            #elif defined IDA
+                                filteredTrajectoryIDs = idaw.getFilteredTrajectoryIDs(filterLowerBound, filterUpperBound);
+                                for (int trajID : filteredTrajectoryIDs)
+                                    idaw.getTrajectoryLength(trajID);
+                            #endif
+                        }
+                        else
+                        {
+                            std::cout << "Invalid Query" << std::endl;
+                            exit(0);
+                        }
+
+                        slideStepStartTime = currentTime;
+
+                        //q.trajectoriesCount();
+                        //q.filteredTrajectoriesCount(trajLowerBound, trajUpperBound);
+                        //q.filteredTrajectoriesLength(trajLowerBound, trajUpperBound);
+                    }
+                    //std::cout << std::get<0>(trajTuple) << ", " << std::get<1>(trajTuple) << ", " << std::get<2>(trajTuple) << ", " << std::get<3>(trajTuple) << std::endl;
+                    #ifdef BASELINE
+                        bw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
+                    #elif defined ITL
+                        itlw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
+                    #elif defined IDA
+                        idaw.insertElement(std::get<0>(trajTuple), std::get<1>(trajTuple), std::get<2>(trajTuple), std::get<3>(trajTuple));
+                    #endif
+                }
+                auto end = std::chrono::steady_clock::now();
+                // Store the time difference between start and end
+                auto diff = end - start;
+
+                //std::cout << std::chrono::duration <double, std::milli> (diff).count() << " ms" << std::endl;
+                //std::cout << std::chrono::duration <double, std::nano> (diff).count() << " ns" << std::endl;
+
+                std::stringstream outputText;
+                int numOfTrajectories;
+
+                //outputText << "\n***\n";
+
+                //outputText << "\n";
+
+                #ifdef BASELINE
+                    //outputText << "Approach\tBaseline\n";
+                    outputText << "Approach,Baseline,";
+                    numOfTrajectories = bw.getNumOfTrajectories();
+                #elif defined ITL
+                    //outputText << "Approach\tITL\n";
+                    outputText << "Approach,ITL,";
+                    numOfTrajectories = itlw.getNumOfTrajectories();
+                #elif defined IDA
+                    //outputText << "Approach\tIDA\n";
+                    outputText << "Approach,IDA,";
+                    numOfTrajectories = idaw.getNumOfTrajectories();
+                #endif
+
+                #ifdef HAVERSINE
+                    //outputText << "Dist.Function\tHAVERSINE\n";
+                    outputText << "Dist.Function,HAVERSINE,";
+                #elif defined EQUIRECTANGULAR
+                    //outputText << "Dist.Function\tEQUIRECTANGULAR\n";
+                    outputText << "Dist.Function,EQUIRECTANGULAR,";
+                #elif defined SPHERICALLAWOFCOSINES
+                    //outputText << "Dist.Function\tSPHERICALLAWOFCOSINES\n";
+                    outputText << "Dist.Function,SPHERICALLAWOFCOSINES,";
+                #endif
+
+                /*
+                outputText << "\nTraj File\t" << fileName;
+                outputText << "\nQuery\t" << queryStr;
+                outputText << "\nFilterLowerBound\t" << filterLowerBound;
+                outputText << "\nFilterUpperBound\t" << filterUpperBound;
+                outputText << "\nWindow size\t" << windowSize;
+                outputText << "\nSlidingStep(micro seconds)\t" << slidingStep;
+                outputText << "\nStalledTrajThreshold\t" << stalledTrajThreshold;
+                outputText << "\nNumOfTrajectories\t" << numOfTrajectories;
+                outputText << "\nNumDistanceComputations\t" << sd.getNumDistanceComputations();
+                outputText << "\nExecution time (ms)\t" << std::chrono::duration <double, std::milli> (diff).count();
+                */
+
+                outputText << "Traj File," << fileName;
+                outputText << ",Query," << queryStr;
+                outputText << ",FilterLowerBound," << filterLowerBound;
+                outputText << ",FilterUpperBound," << filterUpperBound;
+                outputText << ",Window size," << windowSize;
+                outputText << ",SlidingStep(micro seconds)," << slidingStep;
+                outputText << ",StalledTrajThreshold," << stalledTrajThreshold;
+                outputText << ",NumOfTrajectories," << numOfTrajectories;
+                outputText << ",NumDistanceComputations," << sd.getNumDistanceComputations();
+                outputText << ",Execution time (ms)," << std::chrono::duration <double, std::milli> (diff).count();
+
+                io.writeTextToFile("output/output_Baseline.csv", outputText.str() );
+
+
+
+            }
+        }
     }
-    auto end = std::chrono::steady_clock::now();
-    // Store the time difference between start and end
-    auto diff = end - start;
-
-    //std::cout << std::chrono::duration <double, std::milli> (diff).count() << " ms" << std::endl;
-    //std::cout << std::chrono::duration <double, std::nano> (diff).count() << " ns" << std::endl;
-
-    std::stringstream outputText;
-    int numOfTrajectories;
-
-    outputText << "\n***\n";
-
-    #ifdef BASELINE
-        outputText << "Approach\tBaseline\n";
-        numOfTrajectories = bw.getNumOfTrajectories();
-    #elif defined ITL
-        outputText << "Approach\tITL\n";
-        numOfTrajectories = itlw.getNumOfTrajectories();
-    #elif defined IDA
-        outputText << "Approach\tIDA\n";
-        numOfTrajectories = idaw.getNumOfTrajectories();
-    #endif
-
-    #ifdef HAVERSINE
-        outputText << "Dist.Function\tHAVERSINE\n";
-    #elif defined EQUIRECTANGULAR
-        outputText << "Dist.Function\tEQUIRECTANGULAR\n";
-    #elif defined SPHERICALLAWOFCOSINES
-        outputText << "Dist.Function\tSPHERICALLAWOFCOSINES\n";
-    #endif
-
-    outputText << "Window size\t" << windowSize;
-    outputText << "\nNumOfTrajectories\t" << numOfTrajectories;
-    outputText << "\nNumDistanceComputations\t" << sd.getNumDistanceComputations();
-    outputText << "\nExecution time (ms)\t" << std::chrono::duration <double, std::milli> (diff).count();
-
-    io.writeTextToFile("output/output.txt", outputText.str() );
-    */
-
 
     /*
     for(allTrajectoriesIt = allTrajectories.begin(); allTrajectoriesIt != allTrajectories.end(); allTrajectoriesIt++)

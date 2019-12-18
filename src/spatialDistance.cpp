@@ -2,7 +2,7 @@
 #include <iostream>
 #include <cmath>
 
-int spatialDistance::mNumDistanceComputations = 0;
+uint64_t spatialDistance::mNumDistanceComputations = 0;
 
 spatialDistance::spatialDistance()
 {
@@ -68,7 +68,7 @@ double spatialDistance::degreesToRadians(double degValue)
     return degValue * M_PI / 180.0;
 }
 
-int spatialDistance::getNumDistanceComputations(void)
+uint64_t spatialDistance::getNumDistanceComputations(void)
 {
     return spatialDistance::mNumDistanceComputations;
 }

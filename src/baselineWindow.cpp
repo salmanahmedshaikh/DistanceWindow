@@ -15,6 +15,7 @@ void baselineWindow::insertElement(int trajectoryID, std::string timestamp, doub
 {
     insertTuple(trajectoryID,timestamp,longitude,latitude);
     updateWindow(trajectoryID);
+    deleteExpiredTrajectories();
 }
 
 // Keep the size of the window within given limits
@@ -30,7 +31,7 @@ void baselineWindow::updateWindow(int trajectoryID)
     {
         std::list<std::tuple<std::string,double,double> >& trajectory = trajectoryMapIt->second;
 
-         // We cannot compute distance from a trajectory with size 1 or 0
+         // We cannot compute distance from a trajectory with size 0 or 1
         if(trajectory.size() > 1)
         {
             double trajectoryLength = -999;
@@ -94,6 +95,73 @@ void baselineWindow::updateWindow(int trajectoryID)
             //std::cout << "Trajectory ID: " << trajectoryID << " | Length (m): " << trajectoryLength << ", #TrajElements: " << trajectory.size() << std::endl;
         }
     }
+}
+
+// Get trajectory length in meters
+double baselineWindow::getTrajectoryLength(int trajectoryID)
+{
+    double trajectoryLength = 0;
+    trajectoryMapIt = trajectoryMap.find(trajectoryID);
+
+    if ( trajectoryMapIt == trajectoryMap.end() )
+    {
+        std::cout << "Trajectory with ID " << trajectoryID << " not found!" << std::endl;
+        exit(0);
+    }
+    else
+    {
+        std::list<std::tuple<std::string,double,double> >& trajectory = trajectoryMapIt->second;
+
+         // We cannot compute distance from a trajectory with size 0 or 1
+        if(trajectory.size() > 1)
+        {
+            trajectoryLength = -999;
+            double longitude1 = 0;
+            double latitude1 = 0;
+            double longitude2 = 0;
+            double latitude2 = 0;
+
+            spatialDistance sd;
+
+            for (auto& trajTuple : trajectory)
+            {
+                if(trajectoryLength == -999) // executed only once
+                {
+                    longitude1 = std::get<1>(trajTuple);
+                    latitude1 = std::get<2>(trajTuple);
+                    trajectoryLength = 0;
+                }
+                else
+                {
+                    longitude2 = std::get<1>(trajTuple);
+                    latitude2 = std::get<2>(trajTuple);
+
+                    double distance = 0;
+
+                    #ifdef HAVERSINE
+                        distance = sd.haversine(latitude1,longitude1,latitude2,longitude2);
+                        //std::cout << "HAVERSINE" << std::endl;
+                    #elif defined EQUIRECTANGULAR
+                        distance = sd.equirectangular(latitude1,longitude1,latitude2,longitude2);
+                    #elif defined SPHERICALLAWOFCOSINES
+                        distance = sd.sphericalLawOfCosines(latitude1,longitude1,latitude2,longitude2);
+                    #endif
+
+                    trajectoryLength += distance;
+
+                    longitude1 = longitude2;
+                    latitude1 = latitude2;
+                }
+            }
+
+            return trajectoryLength;
+        }
+        else  // If trajectory size is 0, then the trajectory length is 0
+        {
+            return trajectoryLength;
+        }
+    }
+    return trajectoryLength;
 }
 
 

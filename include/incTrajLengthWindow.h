@@ -11,6 +11,7 @@ class incTrajLengthWindow : public distanceWindow
         virtual ~incTrajLengthWindow();
 
         void insertElement(int trajectoryID, std::string timestamp, double longitude, double latitude);
+        double getTrajectoryLength(int trajectoryID);
 
     protected:
 
