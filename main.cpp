@@ -285,11 +285,11 @@ int main()
 
     //std::cout << roadDist.getDistance(map_geo_position, ch_query, 40.87105, -73.86361, 40.87332, -73.88967) << std::endl;
 
-    // Gas Stations evaluation using road distance
-    /*
     std::list<Point> allGasStations;
     allGasStations = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYCGasStations_Google_Filtered.csv", 1, 2);
 
+    // Gas Stations evaluation using road distance
+    /*
     std::cout << "allGasStations.size: " << allGasStations.size() << std::endl;
 
     for(int i = 1; i <= 5; i++)
@@ -322,8 +322,6 @@ int main()
     */
 
     // # of car parking slots using road distance
-    std::list<Point> allGasStations;
-    allGasStations = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYCGasStations_Google_Filtered.csv", 1, 2);
 
     std::list<std::tuple<Point, double> > carParksWArea;
     carParksWArea = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_ParkingLotsCentroidsFinal.csv", 7, 6, 5); // latitude, longitude, area
@@ -349,95 +347,88 @@ int main()
     }
 
     outputText << "\n***\n\n";
-
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
 
 
-    /*
+
     // Traffic Estimate using road distance
     std::list<std::tuple<Point, double> > trafficEstimate;
-    trafficEstimate = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/DecLastWeekTravelEstimates.csv", 4, 3, 2); // latitude, longitude, area
+    trafficEstimate = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/NYCTrafficEstimate20131218.csv", 4, 3, 2); // latitude, longitude, area
 
-    for(int i = 1; i <= 5; i++)
+    spatialFeatures sf;
+    int radius = 1000; // in meters
+
+    std::cout <<  "radius : " << radius << std::endl;
+    outputText << "Traffic Estimate within radius : " << radius << "\n";
+    outputText << "\n****************************\n";
+    std::cout <<  "**************" << std::endl;
+
+    std::list<std::tuple<Point, double> > trafficEstimateWithinR = sf.trafficEstimateWithinR(map_geo_position, ch_query, allGasStations, trafficEstimate, radius);
+    for(auto& trafficEstimateObj : trafficEstimateWithinR)
     {
-        spatialFeatures sf;
-        int radius = 500 * i; // in meters
+        Point p = std::get<0>(trafficEstimateObj);
+        double avgTraffic = std::get<1>(trafficEstimateObj);
 
-        std::cout <<  "radius : " << radius << std::endl;
-        outputText << "Traffic Estimate within radius : " << radius << "\n";
-        outputText << "\n****************************\n";
-        std::cout <<  "**************" << std::endl;
-
-        std::list<std::tuple<Point, double> > trafficEstimateWithinR = sf.trafficEstimateWithinR(candidPoints, trafficEstimate, radius);
-        for(auto& trafficEstimateObj : trafficEstimateWithinR)
-        {
-            Point p = std::get<0>(trafficEstimateObj);
-            double avgTraffic = std::get<1>(trafficEstimateObj);
-
-            p.print(std::cout);
-            std::cout <<  ": " << avgTraffic << std::endl;
-            outputText << p.GetX() << ", " << p.GetY() << "\t" << avgTraffic <<"\n";
-        }
-
-        outputText << "\n***\n\n";
+        p.print(std::cout);
+        std::cout <<  ": " << avgTraffic << std::endl;
+        outputText << p.GetX() << ", " << p.GetY() << "\t" << avgTraffic <<"\n";
     }
-    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
+
+    outputText << "\n***\n\n";
+
+    io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
+
 
 
 
     // four square check ins using road distance
     std::list<std::tuple<std::string, Point> > fourSquareCheckinsWDay;
-    //fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/mnt/DataDrive/Data/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude
     fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude
 
-    for(int i = 1; i <= 5; i++)
+    spatialFeatures sf;
+    int radius = 500; // in meters
+
+    std::cout <<  "radius : " << radius << std::endl;
+    outputText << "Four square check-ins within radius : " << radius << "\n";
+    outputText << "\n****************************\n";
+    std::cout <<  "**************" << std::endl;
+
+    std::unordered_map< Point, std::map<std::string, int> > nCheckInsWRTAttribute = sf.numCheckInsWRTAttribute(map_geo_position, ch_query, allGasStations, fourSquareCheckinsWDay, radius);
+    std::unordered_map< Point, std::map<std::string, int> >::iterator nCheckInsWRTAttributeIt;
+
+    //for(unsigned int i = 0; i < candidPoints.size(); i++)
+    //for(nCheckInsWRTAttributeIt = nCheckInsWRTAttribute.begin(); nCheckInsWRTAttributeIt != nCheckInsWRTAttribute.end(); nCheckInsWRTAttributeIt++)
+    for (auto& objPoint : allGasStations)
     {
-        spatialFeatures sf;
-        int radius = 50 * i; // in meters
+        nCheckInsWRTAttributeIt = nCheckInsWRTAttribute.find(objPoint);
 
-        std::cout <<  "radius : " << radius << std::endl;
-        outputText << "Four square check-ins within radius : " << radius << "\n";
-        outputText << "\n****************************\n";
-        std::cout <<  "**************" << std::endl;
+        Point p = nCheckInsWRTAttributeIt -> first;
+        std::map<std::string, int> nCheckIns = nCheckInsWRTAttributeIt -> second;
+        std::map<std::string, int>::iterator nCheckInsIt;
 
-        std::unordered_map< Point, std::map<std::string, int> > nCheckInsWRTAttribute = sf.numCheckInsWRTAttribute(candidPoints, fourSquareCheckinsWDay, radius);
-        std::unordered_map< Point, std::map<std::string, int> >::iterator nCheckInsWRTAttributeIt;
+        //p.print(std::cout);
+        //outputText << p.GetX() << ", " << p.GetY() << "\n*******************\n";
+        //std::cout << std::endl << "*******************" << std::endl;
 
-        //for(unsigned int i = 0; i < candidPoints.size(); i++)
-        //for(nCheckInsWRTAttributeIt = nCheckInsWRTAttribute.begin(); nCheckInsWRTAttributeIt != nCheckInsWRTAttribute.end(); nCheckInsWRTAttributeIt++)
-        for (auto& objPoint : candidPoints)
+        int totalCheckIns = 0;
+        for(nCheckInsIt = nCheckIns.begin(); nCheckInsIt != nCheckIns.end(); nCheckInsIt++)
         {
-            nCheckInsWRTAttributeIt = nCheckInsWRTAttribute.find(objPoint);
+            // Day wise check-in output
+            //std::cout <<  nCheckInsIt->first <<" : " << nCheckInsIt->second << std::endl;
+            //outputText << nCheckInsIt->first << "\t" << nCheckInsIt->second <<"\n";
 
-            Point p = nCheckInsWRTAttributeIt -> first;
-            std::map<std::string, int> nCheckIns = nCheckInsWRTAttributeIt -> second;
-            std::map<std::string, int>::iterator nCheckInsIt;
-
-            p.print(std::cout);
-            //outputText << p.GetX() << ", " << p.GetY() << "\n*******************\n";
-            std::cout << std::endl << "*******************" << std::endl;
-
-            int totalCheckIns = 0;
-            for(nCheckInsIt = nCheckIns.begin(); nCheckInsIt != nCheckIns.end(); nCheckInsIt++)
-            {
-                // Day wise check-in output
-                //std::cout <<  nCheckInsIt->first <<" : " << nCheckInsIt->second << std::endl;
-                //outputText << nCheckInsIt->first << "\t" << nCheckInsIt->second <<"\n";
-
-                totalCheckIns+= nCheckInsIt->second;
-            }
-            std::cout << "totalCheckIns: " << totalCheckIns << std::endl << std::endl;
-
-            outputText << p.GetX() << ", " << p.GetY() << "\t" << totalCheckIns <<"\n";
-            //outputText << "totalCheckIns\t" << totalCheckIns <<"\n\n";
+            totalCheckIns+= nCheckInsIt->second;
         }
+        //std::cout << "totalCheckIns: " << totalCheckIns << std::endl << std::endl;
 
-        outputText << "\n***\n\n";
+        outputText << p.GetX() << ", " << p.GetY() << "\t" << totalCheckIns <<"\n";
+        //outputText << "totalCheckIns\t" << totalCheckIns <<"\n\n";
     }
 
-    io.writeTextToFile("output/NYC_GasStations_Milos.txt", outputText.str() );
+    outputText << "\n***\n\n";
+    io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
 
-    */
+
 
 
 

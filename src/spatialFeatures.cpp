@@ -223,6 +223,55 @@ std::list<std::tuple<Point, double> > spatialFeatures::numCarParkingsWithinR(Geo
 }
 
 
+double spatialFeatures::trafficEstimateWithinR(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, Point p, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r)
+{
+    //Point objPoint;
+    double amountTraffic = 0.0;
+
+    if(objSetWTrafficEstimate.size() > 1)
+    {
+        for (auto& pointObj : objSetWTrafficEstimate)
+        {
+            Point objPoint = std::get<0>(pointObj);
+            double trafficEstimate = std::get<1>(pointObj);
+            //std::cout << "outsideR" << trafficEstimate << std::endl;
+
+            if(withinRoadDistanceR(map_geo_position, ch_query, p, objPoint, r))
+            {
+                amountTraffic += trafficEstimate;
+                //std::cout << "withinR " << amountTraffic << std::endl;
+            }
+        }
+    }
+
+    //std::cout << (amountTraffic*1.0)/(7*24) <<std::endl; // Since the traffic estimate is computed for one week, this gives avg. amount of traffic per hour
+    return (amountTraffic*1.0)/(24); // Since the traffic estimate is computed for one day, this gives avg. amount of traffic per hour
+}
+
+
+//Computes the total number of car parking facility nearby
+std::list<std::tuple<Point, double> > spatialFeatures::trafficEstimateWithinR(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, std::list<Point> candidObjList, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r)
+{
+    //Point objPoint;
+    std::list<std::tuple<Point, double> > withinRTrafficEstimate;
+
+    if(candidObjList.size() > 1)
+    {
+        for (auto& objPoint : candidObjList)
+        {
+            if(objSetWTrafficEstimate.size() > 1)
+            {
+                double amountTraffic = trafficEstimateWithinR(map_geo_position, ch_query, objPoint, objSetWTrafficEstimate, r);
+                withinRTrafficEstimate.push_back( std::make_tuple (objPoint, amountTraffic) );
+
+            }
+        }
+    }
+
+    return withinRTrafficEstimate;
+}
+
+
 double spatialFeatures::trafficEstimateWithinR(Point p, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r)
 {
     //Point objPoint;
@@ -344,6 +393,66 @@ std::unordered_map< Point, std::map<std::string, int> > spatialFeatures::numChec
                     }
                 }
                 */
+            }
+        }
+    }
+
+    return groupedCounterMap;
+}
+
+
+//CheckIns w.r.t. Attribute
+std::map<std::string, int> spatialFeatures::numCheckInsWRTAttribute(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, Point p, std::list<std::tuple<std::string, Point> > objSetWithGroupingAttrib, double r)
+{
+    std::map<std::string, int> groupedCounterMap;
+    std::map<std::string, int>::iterator groupedCounterMapIt;
+
+    if(objSetWithGroupingAttrib.size() > 1)
+    {
+        for (auto& pointObj : objSetWithGroupingAttrib)
+        {
+            std::string groupingAttrib = std::get<0>(pointObj);
+            Point objPoint = std::get<1>(pointObj);
+
+            if(withinRoadDistanceR(map_geo_position, ch_query, p, objPoint, r))
+            {
+                groupedCounterMapIt = groupedCounterMap.find(groupingAttrib);
+
+                //If not found, create it
+                if ( groupedCounterMapIt == groupedCounterMap.end() )
+                {
+                    std::pair<std::string, int> groupingAttribInit (groupingAttrib, 1);
+                    groupedCounterMap.insert(groupingAttribInit);
+                }
+                else
+                {
+                    // updating already existing record
+                    int groupingAttribCounter = groupedCounterMapIt->second;
+                    groupingAttribCounter++;
+
+                    //Updating groupedCounterMap
+                    groupedCounterMap[groupingAttrib] = groupingAttribCounter;
+                }
+            }
+        }
+    }
+
+    return groupedCounterMap;
+}
+
+std::unordered_map< Point, std::map<std::string, int> > spatialFeatures::numCheckInsWRTAttribute(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, std::list<Point> candidObjList, std::list<std::tuple<std::string, Point> > objSetWithGroupingAttrib, double r)
+{
+    std::unordered_map< Point, std::map<std::string, int> > groupedCounterMap;
+    std::unordered_map< Point, std::map<std::string, int> >::iterator groupedCounterMapIt;
+
+    if(candidObjList.size() > 1)
+    {
+        for (auto& objPoint : candidObjList)
+        {
+            if(objSetWithGroupingAttrib.size() > 1)
+            {
+                std::map<std::string, int> nCheckIns = numCheckInsWRTAttribute(map_geo_position, ch_query, objPoint, objSetWithGroupingAttrib, r);
+                groupedCounterMap[objPoint] = nCheckIns;
             }
         }
     }

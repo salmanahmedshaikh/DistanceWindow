@@ -42,6 +42,13 @@ class spatialFeatures
         std::list<std::tuple<Point, double> > trafficEstimateWithinR(std::list<Point> candidObjList, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r);
         double trafficEstimateWithinR(Point p, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r);
 
+        double trafficEstimateWithinR(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, Point p, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r);
+        std::list<std::tuple<Point, double> > trafficEstimateWithinR(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, std::list<Point> candidObjList, std::list<std::tuple<Point, double> > objSetWTrafficEstimate, double r);
+
+        std::map<std::string, int> numCheckInsWRTAttribute(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, Point p, std::list<std::tuple<std::string, Point> > objSetWithGroupingAttrib, double r);
+        std::unordered_map< Point, std::map<std::string, int> > numCheckInsWRTAttribute(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, std::list<Point> candidObjList, std::list<std::tuple<std::string, Point> > objSetWithGroupingAttrib, double r);
+
+
         //std::unordered_map<std::string, int> groupedCounterMap;
         //std::unordered_map<std::string, int>::iterator groupedCounterMapIt;
 
