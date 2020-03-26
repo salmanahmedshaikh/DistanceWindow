@@ -72,3 +72,31 @@ uint64_t spatialDistance::getNumDistanceComputations(void)
 {
     return spatialDistance::mNumDistanceComputations;
 }
+
+double spatialDistance::roadDistance(GeoPositionToNode map_geo_position, ContractionHierarchyQuery ch_query, float from_latitude, float from_longitude, float to_latitude, float to_longitude)
+{
+    unsigned from = map_geo_position.find_nearest_neighbor_within_radius(from_latitude, from_longitude, 500).id;
+    //unsigned from = map_geo_position.find_nearest_neighbor_within_radius(40.87105, -73.86361, 1000).id;
+    if(from == invalid_id){
+        //std::cout << "No node within 1000m from source position" << std::endl;
+        return 99999.99999;
+    }
+
+    unsigned to = map_geo_position.find_nearest_neighbor_within_radius(to_latitude, to_longitude, 1000).id;
+    //unsigned to = map_geo_position.find_nearest_neighbor_within_radius(40.87332,-73.88967, 1000).id;
+    if(to == invalid_id){
+        //std::cout << "No node within 1000m from target position" << std::endl;
+        return 99999.99999;
+    }
+
+    ch_query.reset();
+    ch_query.add_source(from);
+    ch_query.add_target(to);
+    ch_query.run();
+    //ch_query.reset().add_source(from).add_target(to).run();
+
+    double distance = ch_query.get_distance();
+    //std::cout << "road distance " << distance << std::endl;
+
+    return distance;
+}

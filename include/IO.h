@@ -22,6 +22,7 @@ class IO
         std::list<Point> readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex);
         std::list<std::tuple<Point, double> > readCSVFileWIndex(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex);
         std::list<std::tuple<std::string, Point> > readCSVFileWGroupingAttrib(std::string fileName, int latitudeIndex, int longitudeIndex, int attribIndex);
+        void filterFileViaSpecificAttribute(std::string sourceFileName, std::string destFileName, int latitudeIndex, int longitudeIndex, int attribIndex, std::string attribValue);
 
 
         bool writeTextToFile(std::string fileName, std::string text);

@@ -3,6 +3,7 @@
 #include <fstream>
 #include <stdlib.h>
 #include <cstdlib>
+#include <sstream>
 
 
 
@@ -75,6 +76,29 @@ std::list<std::tuple<Point, double> > IO::readCSVFileWIndex(std::string fileName
     dataFile.close();
 
   return allData;
+}
+
+
+void IO::filterFileViaSpecificAttribute(std::string sourceFile, std::string destFile, int latitudeIndex, int longitudeIndex, int attribIndex, std::string attribValue)
+{
+    std::string line;
+    std::ifstream dataFile(sourceFile);
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+
+            if(vec[attribIndex].compare(attribValue) == 0 )
+            {
+                std::stringstream outputData;
+                outputData << vec[latitudeIndex] << ", " << vec[longitudeIndex];
+                writeTextToFile(destFile, outputData.str());
+            }
+        }
+    }
+    dataFile.close();
 }
 
 
