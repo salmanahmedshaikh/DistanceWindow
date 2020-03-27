@@ -245,7 +245,7 @@ double spatialFeatures::trafficEstimateWithinR(GeoPositionToNode map_geo_positio
     }
 
     //std::cout << (amountTraffic*1.0)/(7*24) <<std::endl; // Since the traffic estimate is computed for one week, this gives avg. amount of traffic per hour
-    return (amountTraffic*1.0)/(24); // Since the traffic estimate is computed for one day, this gives avg. amount of traffic per hour
+    return (amountTraffic*1.0); // Since the traffic estimate is computed for one day, this gives avg. amount of traffic per hour
 }
 
 
@@ -254,14 +254,17 @@ std::list<std::tuple<Point, double> > spatialFeatures::trafficEstimateWithinR(Ge
 {
     //Point objPoint;
     std::list<std::tuple<Point, double> > withinRTrafficEstimate;
+    int counter = 0;
 
     if(candidObjList.size() > 1)
     {
         for (auto& objPoint : candidObjList)
         {
+            counter++;
             if(objSetWTrafficEstimate.size() > 1)
             {
                 double amountTraffic = trafficEstimateWithinR(map_geo_position, ch_query, objPoint, objSetWTrafficEstimate, r);
+                std::cout << counter << ": " << objPoint.GetX() << ", " << objPoint.GetY() << ", " << amountTraffic << std::endl;
                 withinRTrafficEstimate.push_back( std::make_tuple (objPoint, amountTraffic) );
 
             }

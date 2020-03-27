@@ -353,10 +353,11 @@ int main()
 
     // Traffic Estimate using road distance
     std::list<std::tuple<Point, double> > trafficEstimate;
-    trafficEstimate = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/NYCTrafficEstimate20131218.csv", 4, 3, 2); // latitude, longitude, area
+    //trafficEstimate = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/NYCTrafficEstimate20131218.csv", 4, 3, 2); // latitude, longitude, area
+    trafficEstimate = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_Traffic_Estimate/travel_times_2013_joined/2013_December/NYCTrafficEstimate20131218_Aggregated.csv", 1, 0, 2); // latitude, longitude, area
 
-    spatialFeatures sf;
-    int radius = 1000; // in meters
+    //spatialFeatures sf;
+    radius = 1000; // in meters
 
     std::cout <<  "radius : " << radius << std::endl;
     outputText << "Traffic Estimate within radius : " << radius << "\n";
@@ -379,8 +380,7 @@ int main()
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
 
 
-
-
+    /*
     // four square check ins using road distance
     std::list<std::tuple<std::string, Point> > fourSquareCheckinsWDay;
     fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude
@@ -427,6 +427,7 @@ int main()
 
     outputText << "\n***\n\n";
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
+    */
 
 
 
