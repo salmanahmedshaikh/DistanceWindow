@@ -27,6 +27,7 @@ bool spatialFeatures::withinRoadDistanceR(GeoPositionToNode map_geo_position, Co
 {
     spatialDistance sd;
     double spatialDist = sd.roadDistance(map_geo_position, ch_query, p1.GetX(), p1.GetY(), p2.GetX(), p2.GetY());
+    //std::cout << "P1: " << p1.GetX() << ", " << p1.GetY() << ", P2: " << p2.GetX() << ", " << p2.GetY() << std::endl;
     //std::cout << spatialDist << std::endl;
 
     if (spatialDist < r)

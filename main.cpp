@@ -270,6 +270,8 @@ int main()
 	//auto graph = simple_load_osm_car_routing_graph_from_pbf("data/NYC.osm.pbf");
 	//auto tail = invert_inverse_vector(graph.first_out);
 
+	//std::cout << "Road Map Loading Completed!" << std::endl;
+
 	// Build the shortest path index
 	// Use "graph.travel_time" for indexing w.r.t. travel time and "graph.geo_distance" for indexing w.r.t. road distance
 	/*
@@ -298,8 +300,13 @@ int main()
     //std::cout << roadDist.getDistance(map_geo_position, ch_query, 40.87105, -73.86361, 40.87332, -73.88967) << std::endl;
 
     std::list<Point> allGasStations;
+
     allGasStations = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYCGasStations_Google_Filtered.csv", 1, 2);
+    spatialFeatures sf;
+    int radius;
     */
+
+
 
     // Gas Stations evaluation using road distance
     /*
@@ -334,13 +341,14 @@ int main()
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
     */
 
-    // # of car parking slots using road distance
+
     /*
+    // # of car parking slots using road distance
     std::list<std::tuple<Point, double> > carParksWArea;
     carParksWArea = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_ParkingLotsCentroidsFinal.csv", 7, 6, 5); // latitude, longitude, area
 
     spatialFeatures sf;
-    int radius = 1500; // in meters
+    radius = 1500; // in meters
 
     std::cout <<  "radius : " << radius << std::endl;
     outputText << "Num cars parking within radius : " << radius << "\n";
@@ -391,16 +399,14 @@ int main()
     outputText << "\n***\n\n";
 
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
-    */
 
 
-    /*
+
     // four square check ins using road distance
     std::list<std::tuple<std::string, Point> > fourSquareCheckinsWDay;
-    fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv", 4, 5, 7); // latitude, longitude
+    fourSquareCheckinsWDay = io.readCSVFileWGroupingAttrib("/mnt/DataDrive/Data/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC_Feb10_16.csv", 4, 5, 7); // latitude, longitude
 
-    spatialFeatures sf;
-    int radius = 500; // in meters
+    radius = 1000; // in meters
 
     std::cout <<  "radius : " << radius << std::endl;
     outputText << "Four square check-ins within radius : " << radius << "\n";
@@ -441,21 +447,9 @@ int main()
 
     outputText << "\n***\n\n";
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
+
+
     */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
