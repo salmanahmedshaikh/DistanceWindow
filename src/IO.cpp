@@ -79,6 +79,86 @@ std::list<std::tuple<Point, double> > IO::readCSVFileWIndex(std::string fileName
 }
 
 
+std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> IO::buildTrajectoryFromFourSquareCSV(std::string fileName)
+{
+    // sample data NYC Foursquare check ins
+    //470,49bbd6c0f964a520f4531fe3,4bf58dd8d48988d127951735,Arts & Crafts Store,40.7198103755,-74.0025810321,-240,Tue,Apr,3,06:00:09 PM,06:00:09 PM,0,2012
+
+    // sample data Tokyo Foursquare check ins
+    //1541,4f0fd5a8e4b03856eeb6c8cb,4bf58dd8d48988d10c951735,Cosmetics Shop,35.7051010886,139.619590044,540,Tue,Apr,3,06:17:18 PM,0,2012
+
+    std::string line;
+    std::ifstream dataFile(fileName);
+    std::list<std::tuple<Point, double> > allData;
+    // <UserID <Month <Date, <Time, tuple<Point, venueCategory>>>>>
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> trajectoryMap;
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>>::iterator trajectoryMapIt;
+    //std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::tuple<Point, std::string, std::string>>>>::iterator trajectoryMapIt;
+
+    if (dataFile)
+    {
+        while (getline(dataFile, line))
+        {
+            std::vector<std::string> vec = parseCSVLine(line); // Get parsed vector string via parseCSVLine
+            Point p( std::atof(vec[4].c_str()), std::atof(vec[5].c_str()) );
+            int userID = std::atoi(vec[0].c_str());
+            int date = std::atoi(vec[9].c_str());
+            std::string venueCategory = vec[3];
+            std::string month = vec[8];
+            std::string time = vec[10].c_str();
+
+            //std::cout << userID << ", " << month << ", " << date << ", " << time << ", " << venueCategory << ", " << p.GetX() << ", " << p.GetY() << std::endl;
+
+            if( (trajectoryMapIt = trajectoryMap.find(userID)) != trajectoryMap.end() ) // If a userID found
+            {
+                std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>::iterator  trajectoryMapMonthIt;
+                std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>> trajectoryMapMonth = trajectoryMapIt->second;
+
+                if( (trajectoryMapMonthIt = trajectoryMapMonth.find(month)) != trajectoryMapMonth.end() ) // If a month found
+                {
+                    std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>::iterator  trajectoryMapDateIt;
+                    std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>> trajectoryMapDate = trajectoryMapMonthIt->second;
+
+                    if( (trajectoryMapDateIt = trajectoryMapDate.find(date)) != trajectoryMapDate.end() ) // If a date found
+                    {
+                        std::unordered_map< std::string, std::tuple<Point, std::string>>::iterator  trajectoryMapTimeIt;
+                        std::unordered_map< std::string, std::tuple<Point, std::string>> trajectoryMapTime = trajectoryMapDateIt->second;
+
+                        auto innerTuple = std::make_tuple (p, venueCategory);
+                        trajectoryMapTime[time] = innerTuple;
+                        trajectoryMap[userID][month][date] = trajectoryMapTime;
+                    }
+                    else
+                    {
+                        auto innerTuple = std::make_tuple (p, venueCategory);
+                        trajectoryMapDate[date][time] = innerTuple;
+                        trajectoryMap[userID][month] = trajectoryMapDate;
+                    }
+
+                }
+                else
+                {
+                    auto innerTuple = std::make_tuple (p, venueCategory);
+                    trajectoryMapMonth[month][date][time] = innerTuple;
+                    trajectoryMap[userID] = trajectoryMapMonth;
+                }
+
+            }
+            else // If not found then insert
+            {
+                auto innerTuple = std::make_tuple (p, venueCategory);
+                trajectoryMap[userID][month][date][time] = innerTuple;
+            }
+
+
+        }
+    }
+    dataFile.close();
+
+  return trajectoryMap;
+}
+
+
 void IO::filterFileViaSpecificAttribute(std::string sourceFile, std::string destFile, int latitudeIndex, int longitudeIndex, int attribIndex, std::string attribValue)
 {
     std::string line;

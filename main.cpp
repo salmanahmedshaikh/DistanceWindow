@@ -1,6 +1,6 @@
 #include "stdafx.h"
 #include "IO.h"
-//#include "spatialDistance.h"
+#include "commonFunctions.h"
 //#include "point.h"
 #include "spatialFeatures.h"
 #include "helperClass.h"
@@ -40,6 +40,7 @@ int main()
     // Optimal Site Selection Related
 
     IO io;
+    commonFunctions cf;
     //std::list<std::tuple<int, Point> > objList;
 
     //std::list<std::tuple<std::string, Point > > allGasStations;
@@ -82,6 +83,14 @@ int main()
     candidPoints.push_back(p9);
     candidPoints.push_back(p10);
     */
+
+
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> fourSquareTrajectory;
+    fourSquareTrajectory = io.buildTrajectoryFromFourSquareCSV("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv");
+    //fourSquareTrajectory = io.buildTrajectoryFromFourSquareCSV("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_TKY.csv");
+    std::string venueName = "Convenience Store";
+    //std::string venueName = "Clothing Store";
+    cf.checkTrajectoryForVenue(fourSquareTrajectory, venueName, "output/trajectoryVenueName_NYC.txt");
 
 
 
@@ -258,8 +267,8 @@ int main()
 
     // Preparing Road Distance Environment (Index)
     // Load a car routing graph from OpenStreetMap-based data
-	auto graph = simple_load_osm_car_routing_graph_from_pbf("data/NYC.osm.pbf");
-	auto tail = invert_inverse_vector(graph.first_out);
+	//auto graph = simple_load_osm_car_routing_graph_from_pbf("data/NYC.osm.pbf");
+	//auto tail = invert_inverse_vector(graph.first_out);
 
 	// Build the shortest path index
 	// Use "graph.travel_time" for indexing w.r.t. travel time and "graph.geo_distance" for indexing w.r.t. road distance
@@ -271,12 +280,15 @@ int main()
 	);
 	*/
 
+	/*
 	auto ch = ContractionHierarchy::build(
 		graph.node_count(),
 		tail, graph.head,
 		graph.geo_distance
 	);
+	*/
 
+	/*
 	// Build the index to quickly map latitudes and longitudes
 	GeoPositionToNode map_geo_position(graph.latitude, graph.longitude);
 
@@ -287,6 +299,7 @@ int main()
 
     std::list<Point> allGasStations;
     allGasStations = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYCGasStations_Google_Filtered.csv", 1, 2);
+    */
 
     // Gas Stations evaluation using road distance
     /*
@@ -322,7 +335,7 @@ int main()
     */
 
     // # of car parking slots using road distance
-
+    /*
     std::list<std::tuple<Point, double> > carParksWArea;
     carParksWArea = io.readCSVFileWIndex("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/NYC_ParkingLotsCentroidsFinal.csv", 7, 6, 5); // latitude, longitude, area
 
@@ -378,6 +391,7 @@ int main()
     outputText << "\n***\n\n";
 
     io.writeTextToFile("output/NYC_GasStations_Google_RoadDistance.txt", outputText.str() );
+    */
 
 
     /*
