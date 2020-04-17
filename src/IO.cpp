@@ -79,7 +79,7 @@ std::list<std::tuple<Point, double> > IO::readCSVFileWIndex(std::string fileName
 }
 
 
-std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> IO::buildTrajectoryFromFourSquareCSV(std::string fileName)
+std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>>> IO::buildTrajectoryFromFourSquareCSV(std::string fileName)
 {
     // sample data NYC Foursquare check ins
     //470,49bbd6c0f964a520f4531fe3,4bf58dd8d48988d127951735,Arts & Crafts Store,40.7198103755,-74.0025810321,-240,Tue,Apr,3,06:00:09 PM,06:00:09 PM,0,2012
@@ -91,8 +91,8 @@ std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < in
     std::ifstream dataFile(fileName);
     std::list<std::tuple<Point, double> > allData;
     // <UserID <Month <Date, <Time, tuple<Point, venueCategory>>>>>
-    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> trajectoryMap;
-    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>>::iterator trajectoryMapIt;
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>>> trajectoryMap;
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>>>::iterator trajectoryMapIt;
     //std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::tuple<Point, std::string, std::string>>>>::iterator trajectoryMapIt;
 
     if (dataFile)
@@ -111,18 +111,18 @@ std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < in
 
             if( (trajectoryMapIt = trajectoryMap.find(userID)) != trajectoryMap.end() ) // If a userID found
             {
-                std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>::iterator  trajectoryMapMonthIt;
-                std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>> trajectoryMapMonth = trajectoryMapIt->second;
+                std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>>::iterator  trajectoryMapMonthIt;
+                std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>> trajectoryMapMonth = trajectoryMapIt->second;
 
                 if( (trajectoryMapMonthIt = trajectoryMapMonth.find(month)) != trajectoryMapMonth.end() ) // If a month found
                 {
-                    std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>::iterator  trajectoryMapDateIt;
-                    std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>> trajectoryMapDate = trajectoryMapMonthIt->second;
+                    std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>::iterator  trajectoryMapDateIt;
+                    std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>> trajectoryMapDate = trajectoryMapMonthIt->second;
 
                     if( (trajectoryMapDateIt = trajectoryMapDate.find(date)) != trajectoryMapDate.end() ) // If a date found
                     {
-                        std::unordered_map< std::string, std::tuple<Point, std::string>>::iterator  trajectoryMapTimeIt;
-                        std::unordered_map< std::string, std::tuple<Point, std::string>> trajectoryMapTime = trajectoryMapDateIt->second;
+                        std::map< std::string, std::tuple<Point, std::string>>::iterator  trajectoryMapTimeIt;
+                        std::map< std::string, std::tuple<Point, std::string>> trajectoryMapTime = trajectoryMapDateIt->second;
 
                         auto innerTuple = std::make_tuple (p, venueCategory);
                         trajectoryMapTime[time] = innerTuple;

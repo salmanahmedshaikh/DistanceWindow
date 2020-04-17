@@ -85,12 +85,12 @@ int main()
     */
 
 
-    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::unordered_map< std::string, std::tuple<Point, std::string>>>>> fourSquareTrajectory;
+    std::unordered_map<int, std::unordered_map<std::string,  std::unordered_map < int, std::map< std::string, std::tuple<Point, std::string>>>>> fourSquareTrajectory;
     fourSquareTrajectory = io.buildTrajectoryFromFourSquareCSV("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_NYC.csv");
     //fourSquareTrajectory = io.buildTrajectoryFromFourSquareCSV("/media/salman/DATA/Datasets/2D_Spatial/NYC_Data/FourSquareCheckIns/dataset_TSMC2014_TKY.csv");
     std::string venueName = "Convenience Store";
     //std::string venueName = "Clothing Store";
-    cf.checkTrajectoryForVenue(fourSquareTrajectory, venueName, "output/trajectoryVenueName_NYC.txt");
+    cf.checkTrajectoryForVenue(fourSquareTrajectory, venueName, "output/trajectoryVenueName_NYC_map.txt");
 
 
 
