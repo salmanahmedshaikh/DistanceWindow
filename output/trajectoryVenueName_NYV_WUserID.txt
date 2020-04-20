@@ -1,0 +1,5762 @@
+User ID: 849, Month: Feb, Date: 6
+11:13:12 PM, Scenic Lookout
+08:08:40 PM, Building
+07:26:40 PM, Convenience Store
+11:43:18 PM, Asian Restaurant
+11:43:08 PM, Neighborhood
+02:49:58 PM, City
+02:50:09 PM, City
+02:13:02 PM, Bakery
+02:50:31 PM, College Academic Building
+
+
+User ID: 911, Month: Jan, Date: 8
+08:11:48 PM, Food & Drink Shop
+07:59:58 PM, Convenience Store
+
+
+User ID: 1046, Month: Nov, Date: 10
+11:02:56 PM, Bakery
+01:48:53 AM, Convenience Store
+01:48:35 AM, Bar
+01:27:32 AM, Other Great Outdoors
+
+
+User ID: 1046, Month: Nov, Date: 9
+06:49:45 PM, Bus Station
+01:36:40 PM, Steakhouse
+01:31:48 PM, Event Space
+01:27:39 PM, Government Building
+01:00:32 PM, Convenience Store
+01:01:03 PM, Building
+01:01:57 PM, Drugstore / Pharmacy
+01:03:28 PM, City
+
+
+User ID: 437, Month: Oct, Date: 31
+07:08:12 PM, Seafood Restaurant
+04:17:01 AM, Convenience Store
+
+
+User ID: 670, Month: Nov, Date: 18
+08:29:15 AM, Home (private)
+08:29:03 AM, Home (private)
+08:28:10 AM, Home (private)
+08:28:02 AM, Home (private)
+12:05:31 AM, Automotive Shop
+12:05:00 AM, River
+12:05:15 AM, Gas Station / Garage
+12:05:24 AM, Convenience Store
+12:05:11 AM, Plaza
+
+
+User ID: 68, Month: Jan, Date: 2
+02:49:45 AM, Food & Drink Shop
+03:16:05 PM, Bakery
+12:39:50 PM, Park
+10:27:06 PM, Gym / Fitness Center
+02:47:45 AM, Residential Building (Apartment / Condo)
+03:01:15 PM, Train Station
+10:09:53 PM, Subway
+05:42:18 PM, Coffee Shop
+06:20:39 PM, Neighborhood
+06:36:57 PM, Convenience Store
+02:46:52 AM, Park
+08:15:26 PM, Cuban Restaurant
+
+
+User ID: 517, Month: Nov, Date: 20
+02:04:40 PM, Sandwich Place
+12:27:27 PM, Bar
+07:44:12 AM, Drugstore / Pharmacy
+08:09:22 AM, Gym / Fitness Center
+09:33:25 AM, Record Shop
+08:31:49 AM, Convenience Store
+08:56:57 AM, Library
+
+
+User ID: 1043, Month: Feb, Date: 10
+09:16:42 PM, Convenience Store
+09:16:23 PM, Bank
+
+
+User ID: 589, Month: Feb, Date: 13
+08:00:20 PM, Coffee Shop
+12:41:33 AM, Convenience Store
+12:26:11 AM, Coffee Shop
+04:31:26 AM, Home (private)
+01:45:45 PM, Home (private)
+
+
+User ID: 589, Month: Aug, Date: 5
+11:17:12 PM, Convenience Store
+10:03:10 PM, Pool
+02:57:10 PM, Bagel Shop
+
+
+User ID: 589, Month: Aug, Date: 13
+10:41:30 PM, Park
+07:13:04 PM, Convenience Store
+06:24:44 PM, Drugstore / Pharmacy
+02:11:49 PM, Other Great Outdoors
+
+
+User ID: 589, Month: Sep, Date: 5
+09:13:14 PM, Convenience Store
+12:03:47 PM, Coffee Shop
+
+
+User ID: 589, Month: Dec, Date: 17
+05:52:36 PM, Bank
+06:19:51 PM, Pet Store
+04:57:41 PM, Department Store
+02:29:35 PM, Coffee Shop
+04:17:20 PM, Home (private)
+03:21:32 AM, Steakhouse
+02:30:02 PM, Convenience Store
+
+
+User ID: 589, Month: Dec, Date: 14
+09:20:40 PM, Convenience Store
+09:05:34 PM, Coffee Shop
+
+
+User ID: 589, Month: Dec, Date: 10
+11:33:17 PM, Convenience Store
+03:50:55 PM, Coffee Shop
+
+
+User ID: 589, Month: Oct, Date: 8
+09:38:55 PM, Coffee Shop
+12:26:40 PM, Home (private)
+11:12:39 AM, Convenience Store
+
+
+User ID: 589, Month: Oct, Date: 24
+05:34:03 PM, Convenience Store
+10:23:09 AM, Coffee Shop
+
+
+User ID: 589, Month: Oct, Date: 3
+06:58:54 PM, Chinese Restaurant
+06:43:07 PM, Convenience Store
+
+
+User ID: 743, Month: Jan, Date: 31
+09:14:31 PM, Gym / Fitness Center
+06:16:59 AM, Convenience Store
+
+
+User ID: 154, Month: Feb, Date: 5
+10:43:30 PM, Convenience Store
+10:29:54 PM, Bank
+10:30:57 PM, Miscellaneous Shop
+09:18:10 PM, Community College
+
+
+User ID: 154, Month: Nov, Date: 23
+10:07:35 PM, Medical Center
+03:53:06 AM, Subway
+10:25:30 AM, Department Store
+02:27:29 AM, Convenience Store
+
+
+User ID: 154, Month: Jul, Date: 10
+11:07:21 PM, Home (private)
+11:01:43 PM, Convenience Store
+10:04:47 PM, Bookstore
+
+
+User ID: 479, Month: Oct, Date: 30
+09:06:59 PM, Department Store
+02:06:13 PM, Convenience Store
+
+
+User ID: 479, Month: Oct, Date: 27
+02:17:31 AM, Home (private)
+02:14:46 AM, Bar
+02:15:22 AM, BBQ Joint
+08:56:17 PM, Convenience Store
+02:15:59 AM, Convenience Store
+02:16:30 AM, Flower Shop
+
+
+User ID: 479, Month: Oct, Date: 27
+02:17:31 AM, Home (private)
+02:14:46 AM, Bar
+02:15:22 AM, BBQ Joint
+08:56:17 PM, Convenience Store
+02:15:59 AM, Convenience Store
+02:16:30 AM, Flower Shop
+
+
+User ID: 479, Month: Oct, Date: 23
+09:48:13 PM, Caf�
+09:24:34 PM, Office
+09:48:04 PM, Bar
+09:20:53 PM, Taco Place
+09:15:25 PM, Bar
+09:11:31 PM, Gym / Fitness Center
+12:14:00 PM, Medical Center
+12:07:03 PM, Bar
+11:59:17 AM, Road
+09:29:55 PM, Drugstore / Pharmacy
+11:53:41 AM, Neighborhood
+09:10:05 PM, Deli / Bodega
+11:58:59 AM, Housing Development
+12:05:02 PM, Convenience Store
+11:53:24 AM, Residential Building (Apartment / Condo)
+12:16:49 PM, Synagogue
+11:52:47 AM, Bus Station
+09:12:35 PM, Bagel Shop
+12:13:24 PM, Chinese Restaurant
+11:53:04 AM, Bar
+12:14:21 PM, Bar
+08:50:44 PM, Movie Theater
+12:28:53 PM, Coffee Shop
+12:48:34 PM, College Academic Building
+08:50:35 PM, Bridge
+08:50:55 PM, Other Great Outdoors
+08:55:56 PM, Residential Building (Apartment / Condo)
+09:12:00 PM, Food & Drink Shop
+08:56:16 PM, Bar
+08:51:43 PM, Parking
+08:57:24 PM, Building
+09:01:28 PM, Medical Center
+
+
+User ID: 765, Month: Nov, Date: 6
+06:36:15 PM, College Academic Building
+01:42:09 PM, Convenience Store
+01:42:39 PM, Neighborhood
+06:36:38 PM, University
+01:42:20 PM, Mobile Phone Shop
+06:36:24 PM, Government Building
+01:42:44 PM, Residential Building (Apartment / Condo)
+
+
+User ID: 765, Month: Oct, Date: 24
+03:32:13 PM, College Academic Building
+03:32:09 PM, College Academic Building
+03:32:27 PM, University
+12:50:19 PM, Video Game Store
+12:50:31 PM, Residential Building (Apartment / Condo)
+12:50:14 PM, Convenience Store
+12:50:26 PM, Neighborhood
+
+
+User ID: 765, Month: Oct, Date: 22
+02:29:59 PM, College Academic Building
+02:29:50 PM, Government Building
+12:48:17 PM, Convenience Store
+12:48:26 PM, Video Game Store
+12:48:37 PM, Residential Building (Apartment / Condo)
+12:48:42 PM, Neighborhood
+
+
+User ID: 765, Month: Oct, Date: 25
+12:55:27 PM, Clothing Store
+12:55:44 PM, Video Game Store
+12:55:18 PM, Convenience Store
+12:52:56 AM, Drugstore / Pharmacy
+12:53:01 AM, School
+12:53:11 AM, Neighborhood
+12:53:05 AM, Deli / Bodega
+
+
+User ID: 765, Month: Oct, Date: 19
+12:53:26 PM, Convenience Store
+01:32:37 AM, Residential Building (Apartment / Condo)
+
+
+User ID: 765, Month: Oct, Date: 8
+12:48:11 PM, Residential Building (Apartment / Condo)
+12:48:04 PM, Neighborhood
+12:48:00 PM, Video Game Store
+12:47:54 PM, Convenience Store
+
+
+User ID: 765, Month: Oct, Date: 23
+06:38:12 PM, University
+12:53:02 PM, Residential Building (Apartment / Condo)
+12:53:11 PM, Neighborhood
+12:53:28 PM, Convenience Store
+12:53:19 PM, Video Game Store
+
+
+User ID: 765, Month: Oct, Date: 12
+02:09:08 PM, Residential Building (Apartment / Condo)
+02:08:58 PM, Neighborhood
+02:08:36 PM, Convenience Store
+
+
+User ID: 765, Month: Oct, Date: 16
+01:00:00 PM, Video Game Store
+12:59:54 PM, Convenience Store
+01:00:07 PM, Residential Building (Apartment / Condo)
+12:59:48 PM, Neighborhood
+
+
+User ID: 765, Month: Jul, Date: 30
+08:58:45 PM, Electronics Store
+08:58:25 PM, Miscellaneous Shop
+12:51:59 PM, Neighborhood
+12:50:51 PM, Convenience Store
+03:04:23 AM, School
+02:39:18 PM, College Academic Building
+03:04:49 AM, Neighborhood
+02:39:29 PM, University
+01:01:41 AM, Neighborhood
+03:05:02 AM, Residential Building (Apartment / Condo)
+
+
+User ID: 765, Month: Jul, Date: 29
+10:06:18 PM, Neighborhood
+08:41:54 PM, Neighborhood
+10:06:22 PM, Residential Building (Apartment / Condo)
+08:42:52 PM, School
+08:43:00 PM, Bank
+10:05:55 PM, Convenience Store
+
+
+User ID: 765, Month: Jul, Date: 12
+10:45:29 PM, Video Game Store
+10:00:29 PM, Drugstore / Pharmacy
+09:52:16 PM, Electronics Store
+10:44:54 PM, Drugstore / Pharmacy
+01:58:34 PM, University
+01:58:13 PM, Coffee Shop
+10:01:18 PM, Food & Drink Shop
+10:38:29 PM, Donut Shop
+10:40:15 PM, Electronics Store
+10:43:05 PM, Convenience Store
+10:45:04 PM, Neighborhood
+
+
+User ID: 765, Month: Aug, Date: 14
+09:42:09 PM, Residential Building (Apartment / Condo)
+02:20:59 PM, University
+12:47:32 PM, Convenience Store
+02:20:53 PM, Coffee Shop
+12:47:39 PM, Neighborhood
+09:41:55 PM, Drugstore / Pharmacy
+12:47:47 PM, Residential Building (Apartment / Condo)
+02:20:36 PM, Government Building
+
+
+User ID: 765, Month: Sep, Date: 14
+12:45:51 PM, Neighborhood
+12:45:24 PM, Convenience Store
+
+
+User ID: 765, Month: Sep, Date: 15
+04:10:44 PM, Video Game Store
+01:44:47 AM, School
+01:44:58 AM, Convenience Store
+01:45:14 AM, Residential Building (Apartment / Condo)
+01:45:09 AM, Neighborhood
+
+
+User ID: 765, Month: Sep, Date: 5
+10:27:53 PM, Drugstore / Pharmacy
+12:51:59 PM, Building
+12:50:28 PM, Music Venue
+12:01:38 PM, Convenience Store
+12:48:40 PM, Drugstore / Pharmacy
+12:49:13 PM, Library
+12:48:46 PM, Neighborhood
+
+
+User ID: 546, Month: Jul, Date: 4
+11:14:43 PM, Home (private)
+10:17:52 PM, Home (private)
+01:47:47 AM, Home (private)
+04:45:44 PM, Convenience Store
+01:52:30 PM, Electronics Store
+10:57:34 PM, Food & Drink Shop
+04:53:36 PM, Electronics Store
+
+
+User ID: 546, Month: Jul, Date: 3
+09:07:09 PM, Electronics Store
+05:44:56 PM, Hot Dog Joint
+02:17:27 AM, Convenience Store
+02:59:13 AM, Fast Food Restaurant
+02:22:19 AM, Fast Food Restaurant
+01:35:36 PM, Electronics Store
+01:35:23 PM, Fast Food Restaurant
+
+
+User ID: 546, Month: Jan, Date: 17
+11:26:33 PM, Convenience Store
+11:26:32 PM, Convenience Store
+11:14:10 PM, Fast Food Restaurant
+05:58:43 PM, Office
+10:16:15 PM, Clothing Store
+06:43:12 PM, Neighborhood
+07:20:21 PM, Latin American Restaurant
+
+
+User ID: 546, Month: Jan, Date: 17
+11:26:33 PM, Convenience Store
+11:26:32 PM, Convenience Store
+11:14:10 PM, Fast Food Restaurant
+05:58:43 PM, Office
+10:16:15 PM, Clothing Store
+06:43:12 PM, Neighborhood
+07:20:21 PM, Latin American Restaurant
+
+
+User ID: 546, Month: Jan, Date: 30
+05:15:30 AM, Food & Drink Shop
+05:08:44 AM, Convenience Store
+
+
+User ID: 546, Month: Jan, Date: 9
+11:19:10 PM, Ice Cream Shop
+09:30:41 PM, Electronics Store
+09:18:59 PM, Convenience Store
+02:34:59 PM, Electronics Store
+
+
+User ID: 209, Month: Jan, Date: 29
+11:33:20 PM, Home (private)
+09:57:24 PM, Ice Cream Shop
+12:59:24 PM, Convenience Store
+11:14:50 AM, Medical Center
+12:57:11 PM, Road
+09:52:38 PM, Outdoors & Recreation
+12:59:37 PM, Movie Theater
+01:09:15 PM, Coffee Shop
+11:16:39 AM, Home (private)
+09:54:52 PM, Convenience Store
+01:20:01 PM, Medical Center
+09:54:08 PM, Movie Theater
+
+
+User ID: 209, Month: Jan, Date: 29
+11:33:20 PM, Home (private)
+09:57:24 PM, Ice Cream Shop
+12:59:24 PM, Convenience Store
+11:14:50 AM, Medical Center
+12:57:11 PM, Road
+09:52:38 PM, Outdoors & Recreation
+12:59:37 PM, Movie Theater
+01:09:15 PM, Coffee Shop
+11:16:39 AM, Home (private)
+09:54:52 PM, Convenience Store
+01:20:01 PM, Medical Center
+09:54:08 PM, Movie Theater
+
+
+User ID: 209, Month: Jan, Date: 31
+01:20:10 PM, Coffee Shop
+11:32:34 AM, Other Great Outdoors
+12:59:28 PM, Medical Center
+11:33:14 AM, Home (private)
+12:59:58 PM, Convenience Store
+
+
+User ID: 137, Month: May, Date: 29
+10:40:46 PM, Subway
+01:26:57 PM, Office
+11:48:54 AM, Convenience Store
+
+
+User ID: 934, Month: Dec, Date: 23
+06:12:55 AM, Hotel
+02:59:49 AM, Convenience Store
+
+
+User ID: 262, Month: Feb, Date: 1
+10:23:43 PM, Medical Center
+10:18:57 PM, Road
+10:18:47 PM, Gas Station / Garage
+12:05:05 AM, Convenience Store
+
+
+User ID: 262, Month: Nov, Date: 21
+11:52:31 PM, Campground
+11:47:04 PM, Neighborhood
+11:52:16 PM, Bus Station
+02:12:59 PM, Building
+11:51:44 PM, Subway
+02:12:47 PM, Bank
+11:42:37 PM, Convenience Store
+
+
+User ID: 262, Month: Nov, Date: 19
+10:45:28 PM, Home (private)
+10:15:59 PM, Neighborhood
+10:15:43 PM, Convenience Store
+
+
+User ID: 262, Month: Nov, Date: 10
+12:52:28 AM, Convenience Store
+12:52:08 AM, Caribbean Restaurant
+
+
+User ID: 262, Month: Nov, Date: 15
+11:06:07 PM, Convenience Store
+09:48:39 PM, Subway
+
+
+User ID: 262, Month: Dec, Date: 16
+07:05:01 PM, Convenience Store
+04:13:05 AM, Caribbean Restaurant
+
+
+User ID: 262, Month: Dec, Date: 15
+06:43:01 PM, Convenience Store
+06:42:49 PM, Caribbean Restaurant
+12:49:03 AM, Home (private)
+
+
+User ID: 262, Month: Dec, Date: 14
+10:27:22 PM, Medical Center
+10:19:17 PM, Convenience Store
+01:17:02 PM, Building
+01:16:38 PM, Bank
+
+
+User ID: 262, Month: Dec, Date: 5
+10:10:10 PM, Convenience Store
+10:11:45 PM, Office
+10:10:28 PM, Medical Center
+12:57:17 PM, Building
+
+
+User ID: 262, Month: Dec, Date: 31
+12:43:32 PM, Building
+11:13:58 PM, Laundry Service
+11:18:19 PM, Bus Station
+12:42:22 PM, Bank
+11:13:37 PM, Convenience Store
+
+
+User ID: 262, Month: Oct, Date: 27
+02:37:12 PM, Convenience Store
+12:12:26 AM, Mall
+02:36:18 PM, Neighborhood
+12:12:53 AM, Mall
+02:36:51 PM, Caribbean Restaurant
+
+
+User ID: 262, Month: Oct, Date: 23
+09:21:03 PM, Medical Center
+09:19:07 PM, Neighborhood
+12:37:24 AM, Neighborhood
+12:37:55 AM, Caribbean Restaurant
+01:00:48 PM, Bank
+09:22:48 PM, Convenience Store
+01:00:30 PM, Building
+
+
+User ID: 262, Month: Oct, Date: 24
+09:23:37 PM, Medical Center
+09:23:16 PM, Convenience Store
+09:21:04 PM, Caribbean Restaurant
+09:20:43 PM, Neighborhood
+
+
+User ID: 262, Month: Oct, Date: 25
+10:15:41 PM, Subway
+10:15:22 PM, Bus Station
+09:29:04 PM, Train Station
+09:28:42 PM, Medical Center
+01:20:20 PM, Bank
+03:00:40 PM, Building
+09:20:31 PM, Neighborhood
+09:21:33 PM, Convenience Store
+
+
+User ID: 262, Month: Oct, Date: 26
+11:43:13 PM, Campground
+11:42:09 PM, Bus Station
+11:41:37 PM, Subway
+11:42:35 PM, Subway
+09:28:21 PM, Convenience Store
+12:19:26 PM, Bank
+09:25:40 PM, Train Station
+09:26:20 PM, Medical Center
+12:19:47 PM, Building
+
+
+User ID: 262, Month: Jan, Date: 28
+11:57:39 PM, Convenience Store
+12:49:10 PM, Building
+11:52:58 PM, Neighborhood
+10:30:12 PM, Community College
+11:53:17 PM, Train Station
+
+
+User ID: 262, Month: Jan, Date: 5
+11:00:32 PM, Caribbean Restaurant
+10:59:27 PM, Train Station
+10:57:19 PM, Gas Station / Garage
+04:50:12 AM, Laundry Service
+04:50:25 AM, Caribbean Restaurant
+04:50:35 AM, Home (private)
+10:57:06 PM, Convenience Store
+
+
+User ID: 262, Month: Jan, Date: 11
+11:44:50 PM, Bus Station
+10:23:36 PM, Caribbean Restaurant
+10:20:45 PM, Medical Center
+01:00:44 PM, Building
+10:15:57 PM, Convenience Store
+12:55:45 PM, Bank
+10:20:21 PM, Office
+
+
+User ID: 262, Month: Aug, Date: 16
+10:50:04 PM, Neighborhood
+10:43:20 PM, Convenience Store
+09:21:30 PM, Gas Station / Garage
+09:22:17 PM, Outdoors & Recreation
+10:42:40 PM, Caribbean Restaurant
+09:21:43 PM, Gas Station / Garage
+10:41:56 PM, Medical Center
+
+
+User ID: 262, Month: Jun, Date: 16
+10:56:41 PM, Convenience Store
+09:36:00 PM, Caribbean Restaurant
+09:35:28 PM, Building
+
+
+User ID: 845, Month: Jun, Date: 18
+10:13:17 AM, Coffee Shop
+09:53:04 AM, Home (private)
+09:53:34 AM, Neighborhood
+10:04:53 AM, Park
+10:10:17 AM, Convenience Store
+
+
+User ID: 845, Month: Jun, Date: 5
+10:22:15 AM, Road
+01:06:40 PM, Miscellaneous Shop
+09:56:54 AM, Home (private)
+10:16:41 AM, Neighborhood
+10:17:55 AM, Drugstore / Pharmacy
+10:51:37 AM, Convenience Store
+10:19:55 AM, Office
+
+
+User ID: 845, Month: Jul, Date: 9
+11:06:39 PM, Convenience Store
+11:10:40 AM, Office
+11:10:14 AM, Miscellaneous Shop
+09:28:45 AM, Home (private)
+
+
+User ID: 926, Month: Jan, Date: 13
+09:52:14 PM, Miscellaneous Shop
+07:07:43 PM, Seafood Restaurant
+05:26:14 AM, Convenience Store
+01:51:57 AM, Sushi Restaurant
+04:37:23 PM, Bagel Shop
+
+
+User ID: 596, Month: Jan, Date: 1
+05:21:14 PM, Arts & Crafts Store
+05:13:51 PM, Caf�
+06:53:09 PM, Home (private)
+01:02:29 AM, Home (private)
+05:16:03 AM, Convenience Store
+06:02:06 AM, Home (private)
+02:13:14 PM, Arts & Crafts Store
+
+
+User ID: 596, Month: Jun, Date: 14
+06:21:18 AM, Home (private)
+05:51:40 AM, Department Store
+05:34:25 AM, Convenience Store
+
+
+User ID: 1050, Month: Oct, Date: 28
+02:56:48 PM, Other Great Outdoors
+02:51:46 PM, Other Great Outdoors
+02:47:50 PM, Convenience Store
+
+
+User ID: 1050, Month: Aug, Date: 14
+10:10:34 PM, Home (private)
+10:00:59 PM, Housing Development
+09:53:27 PM, Convenience Store
+
+
+User ID: 1050, Month: May, Date: 3
+09:44:21 PM, Building
+09:43:15 PM, Convenience Store
+07:36:48 PM, Office
+09:42:11 PM, Drugstore / Pharmacy
+09:45:35 PM, Home (private)
+08:39:05 PM, Subway
+09:40:28 PM, Neighborhood
+
+
+User ID: 472, Month: May, Date: 23
+10:20:37 PM, Bus Station
+08:46:08 PM, Road
+06:11:07 PM, Convenience Store
+04:53:25 PM, Bar
+
+
+User ID: 773, Month: May, Date: 15
+11:56:28 PM, Bridge
+11:38:03 PM, Other Great Outdoors
+10:25:49 PM, Convenience Store
+09:44:00 PM, Medical Center
+09:05:44 PM, Other Great Outdoors
+09:24:49 AM, Gym / Fitness Center
+10:29:14 AM, Office
+08:26:27 PM, Coffee Shop
+06:13:17 PM, Recycling Facility
+
+
+User ID: 923, Month: May, Date: 22
+01:40:35 AM, Convenience Store
+01:06:52 AM, Miscellaneous Shop
+01:51:22 AM, Home (private)
+12:55:29 AM, Bridge
+
+
+User ID: 664, Month: Jun, Date: 10
+09:28:38 AM, Residential Building (Apartment / Condo)
+03:24:11 AM, Subway
+03:14:56 AM, Subway
+12:07:02 AM, Plaza
+11:01:44 PM, Building
+09:27:29 AM, Home (private)
+01:31:50 AM, Park
+02:19:33 AM, Convenience Store
+02:20:09 AM, Middle Eastern Restaurant
+
+
+User ID: 201, Month: May, Date: 17
+04:35:53 PM, Clothing Store
+12:21:13 PM, Convenience Store
+
+
+User ID: 920, Month: Aug, Date: 9
+06:29:43 PM, Fried Chicken Joint
+06:29:18 PM, Convenience Store
+
+
+User ID: 920, Month: Aug, Date: 13
+07:53:46 PM, Convenience Store
+03:38:16 PM, Road
+02:15:21 PM, Scenic Lookout
+12:02:39 AM, Mall
+02:16:10 PM, Road
+02:20:20 PM, Road
+
+
+User ID: 920, Month: May, Date: 18
+02:02:09 PM, Road
+02:03:55 PM, Road
+02:19:08 PM, Convenience Store
+02:07:28 PM, Road
+02:11:06 PM, Road
+
+
+User ID: 920, Month: Jun, Date: 12
+02:46:20 PM, Convenience Store
+02:26:54 PM, Road
+01:38:48 PM, Road
+01:42:36 PM, Road
+02:26:12 PM, Road
+01:45:48 PM, Road
+01:50:36 PM, Road
+
+
+User ID: 795, Month: Sep, Date: 13
+01:18:50 PM, Bus Station
+01:18:23 PM, Bus Station
+01:22:21 PM, Community College
+12:47:38 PM, Subway
+12:48:09 PM, Neighborhood
+01:13:58 PM, Bus Station
+12:48:54 PM, Convenience Store
+01:13:26 PM, Bus Station
+
+
+User ID: 795, Month: Aug, Date: 17
+07:35:05 PM, Bus Station
+05:44:10 PM, Bus Station
+06:52:11 PM, Bus Station
+07:37:32 PM, Home (private)
+07:22:53 PM, Convenience Store
+07:34:33 PM, Bus Station
+
+
+User ID: 98, Month: Jun, Date: 30
+10:51:36 PM, Library
+10:50:32 PM, Convenience Store
+09:09:54 PM, Flower Shop
+09:22:19 PM, Bar
+10:11:55 PM, Post Office
+09:23:02 PM, American Restaurant
+
+
+User ID: 872, Month: Nov, Date: 9
+10:24:33 PM, Office
+05:47:24 PM, Deli / Bodega
+05:48:39 PM, Bakery
+05:49:59 PM, Convenience Store
+08:34:58 PM, Gym / Fitness Center
+
+
+User ID: 872, Month: Nov, Date: 24
+09:43:29 PM, Bank
+08:36:47 PM, Deli / Bodega
+06:25:50 AM, Convenience Store
+11:10:32 PM, Subway
+06:26:35 AM, Residential Building (Apartment / Condo)
+11:54:37 PM, Movie Theater
+06:41:21 AM, Deli / Bodega
+11:59:28 PM, Bus Station
+06:56:05 AM, Indian Restaurant
+
+
+User ID: 872, Month: Nov, Date: 25
+11:50:23 PM, Subway
+08:03:56 PM, Bakery
+07:59:16 PM, Food & Drink Shop
+02:10:38 AM, Coffee Shop
+01:28:59 AM, Miscellaneous Shop
+12:53:46 AM, Diner
+05:34:08 AM, Bar
+05:35:43 AM, Convenience Store
+11:43:45 PM, Subway
+11:01:01 PM, Pizza Place
+12:00:02 AM, Bus Station
+02:20:01 AM, Office
+04:22:33 AM, Diner
+10:54:58 PM, Food & Drink Shop
+05:58:39 AM, Neighborhood
+06:00:42 AM, Miscellaneous Shop
+
+
+User ID: 872, Month: Nov, Date: 16
+06:59:44 PM, College Academic Building
+12:46:09 AM, Convenience Store
+
+
+User ID: 872, Month: Nov, Date: 21
+02:58:08 PM, Food & Drink Shop
+02:56:34 PM, Miscellaneous Shop
+02:53:35 PM, Laundry Service
+12:18:02 AM, Food & Drink Shop
+03:13:05 AM, Food & Drink Shop
+06:01:15 AM, Deli / Bodega
+03:18:47 AM, Convenience Store
+
+
+User ID: 872, Month: Nov, Date: 26
+09:48:25 PM, Park
+04:14:03 AM, Miscellaneous Shop
+03:26:58 PM, Bank
+06:13:26 AM, Convenience Store
+06:02:11 PM, Gym / Fitness Center
+06:58:13 AM, Deli / Bodega
+
+
+User ID: 872, Month: Dec, Date: 19
+07:53:15 PM, Bakery
+03:30:58 AM, Food & Drink Shop
+03:10:45 AM, Food & Drink Shop
+07:51:34 PM, Deli / Bodega
+08:35:49 PM, Bagel Shop
+08:33:33 PM, Drugstore / Pharmacy
+02:27:55 AM, Road
+03:40:21 AM, Bus Station
+08:11:59 AM, Bar
+02:28:22 AM, Subway
+08:43:40 AM, Convenience Store
+08:44:14 AM, Residential Building (Apartment / Condo)
+07:38:34 PM, Food & Drink Shop
+
+
+User ID: 872, Month: Dec, Date: 18
+09:56:26 PM, Sculpture Garden
+04:21:43 PM, Food & Drink Shop
+07:42:03 AM, Residential Building (Apartment / Condo)
+08:10:44 AM, Bar
+07:40:46 AM, Convenience Store
+11:37:16 PM, Drugstore / Pharmacy
+08:03:33 AM, Bank
+04:28:43 PM, Deli / Bodega
+03:17:49 AM, Subway
+08:11:37 AM, Deli / Bodega
+03:17:19 AM, Park
+07:58:31 AM, Bar
+07:53:34 AM, Bar
+08:04:57 AM, School
+
+
+User ID: 872, Month: Dec, Date: 15
+06:21:10 PM, Clothing Store
+06:05:46 PM, Food & Drink Shop
+07:18:17 AM, School
+07:16:20 AM, Residential Building (Apartment / Condo)
+07:10:42 AM, Convenience Store
+07:43:42 AM, Bar
+07:16:46 AM, Bank
+02:39:57 AM, Subway
+12:36:37 AM, American Restaurant
+12:52:47 AM, Theater
+03:02:57 AM, Subway
+12:34:39 AM, Plaza
+06:39:05 PM, Food & Drink Shop
+12:51:53 AM, Theater
+02:35:32 AM, Brazilian Restaurant
+03:04:24 AM, Deli / Bodega
+03:11:45 AM, Deli / Bodega
+07:38:42 AM, Bar
+03:17:20 AM, Food & Drink Shop
+
+
+User ID: 872, Month: Dec, Date: 12
+09:43:02 PM, Park
+06:44:20 PM, Food & Drink Shop
+06:35:21 AM, Deli / Bodega
+05:47:29 AM, Bar
+06:05:09 AM, Pizza Place
+06:31:00 AM, Residential Building (Apartment / Condo)
+05:49:44 AM, Convenience Store
+05:52:04 AM, Miscellaneous Shop
+
+
+User ID: 872, Month: Dec, Date: 11
+07:02:15 PM, Bakery
+07:47:39 AM, Residential Building (Apartment / Condo)
+07:43:46 AM, Convenience Store
+
+
+User ID: 872, Month: Dec, Date: 3
+09:47:14 PM, Vegetarian / Vegan Restaurant
+06:25:29 AM, Bar
+06:26:24 AM, Convenience Store
+12:09:27 AM, Pizza Place
+03:46:13 PM, Bakery
+04:35:46 AM, Food & Drink Shop
+06:31:43 AM, Deli / Bodega
+09:34:00 PM, Deli / Bodega
+03:38:24 PM, Food & Drink Shop
+09:15:02 PM, Bank
+09:17:00 PM, Neighborhood
+09:29:58 PM, Bank
+
+
+User ID: 872, Month: Dec, Date: 6
+04:10:11 PM, Bakery
+03:39:15 PM, Convenience Store
+07:43:41 AM, Sculpture Garden
+07:41:38 AM, Neighborhood
+03:35:30 PM, Food & Drink Shop
+07:37:30 AM, Bar
+07:09:20 AM, Bar
+07:31:20 AM, Residential Building (Apartment / Condo)
+07:32:19 AM, Deli / Bodega
+07:14:00 AM, Miscellaneous Shop
+
+
+User ID: 872, Month: Dec, Date: 7
+11:27:59 PM, Bar
+11:11:05 PM, Food & Drink Shop
+10:37:04 PM, Food & Drink Shop
+09:58:32 PM, Gym / Fitness Center
+08:07:44 AM, Convenience Store
+03:54:25 AM, Miscellaneous Shop
+01:15:07 AM, Deli / Bodega
+08:09:58 AM, Deli / Bodega
+08:08:57 AM, Residential Building (Apartment / Condo)
+06:11:56 PM, Deli / Bodega
+03:55:39 AM, Food & Drink Shop
+08:12:08 AM, Bar
+06:12:42 PM, Bakery
+06:15:09 PM, Laundry Service
+
+
+User ID: 872, Month: Dec, Date: 10
+09:00:53 PM, Pet Store
+08:47:42 PM, Deli / Bodega
+08:46:49 PM, Bank
+05:41:58 PM, Gym / Fitness Center
+10:20:43 PM, Park
+03:52:19 PM, Bank
+03:10:58 PM, Deli / Bodega
+02:05:19 AM, Subway
+12:15:52 AM, Coffee Shop
+06:13:59 AM, Deli / Bodega
+05:59:42 AM, Miscellaneous Shop
+12:23:28 AM, Church
+06:12:30 AM, Residential Building (Apartment / Condo)
+09:06:20 PM, Drugstore / Pharmacy
+05:32:44 PM, Road
+12:17:15 AM, Pizza Place
+04:36:01 AM, Convenience Store
+06:04:47 AM, Neighborhood
+06:05:41 AM, Bank
+06:08:32 AM, Food & Drink Shop
+
+
+User ID: 872, Month: Oct, Date: 27
+09:16:45 PM, Gym / Fitness Center
+08:47:43 PM, Bakery
+02:41:27 PM, Food & Drink Shop
+03:55:54 PM, Residential Building (Apartment / Condo)
+01:14:39 AM, Bar
+05:18:31 AM, Convenience Store
+03:56:57 PM, Deli / Bodega
+05:19:57 AM, Food & Drink Shop
+08:36:36 AM, Residential Building (Apartment / Condo)
+
+
+User ID: 872, Month: Oct, Date: 25
+10:50:44 PM, Tea Room
+05:56:19 AM, Bar
+05:50:14 AM, Bar
+05:48:47 PM, Gym / Fitness Center
+05:26:53 AM, Food & Drink Shop
+05:25:42 AM, Food & Drink Shop
+05:06:36 AM, Bank
+05:25:04 AM, Neighborhood
+05:07:52 AM, Drugstore / Pharmacy
+06:21:46 AM, Convenience Store
+06:06:17 AM, Deli / Bodega
+06:24:48 AM, Convenience Store
+06:37:13 AM, Sculpture Garden
+02:50:15 PM, Deli / Bodega
+06:27:40 AM, Deli / Bodega
+06:28:33 AM, Deli / Bodega
+05:30:48 AM, Pizza Place
+06:40:42 AM, Church
+05:36:54 AM, Drugstore / Pharmacy
+06:57:02 AM, Residential Building (Apartment / Condo)
+02:49:01 PM, Food & Drink Shop
+03:40:23 PM, Road
+04:01:03 PM, Electronics Store
+
+
+User ID: 872, Month: Oct, Date: 25
+10:50:44 PM, Tea Room
+05:56:19 AM, Bar
+05:50:14 AM, Bar
+05:48:47 PM, Gym / Fitness Center
+05:26:53 AM, Food & Drink Shop
+05:25:42 AM, Food & Drink Shop
+05:06:36 AM, Bank
+05:25:04 AM, Neighborhood
+05:07:52 AM, Drugstore / Pharmacy
+06:21:46 AM, Convenience Store
+06:06:17 AM, Deli / Bodega
+06:24:48 AM, Convenience Store
+06:37:13 AM, Sculpture Garden
+02:50:15 PM, Deli / Bodega
+06:27:40 AM, Deli / Bodega
+06:28:33 AM, Deli / Bodega
+05:30:48 AM, Pizza Place
+06:40:42 AM, Church
+05:36:54 AM, Drugstore / Pharmacy
+06:57:02 AM, Residential Building (Apartment / Condo)
+02:49:01 PM, Food & Drink Shop
+03:40:23 PM, Road
+04:01:03 PM, Electronics Store
+
+
+User ID: 872, Month: Oct, Date: 24
+03:34:16 PM, Food & Drink Shop
+10:16:02 PM, Food & Drink Shop
+03:21:50 PM, Convenience Store
+03:01:11 AM, Bar
+05:57:56 PM, Gym / Fitness Center
+03:13:17 AM, Convenience Store
+03:17:56 AM, Residential Building (Apartment / Condo)
+03:09:41 PM, Bakery
+
+
+User ID: 872, Month: Oct, Date: 24
+03:34:16 PM, Food & Drink Shop
+10:16:02 PM, Food & Drink Shop
+03:21:50 PM, Convenience Store
+03:01:11 AM, Bar
+05:57:56 PM, Gym / Fitness Center
+03:13:17 AM, Convenience Store
+03:17:56 AM, Residential Building (Apartment / Condo)
+03:09:41 PM, Bakery
+
+
+User ID: 872, Month: Oct, Date: 12
+05:40:54 AM, Bar
+07:30:05 PM, Food & Drink Shop
+09:57:25 PM, Drugstore / Pharmacy
+05:41:43 AM, Convenience Store
+09:41:25 PM, Neighborhood
+
+
+User ID: 872, Month: Oct, Date: 26
+05:55:27 AM, Deli / Bodega
+05:50:19 AM, Convenience Store
+05:52:03 AM, Bank
+05:49:25 AM, Bar
+05:58:07 AM, School
+02:50:01 PM, Food & Drink Shop
+10:05:08 PM, Neighborhood
+10:25:04 PM, Pet Store
+11:50:35 PM, Bagel Shop
+10:21:39 PM, Bank
+11:42:32 PM, Food & Drink Shop
+
+
+User ID: 789, Month: Jan, Date: 7
+08:29:40 AM, Home (private)
+08:21:26 AM, Convenience Store
+01:34:40 AM, Bar
+
+
+User ID: 31, Month: Jun, Date: 10
+06:33:26 PM, Convenience Store
+06:14:25 PM, Bank
+
+
+User ID: 938, Month: Jul, Date: 16
+10:23:12 PM, Plaza
+10:04:58 PM, Plaza
+06:01:47 PM, Arts & Crafts Store
+06:33:08 PM, Convenience Store
+06:51:18 PM, Taco Place
+09:48:11 PM, Theater
+
+
+User ID: 924, Month: Jun, Date: 11
+10:46:01 PM, Convenience Store
+01:19:53 PM, Event Space
+12:05:21 AM, Department Store
+01:19:33 PM, Office
+12:32:09 AM, Portuguese Restaurant
+12:46:03 PM, Train Station
+
+
+User ID: 924, Month: Jul, Date: 2
+10:53:35 PM, Convenience Store
+10:53:16 PM, Bar
+
+
+User ID: 720, Month: Jun, Date: 20
+10:24:35 PM, Electronics Store
+10:38:07 PM, Home (private)
+09:55:25 PM, Convenience Store
+
+
+User ID: 720, Month: Apr, Date: 23
+12:08:13 PM, Spa / Massage
+11:55:59 AM, High School
+11:54:52 AM, Convenience Store
+
+
+User ID: 720, Month: Aug, Date: 20
+07:17:53 AM, Drugstore / Pharmacy
+10:08:41 AM, Convenience Store
+07:07:02 AM, Bank
+07:06:41 AM, Drugstore / Pharmacy
+
+
+User ID: 720, Month: Aug, Date: 14
+11:08:34 AM, Medical Center
+10:40:37 AM, Donut Shop
+10:40:43 AM, Pizza Place
+10:40:54 AM, Convenience Store
+11:06:18 AM, Medical Center
+
+
+User ID: 91, Month: Dec, Date: 22
+10:50:51 PM, Convenience Store
+02:04:16 PM, Neighborhood
+
+
+User ID: 91, Month: Dec, Date: 16
+02:33:36 PM, Convenience Store
+12:32:36 AM, Home (private)
+01:40:15 PM, Caribbean Restaurant
+01:40:03 PM, Neighborhood
+02:03:12 PM, Food & Drink Shop
+
+
+User ID: 91, Month: Jul, Date: 11
+08:59:32 PM, Convenience Store
+08:50:51 PM, Automotive Shop
+08:38:52 PM, Gym / Fitness Center
+10:58:44 AM, Donut Shop
+02:39:21 AM, Neighborhood
+05:14:32 PM, Mexican Restaurant
+08:29:26 PM, Other Great Outdoors
+
+
+User ID: 909, Month: Apr, Date: 20
+05:56:48 PM, Convenience Store
+01:33:28 PM, Hardware Store
+01:06:31 AM, Gym / Fitness Center
+02:29:46 AM, Deli / Bodega
+11:59:53 AM, Automotive Shop
+01:24:29 PM, Bakery
+
+
+User ID: 677, Month: Apr, Date: 8
+04:23:51 AM, Home (private)
+06:05:46 PM, Convenience Store
+04:22:55 AM, Fast Food Restaurant
+02:59:13 AM, Parking
+
+
+User ID: 259, Month: Jun, Date: 7
+09:48:21 PM, Department Store
+04:15:01 AM, Convenience Store
+04:26:08 AM, Home (private)
+12:43:55 AM, Department Store
+12:24:33 PM, Home (private)
+
+
+User ID: 372, Month: Apr, Date: 6
+01:53:06 PM, Eastern European Restaurant
+01:19:28 PM, Food & Drink Shop
+02:00:46 PM, Food & Drink Shop
+01:19:08 PM, Bank
+01:34:21 PM, Food & Drink Shop
+01:45:06 PM, Convenience Store
+
+
+User ID: 372, Month: Aug, Date: 18
+02:57:46 PM, Furniture / Home Store
+02:20:47 PM, Bagel Shop
+01:09:31 PM, Bakery
+12:16:38 AM, Convenience Store
+02:03:32 AM, Tapas Restaurant
+03:13:43 PM, Food & Drink Shop
+02:04:51 PM, Food & Drink Shop
+03:37:21 AM, Bar
+10:45:50 AM, Home (private)
+
+
+User ID: 372, Month: Aug, Date: 11
+11:47:54 PM, Bar
+05:25:44 PM, Park
+01:08:39 AM, Bar
+05:15:54 PM, Food & Drink Shop
+05:05:45 PM, Eastern European Restaurant
+05:14:36 PM, Convenience Store
+
+
+User ID: 372, Month: Aug, Date: 20
+11:45:57 AM, Convenience Store
+11:08:06 AM, Gym / Fitness Center
+
+
+User ID: 372, Month: Aug, Date: 19
+01:28:53 AM, Food & Drink Shop
+11:09:49 PM, Performing Arts Venue
+10:18:53 PM, Convenience Store
+
+
+User ID: 372, Month: Jan, Date: 1
+10:35:55 PM, Home (private)
+06:57:09 PM, Sushi Restaurant
+02:25:20 AM, Convenience Store
+
+
+User ID: 372, Month: Jan, Date: 27
+06:10:42 PM, Convenience Store
+05:20:07 AM, Pizza Place
+04:17:35 AM, Bar
+
+
+User ID: 372, Month: Dec, Date: 5
+11:53:42 PM, Gym / Fitness Center
+03:30:53 PM, Office
+12:58:34 AM, BBQ Joint
+01:24:15 AM, Food & Drink Shop
+01:51:33 PM, Convenience Store
+11:26:24 PM, Office
+02:20:05 AM, Hardware Store
+
+
+User ID: 372, Month: Dec, Date: 4
+06:29:25 PM, Bakery
+11:38:43 PM, Bar
+01:42:51 AM, Convenience Store
+01:07:57 AM, Burger Joint
+
+
+User ID: 372, Month: Dec, Date: 6
+11:34:31 PM, Convenience Store
+04:49:01 PM, Movie Theater
+04:20:52 PM, Office
+01:24:40 AM, Sushi Restaurant
+
+
+User ID: 372, Month: Nov, Date: 17
+07:26:43 PM, Food & Drink Shop
+04:14:24 PM, Convenience Store
+01:12:47 AM, Thai Restaurant
+
+
+User ID: 108, Month: Apr, Date: 29
+08:51:54 PM, Convenience Store
+01:20:04 AM, Diner
+
+
+User ID: 311, Month: May, Date: 23
+10:03:17 PM, Home (private)
+08:30:56 PM, Convenience Store
+
+
+User ID: 311, Month: May, Date: 19
+03:39:30 PM, Convenience Store
+10:54:46 AM, Home (private)
+
+
+User ID: 311, Month: May, Date: 15
+07:02:10 PM, Diner
+05:14:37 PM, Convenience Store
+07:44:36 AM, Home (private)
+
+
+User ID: 311, Month: Sep, Date: 15
+06:10:51 PM, Chinese Restaurant
+06:08:34 PM, Deli / Bodega
+03:01:11 PM, Plaza
+12:40:31 PM, Convenience Store
+
+
+User ID: 311, Month: Feb, Date: 10
+04:16:10 PM, History Museum
+11:49:12 PM, Movie Theater
+09:26:53 PM, Brazilian Restaurant
+09:45:52 PM, Burrito Place
+10:16:20 PM, Convenience Store
+
+
+User ID: 311, Month: Apr, Date: 12
+07:34:21 PM, Salon / Barbershop
+05:29:42 PM, Convenience Store
+
+
+User ID: 311, Month: Jan, Date: 12
+09:15:40 PM, Furniture / Home Store
+05:02:54 PM, Laundry Service
+06:08:43 PM, Convenience Store
+06:51:04 PM, Office
+08:01:06 PM, Plaza
+
+
+User ID: 311, Month: Dec, Date: 29
+05:27:47 PM, Convenience Store
+02:52:53 PM, Convenience Store
+
+
+User ID: 311, Month: Dec, Date: 29
+05:27:47 PM, Convenience Store
+02:52:53 PM, Convenience Store
+
+
+User ID: 311, Month: Dec, Date: 1
+03:55:47 PM, Convenience Store
+08:03:33 AM, Home (private)
+02:53:25 AM, Movie Theater
+
+
+User ID: 556, Month: Dec, Date: 12
+09:50:27 PM, Bank
+11:25:06 PM, Convenience Store
+09:57:12 PM, Miscellaneous Shop
+08:37:07 PM, Bus Station
+10:38:37 PM, Department Store
+
+
+User ID: 260, Month: Jun, Date: 9
+08:13:53 PM, Bar
+07:08:05 PM, Park
+02:23:58 PM, Coffee Shop
+12:23:23 AM, Thai Restaurant
+06:39:04 PM, Convenience Store
+11:52:41 PM, Bar
+06:39:28 PM, Mexican Restaurant
+
+
+User ID: 386, Month: Jun, Date: 4
+12:35:15 PM, School
+02:21:15 AM, Food & Drink Shop
+01:39:05 AM, Convenience Store
+
+
+User ID: 386, Month: May, Date: 10
+10:06:39 PM, Convenience Store
+04:45:52 PM, Trade School
+
+
+User ID: 386, Month: May, Date: 27
+10:14:00 PM, Food & Drink Shop
+12:17:29 AM, Convenience Store
+05:48:23 PM, Cemetery
+02:13:08 PM, Church
+06:05:22 PM, Home (private)
+
+
+User ID: 386, Month: May, Date: 14
+10:13:29 PM, Home (private)
+07:24:26 PM, Fast Food Restaurant
+01:42:57 AM, Bridge
+12:36:05 PM, School
+03:16:42 PM, Home (private)
+04:45:28 PM, Trade School
+03:07:24 PM, Convenience Store
+
+
+User ID: 386, Month: May, Date: 23
+09:45:43 PM, Home (private)
+09:35:58 PM, Convenience Store
+04:57:11 PM, Trade School
+
+
+User ID: 386, Month: Feb, Date: 14
+12:17:29 AM, Home (private)
+12:09:42 AM, Convenience Store
+
+
+User ID: 386, Month: Feb, Date: 3
+05:39:53 PM, Home (private)
+02:46:32 PM, Convenience Store
+
+
+User ID: 386, Month: Apr, Date: 28
+07:38:37 PM, General Entertainment
+12:11:48 PM, Convenience Store
+11:34:08 AM, Coffee Shop
+11:30:49 AM, Gas Station / Garage
+
+
+User ID: 386, Month: Apr, Date: 24
+11:15:00 PM, Convenience Store
+05:02:27 PM, Trade School
+10:20:52 PM, Home (private)
+12:35:21 PM, School
+
+
+User ID: 386, Month: Apr, Date: 13
+11:21:30 PM, Home (private)
+11:10:28 PM, Convenience Store
+10:44:10 PM, Chinese Restaurant
+09:59:00 PM, Home (private)
+
+
+User ID: 386, Month: Jan, Date: 31
+07:04:03 PM, Car Dealership
+01:36:15 PM, School
+01:39:54 PM, Convenience Store
+04:43:55 PM, Coffee Shop
+07:03:23 PM, Mall
+
+
+User ID: 386, Month: Jan, Date: 29
+09:55:55 PM, Home (private)
+08:31:15 PM, Gas Station / Garage
+06:07:40 PM, American Restaurant
+01:28:23 PM, School
+01:39:13 PM, Parking
+01:48:09 PM, Convenience Store
+08:31:55 PM, Deli / Bodega
+01:55:54 PM, Home (private)
+
+
+User ID: 386, Month: Jan, Date: 4
+01:33:05 PM, Convenience Store
+01:25:55 PM, School
+
+
+User ID: 386, Month: Oct, Date: 19
+05:26:56 PM, Mall
+04:40:35 PM, Bank
+12:36:47 PM, School
+04:24:29 PM, Road
+06:56:00 PM, Gas Station / Garage
+12:40:33 PM, Convenience Store
+04:25:31 PM, Deli / Bodega
+
+
+User ID: 386, Month: Oct, Date: 26
+07:04:59 PM, School
+10:06:51 AM, Convenience Store
+06:00:26 PM, Parking
+12:08:38 PM, High School
+12:08:59 PM, School
+
+
+User ID: 386, Month: Oct, Date: 3
+07:02:12 PM, Convenience Store
+06:40:26 PM, Parking
+
+
+User ID: 386, Month: Dec, Date: 10
+06:28:39 PM, Convenience Store
+02:56:07 PM, Breakfast Spot
+02:46:57 PM, Bank
+02:31:43 PM, School
+
+
+User ID: 386, Month: Dec, Date: 13
+06:30:37 PM, Home (private)
+06:19:10 PM, Convenience Store
+11:46:39 AM, Donut Shop
+12:07:33 PM, Parking
+06:07:39 PM, Parking
+12:18:02 PM, Home (private)
+
+
+User ID: 386, Month: Nov, Date: 26
+07:03:47 PM, Pizza Place
+06:37:57 PM, Neighborhood
+01:44:22 PM, Convenience Store
+01:35:57 PM, School
+
+
+User ID: 386, Month: Nov, Date: 20
+10:10:44 PM, Steakhouse
+01:31:30 PM, Trade School
+08:27:25 PM, Convenience Store
+12:56:03 PM, School
+06:35:37 PM, Deli / Bodega
+
+
+User ID: 652, Month: May, Date: 22
+05:39:40 AM, Convenience Store
+05:59:37 AM, Bar
+05:59:16 AM, Home (private)
+12:57:57 AM, Pet Store
+
+
+User ID: 652, Month: Apr, Date: 16
+05:36:46 PM, Bar
+05:52:08 PM, Convenience Store
+05:36:24 PM, Home (private)
+
+
+User ID: 652, Month: Jan, Date: 17
+09:33:43 PM, Food & Drink Shop
+01:42:46 AM, Convenience Store
+
+
+User ID: 652, Month: Jan, Date: 2
+06:29:43 PM, Bar
+06:29:20 PM, Home (private)
+03:13:59 AM, Fast Food Restaurant
+03:02:54 AM, Convenience Store
+
+
+User ID: 652, Month: Dec, Date: 31
+08:45:25 PM, Home (private)
+07:29:18 PM, Convenience Store
+07:29:04 PM, Miscellaneous Shop
+
+
+User ID: 766, Month: Jul, Date: 8
+08:48:15 PM, Historic Site
+08:30:45 PM, Plaza
+12:47:39 AM, Drugstore / Pharmacy
+11:59:33 PM, Convenience Store
+09:11:09 PM, Convenience Store
+08:12:11 PM, Road
+08:22:43 PM, Bus Station
+07:01:01 PM, Miscellaneous Shop
+
+
+User ID: 766, Month: Jul, Date: 8
+08:48:15 PM, Historic Site
+08:30:45 PM, Plaza
+12:47:39 AM, Drugstore / Pharmacy
+11:59:33 PM, Convenience Store
+09:11:09 PM, Convenience Store
+08:12:11 PM, Road
+08:22:43 PM, Bus Station
+07:01:01 PM, Miscellaneous Shop
+
+
+User ID: 534, Month: Dec, Date: 19
+04:01:17 AM, Convenience Store
+01:56:07 AM, Bar
+
+
+User ID: 534, Month: Jun, Date: 4
+12:59:53 AM, Bar
+12:55:03 AM, Convenience Store
+
+
+User ID: 534, Month: Apr, Date: 11
+07:35:22 AM, Bar
+07:20:57 AM, Convenience Store
+07:20:34 AM, Bar
+12:27:36 AM, Church
+
+
+User ID: 534, Month: May, Date: 14
+04:45:27 AM, Convenience Store
+01:42:56 AM, Bar
+01:02:54 AM, Falafel Restaurant
+12:55:36 AM, Dessert Shop
+
+
+User ID: 534, Month: May, Date: 13
+09:52:24 PM, Southern / Soul Food Restaurant
+01:50:52 AM, Bar
+01:32:44 AM, Convenience Store
+
+
+User ID: 943, Month: Apr, Date: 21
+07:01:56 PM, Other Great Outdoors
+06:56:56 PM, Road
+12:24:26 AM, Arcade
+04:39:34 AM, Train Station
+04:26:21 PM, Gym / Fitness Center
+06:28:21 PM, Convenience Store
+
+
+User ID: 901, Month: Apr, Date: 14
+03:07:10 PM, Gas Station / Garage
+03:16:25 PM, Convenience Store
+03:00:08 PM, Home (private)
+02:18:17 AM, Home (private)
+
+
+User ID: 185, Month: Jan, Date: 7
+09:34:47 PM, Post Office
+09:25:09 PM, Bank
+08:57:07 PM, Convenience Store
+03:31:26 AM, Bus Station
+05:56:32 AM, Pizza Place
+05:30:13 AM, Home (private)
+07:40:50 PM, Road
+01:03:55 AM, High School
+01:59:24 PM, Road
+03:05:46 PM, High School
+12:53:07 PM, Building
+07:09:07 PM, Park
+06:25:17 PM, Bar
+
+
+User ID: 1055, Month: Apr, Date: 3
+07:18:05 PM, Neighborhood
+11:18:17 PM, Convenience Store
+07:27:54 PM, Food & Drink Shop
+07:54:11 PM, Neighborhood
+09:04:39 PM, Residential Building (Apartment / Condo)
+
+
+User ID: 1010, Month: Aug, Date: 14
+04:47:30 PM, Home (private)
+02:25:11 PM, Convenience Store
+
+
+User ID: 1010, Month: May, Date: 14
+11:51:22 AM, High School
+12:25:36 AM, Convenience Store
+
+
+User ID: 784, Month: Dec, Date: 29
+05:59:13 PM, Bus Station
+04:32:18 PM, Gym / Fitness Center
+04:16:25 PM, General Travel
+03:59:20 PM, Convenience Store
+
+
+User ID: 784, Month: Dec, Date: 28
+07:34:49 PM, Convenience Store
+01:30:19 AM, General Travel
+12:54:29 AM, Tanning Salon
+12:48:47 AM, Moving Target
+01:02:30 AM, Gym / Fitness Center
+01:03:40 AM, Gym / Fitness Center
+
+
+User ID: 941, Month: Apr, Date: 27
+09:34:51 PM, American Restaurant
+12:04:46 PM, Medical Center
+11:39:32 AM, Convenience Store
+
+
+User ID: 673, Month: May, Date: 25
+02:26:22 PM, Home (private)
+06:59:13 PM, Home (private)
+09:07:24 PM, Bank
+03:54:24 PM, Convenience Store
+09:11:14 PM, Salon / Barbershop
+07:26:46 PM, Home (private)
+
+
+User ID: 628, Month: Feb, Date: 14
+11:31:04 AM, Home (private)
+11:13:01 AM, Home (private)
+10:50:21 AM, Convenience Store
+
+
+User ID: 628, Month: Feb, Date: 13
+11:31:33 AM, Home (private)
+10:51:26 AM, Convenience Store
+
+
+User ID: 628, Month: Feb, Date: 3
+08:32:21 PM, Food & Drink Shop
+11:48:31 AM, Convenience Store
+11:45:52 AM, Gas Station / Garage
+
+
+User ID: 628, Month: Feb, Date: 12
+01:49:31 PM, Laundry Service
+11:48:48 AM, Convenience Store
+01:35:31 AM, Home (private)
+
+
+User ID: 628, Month: Feb, Date: 5
+08:20:27 PM, School
+11:56:50 AM, Convenience Store
+
+
+User ID: 628, Month: Feb, Date: 6
+11:41:28 AM, Home (private)
+10:53:58 AM, Convenience Store
+
+
+User ID: 628, Month: Feb, Date: 7
+09:17:12 PM, School
+10:51:27 AM, Convenience Store
+11:36:08 AM, Home (private)
+01:01:23 AM, School
+
+
+User ID: 628, Month: Jan, Date: 7
+10:00:05 PM, Food & Drink Shop
+10:49:41 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 28
+08:07:36 PM, School
+11:36:24 AM, Home (private)
+11:15:03 AM, Home (private)
+11:00:50 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 1
+06:28:36 PM, Bakery
+12:59:18 PM, Convenience Store
+01:23:27 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 1
+06:28:36 PM, Bakery
+12:59:18 PM, Convenience Store
+01:23:27 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 26
+02:02:54 PM, Home (private)
+11:06:15 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 4
+11:51:52 PM, Home (private)
+10:53:36 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 27
+05:36:47 PM, Department Store
+12:12:04 PM, Food & Drink Shop
+12:05:03 PM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 14
+08:11:25 PM, School
+10:49:03 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 15
+09:55:24 PM, Home (private)
+12:01:35 PM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 18
+11:22:49 AM, Home (private)
+10:50:09 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 21
+11:32:07 AM, Home (private)
+10:50:39 AM, Convenience Store
+
+
+User ID: 628, Month: Jan, Date: 22
+12:42:09 PM, Laundry Service
+11:58:53 AM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 31
+11:37:34 AM, Home (private)
+10:50:38 AM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 9
+05:07:09 PM, Home (private)
+12:34:12 AM, Ice Cream Shop
+12:11:08 PM, Convenience Store
+12:17:27 PM, Bakery
+01:14:42 PM, Food & Drink Shop
+
+
+User ID: 628, Month: Dec, Date: 8
+02:17:14 PM, Electronics Store
+02:29:56 PM, Convenience Store
+01:01:32 AM, Food & Drink Shop
+
+
+User ID: 628, Month: Dec, Date: 7
+10:26:44 PM, Drugstore / Pharmacy
+10:18:16 PM, Convenience Store
+08:13:05 PM, School
+11:28:51 AM, Home (private)
+
+
+User ID: 628, Month: Dec, Date: 28
+11:37:58 PM, Home (private)
+10:39:39 AM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 13
+10:53:56 AM, Convenience Store
+12:05:36 AM, School
+
+
+User ID: 628, Month: Dec, Date: 14
+11:57:56 PM, Home (private)
+11:48:33 PM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 15
+06:44:02 PM, Drugstore / Pharmacy
+10:54:29 AM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 17
+09:31:54 PM, Bakery
+08:11:44 PM, School
+10:40:49 AM, Convenience Store
+
+
+User ID: 628, Month: Dec, Date: 22
+10:37:52 PM, Bookstore
+09:55:37 PM, Paper / Office Supplies Store
+06:22:18 PM, Fast Food Restaurant
+10:58:22 AM, Convenience Store
+06:16:43 PM, Gas Station / Garage
+02:16:45 PM, Salon / Barbershop
+05:54:59 PM, Fast Food Restaurant
+02:39:11 PM, Donut Shop
+
+
+User ID: 628, Month: Apr, Date: 14
+04:33:02 PM, Fast Food Restaurant
+12:10:20 PM, Salon / Barbershop
+12:29:16 PM, Drugstore / Pharmacy
+12:42:40 PM, Donut Shop
+12:56:06 PM, Convenience Store
+
+
+User ID: 1016, Month: Apr, Date: 17
+11:49:35 PM, Convenience Store
+09:05:24 PM, Department Store
+11:55:08 AM, High School
+
+
+User ID: 1016, Month: May, Date: 14
+11:51:15 PM, Convenience Store
+11:49:34 AM, High School
+08:37:16 PM, Home (private)
+07:14:11 PM, Gym / Fitness Center
+10:57:31 PM, Department Store
+
+
+User ID: 817, Month: Apr, Date: 7
+10:12:07 PM, Athletic & Sport
+05:28:23 PM, Convenience Store
+
+
+User ID: 817, Month: Apr, Date: 8
+02:33:52 PM, Church
+06:18:00 AM, Convenience Store
+
+
+User ID: 817, Month: Aug, Date: 14
+03:31:05 AM, Convenience Store
+12:59:15 AM, Home (private)
+
+
+User ID: 817, Month: Jan, Date: 4
+11:58:34 AM, Home (private)
+05:33:48 AM, Convenience Store
+
+
+User ID: 817, Month: Jan, Date: 15
+11:23:25 PM, Home (private)
+05:54:12 AM, Convenience Store
+
+
+User ID: 817, Month: Jan, Date: 22
+07:39:58 AM, Home (private)
+06:07:49 AM, Convenience Store
+
+
+User ID: 817, Month: Oct, Date: 13
+02:10:33 PM, Neighborhood
+02:10:46 PM, Coffee Shop
+03:20:49 AM, Convenience Store
+
+
+User ID: 817, Month: Oct, Date: 26
+11:56:32 PM, Church
+02:32:06 AM, Diner
+05:08:28 AM, Medical Center
+04:36:48 AM, Convenience Store
+08:05:49 PM, Medical Center
+
+
+User ID: 817, Month: Dec, Date: 29
+02:45:38 PM, Deli / Bodega
+04:50:15 AM, Convenience Store
+
+
+User ID: 817, Month: Dec, Date: 15
+03:49:50 PM, Coffee Shop
+07:15:38 AM, Gas Station / Garage
+03:40:10 PM, Neighborhood
+06:50:03 AM, Convenience Store
+
+
+User ID: 817, Month: Dec, Date: 28
+12:07:20 PM, Medical Center
+07:21:46 AM, Convenience Store
+05:17:37 AM, Medical Center
+12:39:41 AM, American Restaurant
+
+
+User ID: 817, Month: Dec, Date: 31
+05:47:40 PM, Bar
+05:03:15 AM, Convenience Store
+
+
+User ID: 817, Month: Nov, Date: 2
+05:37:09 AM, Medical Center
+05:21:42 AM, Convenience Store
+
+
+User ID: 817, Month: Nov, Date: 6
+08:28:48 PM, Elementary School
+04:26:31 AM, Convenience Store
+12:19:39 AM, Bar
+
+
+User ID: 817, Month: Nov, Date: 11
+02:00:41 PM, Bagel Shop
+05:24:19 AM, Convenience Store
+
+
+User ID: 699, Month: Jun, Date: 7
+10:17:26 PM, Bridge
+05:58:11 PM, Bank
+12:38:23 PM, Convenience Store
+03:50:12 PM, Office
+01:18:54 PM, Road
+12:18:43 PM, Bridge
+01:19:24 PM, Road
+
+
+User ID: 699, Month: Apr, Date: 23
+11:22:37 PM, Convenience Store
+10:09:26 PM, Residential Building (Apartment / Condo)
+01:42:50 PM, Office
+03:43:05 PM, Office
+05:14:38 PM, Chinese Restaurant
+06:10:58 PM, Office
+
+
+User ID: 445, Month: Nov, Date: 11
+11:26:21 PM, Convenience Store
+06:05:16 AM, University
+04:21:53 AM, Other Great Outdoors
+11:28:35 PM, Food & Drink Shop
+04:58:20 AM, Subway
+05:28:21 AM, Deli / Bodega
+11:32:28 PM, Subway
+07:18:45 AM, Movie Theater
+05:33:41 AM, Deli / Bodega
+
+
+User ID: 445, Month: Nov, Date: 12
+09:08:32 PM, Stadium
+07:57:58 PM, Convenience Store
+08:07:10 AM, Movie Theater
+08:53:44 PM, Subway
+06:55:41 AM, Arcade
+05:17:22 AM, Subway
+05:54:08 AM, Deli / Bodega
+08:06:53 AM, University
+06:55:28 AM, Deli / Bodega
+05:54:43 AM, Deli / Bodega
+
+
+User ID: 445, Month: Nov, Date: 2
+07:51:25 AM, Movie Theater
+07:49:25 AM, University
+07:49:13 AM, Arcade
+07:13:27 AM, Deli / Bodega
+07:13:19 AM, Deli / Bodega
+12:11:12 AM, Food & Drink Shop
+12:17:06 AM, Convenience Store
+12:00:00 AM, Drugstore / Pharmacy
+12:28:09 AM, Deli / Bodega
+
+
+User ID: 445, Month: Oct, Date: 12
+07:47:26 PM, Subway
+05:32:29 AM, Deli / Bodega
+07:04:40 AM, Deli / Bodega
+07:21:07 AM, University
+07:02:28 PM, Convenience Store
+05:30:46 AM, Bus Station
+10:03:22 PM, Other Great Outdoors
+07:28:29 PM, Subway
+07:12:50 AM, Arcade
+07:21:18 AM, Movie Theater
+07:04:54 AM, Deli / Bodega
+07:16:45 PM, Food & Drink Shop
+07:28:10 PM, Video Game Store
+
+
+User ID: 445, Month: Oct, Date: 23
+10:55:04 PM, Home (private)
+09:44:12 PM, Food & Drink Shop
+09:43:47 PM, Convenience Store
+12:05:10 AM, BBQ Joint
+11:03:47 PM, Harbor / Marina
+03:31:12 AM, Deli / Bodega
+09:25:12 PM, Post Office
+09:25:23 PM, Drugstore / Pharmacy
+
+
+User ID: 445, Month: Oct, Date: 18
+04:53:31 PM, Convenience Store
+03:08:20 PM, Drugstore / Pharmacy
+
+
+User ID: 445, Month: Oct, Date: 25
+11:40:31 PM, Convenience Store
+07:25:07 PM, Subway
+03:12:15 PM, Bus Station
+01:52:43 PM, Deli / Bodega
+06:10:38 AM, Movie Theater
+02:15:56 AM, Deli / Bodega
+05:29:43 AM, Deli / Bodega
+05:29:56 AM, Arcade
+11:40:10 PM, Food & Drink Shop
+06:10:15 AM, University
+
+
+User ID: 445, Month: Sep, Date: 6
+05:52:15 AM, Arcade
+05:00:44 AM, Deli / Bodega
+12:28:50 AM, Salon / Barbershop
+12:31:43 AM, Convenience Store
+04:31:45 AM, Deli / Bodega
+04:34:42 AM, University
+
+
+User ID: 445, Month: Sep, Date: 9
+08:15:21 PM, Stadium
+01:18:05 PM, Subway
+02:12:45 PM, Convenience Store
+01:13:31 PM, Deli / Bodega
+
+
+User ID: 445, Month: Jun, Date: 13
+11:24:52 PM, Bus Station
+05:00:21 PM, Subway
+11:10:58 PM, Bus Station
+05:31:01 AM, Deli / Bodega
+05:01:31 AM, Subway
+05:05:04 AM, Bank
+04:07:45 AM, Subway
+05:13:56 AM, Deli / Bodega
+05:38:05 AM, Deli / Bodega
+04:58:49 PM, Convenience Store
+06:35:06 AM, Arcade
+07:01:21 AM, Movie Theater
+02:29:31 PM, Deli / Bodega
+
+
+User ID: 445, Month: Jun, Date: 10
+10:47:36 PM, Subway
+09:40:59 PM, Bank
+05:22:07 AM, Diner
+09:50:25 PM, Convenience Store
+07:08:55 AM, Arcade
+12:02:37 AM, Bank
+06:37:45 AM, Drugstore / Pharmacy
+07:16:00 AM, Movie Theater
+05:47:27 PM, Deli / Bodega
+07:28:11 PM, Deli / Bodega
+04:27:13 AM, Road
+06:56:02 AM, Deli / Bodega
+09:27:39 PM, Department Store
+
+
+User ID: 1069, Month: May, Date: 21
+09:27:42 PM, City
+09:01:44 PM, Art Gallery
+09:01:07 PM, City
+08:59:22 PM, Neighborhood
+08:58:57 PM, Convenience Store
+09:00:26 PM, Office
+12:11:17 PM, Theater
+01:06:36 PM, Light Rail
+12:03:24 PM, Other Great Outdoors
+12:09:32 PM, Medical Center
+12:11:53 PM, Residential Building (Apartment / Condo)
+12:12:25 PM, College Academic Building
+12:11:34 PM, Office
+12:14:02 PM, Library
+01:06:57 PM, Scenic Lookout
+01:07:37 PM, Food Truck
+
+
+User ID: 1069, Month: May, Date: 16
+01:24:54 PM, Other Great Outdoors
+01:21:16 PM, Residential Building (Apartment / Condo)
+01:22:17 PM, Scenic Lookout
+01:23:03 PM, Office
+09:16:01 PM, Convenience Store
+01:24:16 PM, Sandwich Place
+01:23:45 PM, Coffee Shop
+
+
+User ID: 768, Month: May, Date: 23
+10:51:16 PM, Outdoors & Recreation
+06:28:26 PM, Food & Drink Shop
+10:22:10 PM, Road
+09:59:28 PM, Convenience Store
+08:19:04 PM, American Restaurant
+11:09:58 PM, High School
+07:15:23 PM, Ice Cream Shop
+09:48:46 PM, Road
+
+
+User ID: 768, Month: Apr, Date: 8
+06:18:14 PM, Home (private)
+06:17:46 PM, Road
+03:29:55 PM, Road
+02:39:31 PM, Drugstore / Pharmacy
+11:01:38 PM, General Entertainment
+02:39:16 PM, Diner
+11:35:43 AM, Coffee Shop
+12:34:12 AM, Other Great Outdoors
+01:15:04 AM, Other Great Outdoors
+03:42:12 PM, Convenience Store
+11:35:59 AM, Road
+05:59:21 AM, Other Great Outdoors
+06:04:09 PM, Road
+03:22:26 PM, Road
+02:29:09 AM, Other Great Outdoors
+12:10:46 AM, Road
+02:29:29 AM, Food & Drink Shop
+05:07:53 AM, Stadium
+03:28:59 PM, Gas Station / Garage
+05:08:12 AM, Home (private)
+12:07:37 AM, Fast Food Restaurant
+05:20:30 AM, Gas Station / Garage
+
+
+User ID: 768, Month: Apr, Date: 7
+11:35:36 PM, Other Great Outdoors
+10:53:05 PM, Sandwich Place
+10:52:41 PM, Garden
+10:23:33 PM, Jewelry Store
+08:08:35 PM, Hot Dog Joint
+01:26:29 PM, Bus Station
+07:58:15 PM, Art Gallery
+01:45:42 PM, Mall
+01:19:35 PM, Road
+01:45:20 PM, Parking
+11:35:07 PM, Clothing Store
+08:30:30 PM, Snack Place
+08:22:15 PM, Convenience Store
+01:51:28 PM, Coffee Shop
+08:30:53 PM, Toy / Game Store
+01:43:17 PM, Road
+01:31:41 PM, Road
+02:00:25 PM, Toy / Game Store
+12:40:34 PM, Parking
+07:57:47 PM, Sporting Goods Shop
+
+
+User ID: 84, Month: Apr, Date: 11
+11:37:38 PM, German Restaurant
+04:14:52 PM, Convention Center
+05:40:13 PM, Convention Center
+10:27:22 AM, Office
+10:27:09 AM, Convention Center
+02:03:45 AM, Convention Center
+01:21:54 AM, Convenience Store
+10:33:59 PM, Convention Center
+12:43:50 AM, Bar
+12:43:37 AM, Other Great Outdoors
+02:04:25 AM, Gas Station / Garage
+08:47:04 AM, Hotel
+08:50:53 AM, Airport
+08:51:13 AM, Convention Center
+10:59:35 PM, Parking
+09:13:35 AM, Train Station
+
+
+User ID: 84, Month: Apr, Date: 10
+09:30:11 PM, German Restaurant
+09:50:50 PM, Office
+05:42:37 PM, Building
+09:46:21 AM, Subway
+12:51:49 AM, Convenience Store
+05:42:10 PM, Convention Center
+08:42:18 AM, Convention Center
+12:02:54 AM, General Travel
+01:46:58 AM, Bar
+12:02:28 AM, Subway
+09:50:31 PM, Other Great Outdoors
+02:23:03 AM, Sculpture Garden
+01:47:14 AM, Convention Center
+08:41:51 AM, Bar
+
+
+User ID: 84, Month: Apr, Date: 14
+08:46:10 PM, Bar
+08:44:59 PM, Convenience Store
+07:58:41 PM, Subway
+09:51:36 PM, Salon / Barbershop
+07:58:24 PM, Chinese Restaurant
+07:57:50 PM, American Restaurant
+06:03:51 PM, Building
+12:19:04 AM, General Entertainment
+08:46:27 PM, Home (private)
+03:13:40 PM, Zoo
+03:13:02 PM, Gym / Fitness Center
+03:14:15 PM, Bar
+12:18:41 AM, Arcade
+06:04:07 PM, Arcade
+03:37:11 PM, Restaurant
+05:30:23 PM, Flower Shop
+08:45:57 PM, Hardware Store
+05:30:46 PM, Bar
+
+
+User ID: 84, Month: Apr, Date: 16
+09:19:09 PM, Chinese Restaurant
+05:47:50 PM, Sandwich Place
+09:17:58 PM, Snack Place
+04:44:39 PM, Hardware Store
+04:45:06 PM, Bar
+09:18:12 PM, Convention Center
+04:44:52 PM, Convenience Store
+05:48:26 PM, Home (private)
+05:47:29 PM, Bus Station
+
+
+User ID: 84, Month: Apr, Date: 19
+11:50:33 PM, Bar
+11:50:05 PM, Hotel
+10:02:45 PM, Japanese Restaurant
+09:13:52 PM, Office
+08:34:59 PM, Smoke Shop
+07:59:15 PM, Convention Center
+01:49:55 PM, Convention Center
+12:32:06 AM, Convenience Store
+10:03:14 PM, Building
+08:55:31 AM, Snack Place
+01:46:13 AM, Ice Cream Shop
+12:49:53 AM, Hotel
+08:55:49 AM, Convention Center
+12:53:11 PM, Office
+11:12:02 AM, Burger Joint
+11:12:16 AM, Gym / Fitness Center
+11:44:57 AM, Office
+01:49:36 PM, Hardware Store
+
+
+User ID: 84, Month: Apr, Date: 21
+11:33:03 PM, School
+08:22:57 PM, Synagogue
+05:17:29 PM, Ice Cream Shop
+05:16:15 PM, Convenience Store
+08:05:37 AM, Automotive Shop
+08:04:32 AM, General College & University
+08:05:04 AM, Bar
+01:42:31 AM, Hotel
+02:15:26 AM, Building
+08:20:31 PM, Home (private)
+01:42:17 AM, Office
+11:33:19 PM, Ice Cream Shop
+11:32:47 PM, Salon / Barbershop
+08:03:58 AM, Bar
+08:20:15 PM, Convention Center
+01:41:47 AM, Convention Center
+03:09:03 AM, Cuban Restaurant
+03:09:21 AM, Jewelry Store
+05:07:57 AM, Bar
+05:07:42 AM, Bar
+08:04:17 AM, Automotive Shop
+
+
+User ID: 84, Month: Apr, Date: 23
+03:19:20 AM, Greek Restaurant
+02:49:31 AM, Bar
+12:46:33 AM, Convenience Store
+12:47:15 AM, Home (private)
+02:48:47 AM, Food & Drink Shop
+02:49:03 AM, Drugstore / Pharmacy
+
+
+User ID: 84, Month: Apr, Date: 24
+09:14:13 PM, Hotel
+09:13:46 PM, Convention Center
+12:33:17 AM, Convenience Store
+12:33:32 AM, Bar
+03:25:04 PM, Rest Area
+09:08:20 AM, Other Nightlife
+09:08:54 AM, General Travel
+09:08:34 AM, Subway
+10:03:03 AM, Convention Center
+10:03:13 AM, Office
+03:24:24 PM, Event Space
+10:03:25 AM, Convention Center
+
+
+User ID: 84, Month: Jun, Date: 27
+04:22:20 PM, Burger Joint
+04:22:36 PM, Office
+04:07:32 PM, Convention Center
+09:56:55 AM, Subway
+09:56:45 AM, Coffee Shop
+09:55:24 AM, Convenience Store
+09:55:59 AM, Diner
+04:07:19 PM, Office
+09:56:11 AM, Food & Drink Shop
+09:56:26 AM, Bus Station
+
+
+User ID: 498, Month: Dec, Date: 15
+09:59:34 PM, Home (private)
+03:08:16 AM, Home (private)
+08:38:07 PM, Bus Station
+01:59:41 AM, Subway
+08:57:14 PM, Convenience Store
+
+
+User ID: 498, Month: Dec, Date: 12
+08:20:26 PM, Clothing Store
+10:02:32 PM, Convenience Store
+03:36:38 AM, Home (private)
+12:54:00 AM, Pizza Place
+
+
+User ID: 691, Month: Dec, Date: 16
+09:35:13 AM, Donut Shop
+09:08:03 AM, Convenience Store
+03:03:19 AM, Rest Area
+10:42:21 PM, Food & Drink Shop
+05:25:45 AM, Performing Arts Venue
+07:29:11 AM, Bar
+03:41:15 AM, Stadium
+
+
+User ID: 691, Month: May, Date: 3
+08:16:50 PM, Cemetery
+04:30:53 PM, General Travel
+04:21:08 PM, Deli / Bodega
+06:00:11 PM, Food & Drink Shop
+04:15:14 PM, Stadium
+04:14:46 PM, Event Space
+05:43:42 PM, Scenic Lookout
+08:33:32 PM, Neighborhood
+05:59:48 PM, Other Great Outdoors
+06:19:47 PM, Medical Center
+07:16:00 PM, Convenience Store
+08:15:59 PM, Other Great Outdoors
+
+
+User ID: 529, Month: Jan, Date: 6
+07:36:32 PM, Newsstand
+01:40:32 AM, Convenience Store
+
+
+User ID: 293, Month: Jul, Date: 4
+05:15:32 PM, Convenience Store
+05:14:27 PM, Deli / Bodega
+05:11:53 PM, Road
+05:09:10 PM, General Travel
+12:10:10 AM, Smoke Shop
+05:11:22 PM, Subway
+12:07:35 AM, Other Great Outdoors
+03:46:54 AM, Deli / Bodega
+11:49:12 PM, Road
+03:28:41 AM, Other Great Outdoors
+04:12:34 PM, Home (private)
+12:09:48 AM, Deli / Bodega
+03:32:32 AM, Pizza Place
+05:12:27 PM, Park
+04:20:59 PM, General Travel
+03:47:29 AM, Bus Station
+04:11:10 PM, Home (private)
+
+
+User ID: 293, Month: Jun, Date: 8
+11:48:49 PM, Subway
+05:19:31 PM, Paper / Office Supplies Store
+05:14:50 PM, Park
+04:17:03 PM, Home (private)
+12:20:09 AM, Other Great Outdoors
+05:17:29 PM, Convenience Store
+04:32:26 PM, General Travel
+12:21:38 AM, Smoke Shop
+04:33:34 PM, Subway
+05:13:09 PM, Subway
+11:48:17 PM, Road
+12:21:00 AM, Neighborhood
+04:30:38 PM, Home (private)
+08:16:12 PM, General Entertainment
+05:14:03 PM, Road
+04:31:04 PM, Home (private)
+
+
+User ID: 293, Month: May, Date: 28
+11:48:08 PM, Road
+11:48:30 PM, Subway
+05:03:08 PM, Convenience Store
+04:55:22 AM, Neighborhood
+04:55:44 AM, Other Great Outdoors
+04:09:12 PM, General Travel
+05:16:21 AM, Bus Station
+03:43:57 AM, Moving Target
+03:30:11 PM, Home (private)
+04:08:09 PM, Home (private)
+03:28:44 PM, Home (private)
+04:47:09 PM, Road
+04:48:15 PM, Park
+
+
+User ID: 293, Month: May, Date: 1
+05:36:08 PM, Paper / Office Supplies Store
+05:31:19 PM, Convenience Store
+04:56:03 PM, Subway
+05:28:12 PM, Deli / Bodega
+05:26:37 PM, Subway
+05:27:30 PM, Park
+
+
+User ID: 293, Month: May, Date: 25
+11:51:52 PM, Road
+05:56:02 PM, Subway
+04:34:42 PM, General Travel
+11:52:38 PM, Subway
+04:22:39 PM, Home (private)
+05:56:28 PM, Road
+11:45:56 PM, Bank
+04:33:35 PM, Home (private)
+05:57:47 PM, Convenience Store
+05:58:01 PM, Paper / Office Supplies Store
+05:58:31 PM, General Entertainment
+06:07:54 PM, Office
+
+
+User ID: 293, Month: Feb, Date: 13
+06:32:57 PM, Park
+05:48:01 PM, Convenience Store
+05:47:25 PM, Deli / Bodega
+01:22:32 AM, Deli / Bodega
+02:04:59 AM, Pizza Place
+06:37:09 PM, Convenience Store
+01:22:02 AM, Other Great Outdoors
+01:06:35 AM, Subway
+04:48:34 AM, General Travel
+01:21:36 AM, Subway
+02:06:43 AM, Deli / Bodega
+02:07:38 AM, Smoke Shop
+07:14:35 PM, Office
+04:29:34 AM, General Travel
+05:45:11 PM, Home (private)
+
+
+User ID: 293, Month: Feb, Date: 13
+06:32:57 PM, Park
+05:48:01 PM, Convenience Store
+05:47:25 PM, Deli / Bodega
+01:22:32 AM, Deli / Bodega
+02:04:59 AM, Pizza Place
+06:37:09 PM, Convenience Store
+01:22:02 AM, Other Great Outdoors
+01:06:35 AM, Subway
+04:48:34 AM, General Travel
+01:21:36 AM, Subway
+02:06:43 AM, Deli / Bodega
+02:07:38 AM, Smoke Shop
+07:14:35 PM, Office
+04:29:34 AM, General Travel
+05:45:11 PM, Home (private)
+
+
+User ID: 293, Month: Feb, Date: 12
+06:10:28 PM, Park
+06:09:39 PM, Road
+05:36:21 PM, Convenience Store
+05:24:39 PM, Home (private)
+01:14:24 AM, Deli / Bodega
+01:16:20 AM, Deli / Bodega
+12:58:43 AM, Train Station
+01:15:56 AM, Bakery
+12:58:09 AM, Subway
+04:37:12 AM, General Travel
+04:40:41 AM, Deli / Bodega
+01:13:19 AM, Subway
+05:23:04 PM, Home (private)
+06:09:08 PM, Subway
+05:37:02 PM, General Travel
+05:22:39 PM, Home (private)
+
+
+User ID: 293, Month: Feb, Date: 4
+07:54:36 PM, Convenience Store
+06:38:04 PM, Subway
+05:35:56 PM, Miscellaneous Shop
+04:59:55 PM, Home (private)
+05:00:29 PM, Home (private)
+06:39:28 PM, Park
+05:31:23 PM, Chinese Restaurant
+05:32:00 PM, Home (private)
+
+
+User ID: 293, Month: Feb, Date: 3
+09:31:33 PM, Smoke Shop
+09:27:07 PM, Deli / Bodega
+04:21:01 PM, Home (private)
+06:11:57 AM, General Travel
+09:26:48 PM, Deli / Bodega
+06:10:59 AM, Residential Building (Apartment / Condo)
+06:07:29 AM, General Travel
+05:35:26 PM, Convenience Store
+05:30:51 PM, Chinese Restaurant
+05:32:53 PM, Deli / Bodega
+05:54:18 PM, Drugstore / Pharmacy
+09:25:10 PM, Other Great Outdoors
+
+
+User ID: 293, Month: Feb, Date: 2
+05:39:08 PM, Bakery
+05:38:52 PM, Pizza Place
+05:37:49 PM, Other Great Outdoors
+05:49:53 PM, Smoke Shop
+05:33:58 PM, Residential Building (Apartment / Condo)
+05:07:57 PM, General Travel
+05:22:03 PM, Bank
+05:07:32 PM, Convenience Store
+01:24:19 AM, Deli / Bodega
+01:23:58 AM, Other Great Outdoors
+05:27:21 PM, Drugstore / Pharmacy
+04:13:04 PM, Deli / Bodega
+01:23:39 AM, Subway
+04:44:23 PM, Electronics Store
+05:39:52 PM, Deli / Bodega
+05:07:11 PM, Deli / Bodega
+12:56:02 AM, Road
+04:12:30 PM, Laundry Service
+01:25:24 AM, Bakery
+04:26:27 PM, Miscellaneous Shop
+04:26:58 PM, Miscellaneous Shop
+
+
+User ID: 293, Month: Feb, Date: 5
+09:18:29 PM, General Entertainment
+06:23:41 PM, Road
+05:41:55 PM, Home (private)
+04:34:27 AM, Deli / Bodega
+06:24:29 PM, Park
+01:24:10 AM, Pizza Place
+04:26:08 AM, Deli / Bodega
+05:44:13 PM, Convenience Store
+01:07:42 AM, Subway
+04:26:37 AM, General Travel
+04:33:35 AM, Residential Building (Apartment / Condo)
+04:35:14 AM, General Travel
+09:36:20 PM, Office
+06:31:17 PM, Food Truck
+05:47:28 PM, General Travel
+01:15:53 PM, Home (private)
+05:40:50 PM, Chinese Restaurant
+01:28:02 PM, Miscellaneous Shop
+01:28:46 AM, Deli / Bodega
+01:16:10 PM, Home (private)
+
+
+User ID: 293, Month: Feb, Date: 7
+01:22:41 AM, Deli / Bodega
+04:43:41 AM, Residential Building (Apartment / Condo)
+01:20:05 AM, Bakery
+08:50:47 PM, Office
+01:18:01 AM, Subway
+04:29:37 AM, Other Great Outdoors
+06:30:14 PM, Subway
+01:19:28 AM, Pizza Place
+05:35:22 PM, Convenience Store
+01:18:55 AM, Deli / Bodega
+06:31:18 PM, Park
+04:31:24 AM, General Travel
+12:50:02 AM, General Entertainment
+12:53:29 AM, Subway
+05:34:04 PM, Home (private)
+01:18:30 AM, Other Great Outdoors
+04:44:45 AM, General Travel
+05:13:15 PM, Home (private)
+05:34:56 PM, Deli / Bodega
+05:42:44 PM, General Travel
+06:30:47 PM, Road
+06:34:37 PM, Paper / Office Supplies Store
+05:43:39 PM, Subway
+
+
+User ID: 293, Month: Feb, Date: 11
+08:42:33 PM, Office
+06:40:37 PM, Convenience Store
+06:37:26 PM, Subway
+05:01:12 PM, Home (private)
+05:01:30 PM, Home (private)
+06:38:04 PM, Road
+06:00:31 PM, Home (private)
+06:42:43 PM, Paper / Office Supplies Store
+06:07:22 PM, Subway
+
+
+User ID: 293, Month: Apr, Date: 25
+11:48:45 PM, Subway
+05:18:45 PM, Paper / Office Supplies Store
+04:20:27 PM, Home (private)
+05:14:28 PM, Park
+05:38:00 PM, General Entertainment
+05:16:26 PM, Convenience Store
+04:29:44 PM, General Travel
+04:31:00 PM, Subway
+
+
+User ID: 293, Month: Apr, Date: 11
+11:55:20 PM, Subway
+05:18:56 AM, Bus Station
+05:14:54 PM, Park
+05:01:41 AM, Other Great Outdoors
+05:40:14 PM, General Entertainment
+12:12:51 AM, Neighborhood
+05:01:05 AM, Neighborhood
+04:33:33 PM, Home (private)
+05:13:45 PM, Subway
+04:27:20 PM, Home (private)
+05:16:25 PM, Convenience Store
+
+
+User ID: 293, Month: Apr, Date: 10
+05:20:06 PM, Paper / Office Supplies Store
+05:15:33 PM, Convenience Store
+05:14:19 PM, Park
+06:19:42 AM, Neighborhood
+12:23:55 AM, Smoke Shop
+12:22:25 AM, Other Great Outdoors
+12:23:17 AM, Neighborhood
+04:17:13 PM, General Travel
+06:20:23 AM, Other Great Outdoors
+07:00:24 AM, Bus Station
+04:15:39 PM, Home (private)
+11:51:46 PM, Subway
+04:17:44 PM, Subway
+05:01:07 PM, Music Store
+
+
+User ID: 293, Month: Aug, Date: 17
+05:34:22 PM, Park
+12:18:08 AM, Other Great Outdoors
+12:17:29 AM, Train Station
+12:02:53 AM, Subway
+04:52:58 PM, Subway
+03:39:21 PM, Home (private)
+04:46:55 PM, Chinese Restaurant
+04:48:49 PM, Deli / Bodega
+04:50:09 PM, Convenience Store
+03:37:50 PM, Home (private)
+05:33:02 PM, Road
+
+
+User ID: 293, Month: Aug, Date: 14
+11:56:23 PM, General Entertainment
+05:21:54 PM, Subway
+04:48:20 PM, General Travel
+04:13:40 PM, Home (private)
+11:57:12 PM, Office
+12:44:18 AM, Train Station
+05:26:17 PM, Convenience Store
+06:23:24 AM, Deli / Bodega
+12:44:52 AM, Other Great Outdoors
+06:07:40 AM, General Travel
+12:28:33 AM, Train Station
+12:27:35 AM, Subway
+01:50:43 AM, Smoke Shop
+05:23:19 PM, Park
+04:46:55 PM, Deli / Bodega
+12:46:41 AM, Bakery
+05:28:35 PM, Paper / Office Supplies Store
+12:47:07 AM, Deli / Bodega
+06:31:59 AM, Bus Station
+
+
+User ID: 293, Month: Jan, Date: 31
+06:51:42 PM, Office
+01:27:29 AM, Pizza Place
+05:08:48 AM, General Travel
+06:51:10 PM, General Entertainment
+01:49:18 AM, Deli / Bodega
+05:21:14 PM, Home (private)
+01:26:12 AM, Deli / Bodega
+05:22:06 PM, Home (private)
+01:08:32 AM, Subway
+01:27:56 AM, Bakery
+12:53:45 AM, Office
+01:09:55 AM, Train Station
+12:53:22 AM, General Entertainment
+05:26:24 PM, Subway
+12:55:52 AM, Road
+05:08:17 AM, Deli / Bodega
+12:56:36 AM, Subway
+05:24:47 PM, Convenience Store
+05:25:24 PM, General Travel
+05:56:28 PM, Subway
+06:23:31 PM, Building
+05:57:46 PM, Park
+05:58:20 PM, Convenience Store
+
+
+User ID: 293, Month: Jan, Date: 31
+06:51:42 PM, Office
+01:27:29 AM, Pizza Place
+05:08:48 AM, General Travel
+06:51:10 PM, General Entertainment
+01:49:18 AM, Deli / Bodega
+05:21:14 PM, Home (private)
+01:26:12 AM, Deli / Bodega
+05:22:06 PM, Home (private)
+01:08:32 AM, Subway
+01:27:56 AM, Bakery
+12:53:45 AM, Office
+01:09:55 AM, Train Station
+12:53:22 AM, General Entertainment
+05:26:24 PM, Subway
+12:55:52 AM, Road
+05:08:17 AM, Deli / Bodega
+12:56:36 AM, Subway
+05:24:47 PM, Convenience Store
+05:25:24 PM, General Travel
+05:56:28 PM, Subway
+06:23:31 PM, Building
+05:57:46 PM, Park
+05:58:20 PM, Convenience Store
+
+
+User ID: 293, Month: Jan, Date: 30
+06:25:56 PM, Paper / Office Supplies Store
+05:45:38 AM, General Travel
+05:37:03 AM, General Travel
+05:36:26 AM, Other Great Outdoors
+05:43:07 AM, Residential Building (Apartment / Condo)
+06:23:46 PM, Park
+05:39:59 PM, Chinese Restaurant
+06:20:18 PM, Subway
+05:04:37 PM, Home (private)
+05:51:35 PM, General Travel
+06:24:49 PM, Convenience Store
+
+
+User ID: 293, Month: Jan, Date: 29
+07:26:44 PM, Smoke Shop
+07:24:12 PM, Pizza Place
+06:03:12 PM, General Travel
+05:12:41 PM, Home (private)
+07:26:16 PM, Deli / Bodega
+05:14:36 PM, Home (private)
+05:36:52 PM, Chinese Restaurant
+06:43:17 PM, Bagel Shop
+05:39:21 PM, Convenience Store
+
+
+User ID: 293, Month: Jan, Date: 28
+06:32:54 PM, Park
+05:56:11 PM, Subway
+05:54:45 PM, Convenience Store
+05:53:08 PM, Home (private)
+05:32:23 PM, Home (private)
+06:31:35 PM, Road
+05:29:01 AM, Deli / Bodega
+05:32:44 PM, Home (private)
+05:55:02 PM, General Travel
+05:48:36 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Jan, Date: 27
+08:20:17 PM, Deli / Bodega
+05:16:25 AM, Residential Building (Apartment / Condo)
+07:02:11 PM, Deli / Bodega
+05:17:20 AM, General Travel
+05:11:08 AM, Bagel Shop
+05:09:42 AM, Deli / Bodega
+05:57:40 PM, Miscellaneous Shop
+06:31:49 PM, Convenience Store
+06:50:59 PM, General Travel
+07:00:53 PM, Other Great Outdoors
+07:03:17 PM, Pizza Place
+
+
+User ID: 293, Month: Jan, Date: 9
+08:54:38 PM, Convenience Store
+09:09:24 PM, Office
+01:20:15 AM, Deli / Bodega
+01:02:15 AM, Subway
+12:54:44 AM, Diner
+08:55:03 PM, Paper / Office Supplies Store
+06:15:48 PM, Subway
+05:07:03 AM, General Travel
+05:05:43 AM, Other Great Outdoors
+05:11:42 PM, Home (private)
+05:20:13 AM, Residential Building (Apartment / Condo)
+06:29:04 PM, Road
+05:27:19 PM, General Travel
+05:12:04 PM, Home (private)
+
+
+User ID: 293, Month: Jan, Date: 8
+08:09:17 PM, General Entertainment
+07:31:40 PM, Convenience Store
+12:58:08 AM, Road
+07:20:29 PM, Park
+12:56:18 AM, General Entertainment
+01:23:19 AM, Deli / Bodega
+07:15:53 PM, Subway
+05:42:00 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Jan, Date: 7
+08:16:44 PM, Convenience Store
+08:15:05 PM, Park
+04:30:12 AM, Other Great Outdoors
+05:31:44 PM, Deli / Bodega
+06:07:52 PM, Subway
+08:13:07 PM, Subway
+
+
+User ID: 293, Month: Jan, Date: 1
+06:13:07 PM, Convenience Store
+05:13:37 PM, Home (private)
+05:24:02 PM, Chinese Restaurant
+05:25:18 PM, Deli / Bodega
+06:10:17 PM, Deli / Bodega
+
+
+User ID: 293, Month: Jan, Date: 24
+06:51:30 PM, Office
+05:45:56 PM, Subway
+05:45:02 PM, General Travel
+05:44:34 PM, Convenience Store
+05:20:35 PM, Home (private)
+06:34:28 PM, General Entertainment
+05:21:08 PM, Home (private)
+05:42:06 PM, Chinese Restaurant
+05:44:03 PM, Deli / Bodega
+
+
+User ID: 293, Month: Jan, Date: 2
+06:30:22 PM, Park
+05:37:51 PM, Convenience Store
+05:36:45 PM, Deli / Bodega
+01:22:06 AM, Other Great Outdoors
+06:53:25 PM, General Entertainment
+06:29:40 PM, Road
+01:06:16 AM, Subway
+04:36:28 AM, General Travel
+05:05:44 AM, Deli / Bodega
+
+
+User ID: 293, Month: Jan, Date: 3
+08:07:10 PM, Office
+06:08:07 PM, Road
+01:15:27 AM, Subway
+12:52:26 AM, Subway
+12:50:06 AM, General Entertainment
+05:10:44 PM, Home (private)
+05:28:46 PM, Convenience Store
+12:50:50 AM, Diner
+01:19:29 AM, Other Great Outdoors
+01:19:07 AM, Subway
+05:25:10 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Jan, Date: 4
+07:10:51 PM, General Entertainment
+06:25:29 PM, Bank
+06:19:56 PM, Convenience Store
+06:19:14 PM, Deli / Bodega
+05:48:15 PM, Subway
+01:45:02 AM, Pizza Place
+06:33:40 PM, Paper / Office Supplies Store
+01:44:05 AM, Other Great Outdoors
+05:14:25 PM, Laundry Service
+01:43:16 AM, Subway
+05:35:23 PM, Deli / Bodega
+06:19:05 AM, Other Great Outdoors
+06:33:59 AM, Deli / Bodega
+06:20:43 AM, Deli / Bodega
+06:22:58 AM, General Travel
+01:47:48 AM, Deli / Bodega
+06:35:17 AM, General Travel
+
+
+User ID: 293, Month: Jan, Date: 11
+08:57:39 PM, Deli / Bodega
+07:47:27 PM, General Travel
+09:10:54 AM, Bagel Shop
+09:10:14 AM, Deli / Bodega
+07:41:38 PM, Home (private)
+09:05:48 AM, Other Great Outdoors
+08:47:49 PM, Bakery
+05:17:10 AM, Smoke Shop
+09:25:46 AM, Deli / Bodega
+06:21:44 PM, Home (private)
+07:45:31 PM, Convenience Store
+08:13:26 PM, Deli / Bodega
+09:27:33 AM, General Travel
+06:21:17 PM, Home (private)
+
+
+User ID: 293, Month: Jan, Date: 12
+09:00:28 PM, Pizza Place
+08:59:58 PM, Other Great Outdoors
+08:27:36 PM, Deli / Bodega
+12:00:37 AM, Other Great Outdoors
+04:24:09 PM, Home (private)
+08:28:12 PM, Convenience Store
+12:22:32 AM, Subway
+12:01:18 AM, Subway
+07:08:48 AM, Other Great Outdoors
+07:26:22 AM, Deli / Bodega
+07:09:35 AM, Deli / Bodega
+12:42:41 AM, Subway
+07:10:51 AM, Bagel Shop
+07:28:33 AM, General Travel
+
+
+User ID: 293, Month: Jan, Date: 13
+08:52:37 PM, Smoke Shop
+09:06:16 AM, Bagel Shop
+09:21:22 AM, Deli / Bodega
+05:44:49 PM, Pizza Place
+09:05:41 AM, Deli / Bodega
+08:52:02 PM, Deli / Bodega
+09:04:43 AM, Other Great Outdoors
+05:09:07 PM, Food & Drink Shop
+05:19:03 PM, Convenience Store
+05:20:10 PM, Convenience Store
+05:16:25 PM, Chinese Restaurant
+08:50:47 PM, Bakery
+
+
+User ID: 293, Month: Jan, Date: 13
+08:52:37 PM, Smoke Shop
+09:06:16 AM, Bagel Shop
+09:21:22 AM, Deli / Bodega
+05:44:49 PM, Pizza Place
+09:05:41 AM, Deli / Bodega
+08:52:02 PM, Deli / Bodega
+09:04:43 AM, Other Great Outdoors
+05:09:07 PM, Food & Drink Shop
+05:19:03 PM, Convenience Store
+05:20:10 PM, Convenience Store
+05:16:25 PM, Chinese Restaurant
+08:50:47 PM, Bakery
+
+
+User ID: 293, Month: Jan, Date: 14
+09:10:19 PM, Deli / Bodega
+08:20:07 PM, Pizza Place
+08:17:55 PM, Bagel Shop
+08:14:07 PM, Food & Drink Shop
+08:15:12 AM, Bagel Shop
+08:14:37 AM, Deli / Bodega
+07:01:16 PM, Home (private)
+08:06:19 PM, Deli / Bodega
+08:25:46 AM, Park
+08:30:50 AM, General Travel
+07:29:43 PM, Home (private)
+08:27:25 AM, Deli / Bodega
+07:31:36 PM, Convenience Store
+08:07:31 PM, Residential Building (Apartment / Condo)
+
+
+User ID: 293, Month: Jan, Date: 16
+06:21:59 PM, Convenience Store
+06:49:36 PM, General Travel
+06:18:40 PM, Chinese Restaurant
+05:56:59 PM, Home (private)
+
+
+User ID: 293, Month: Jan, Date: 17
+07:47:13 PM, Smoke Shop
+07:28:39 PM, Bakery
+06:57:33 PM, Deli / Bodega
+07:30:54 PM, Deli / Bodega
+06:46:04 PM, Other Great Outdoors
+02:49:15 PM, Home (private)
+05:09:03 AM, Other Great Outdoors
+03:16:18 PM, Home (private)
+05:37:05 PM, Deli / Bodega
+05:39:15 PM, General Travel
+03:11:14 PM, Deli / Bodega
+06:32:19 PM, Deli / Bodega
+03:10:48 PM, Laundry Service
+05:38:11 PM, Convenience Store
+06:36:02 PM, General Travel
+
+
+User ID: 293, Month: Oct, Date: 27
+10:08:35 PM, Other Great Outdoors
+10:18:02 PM, Deli / Bodega
+09:42:49 PM, General Travel
+09:40:01 PM, Convenience Store
+06:16:39 AM, Deli / Bodega
+06:01:03 AM, General Travel
+06:00:25 AM, Other Great Outdoors
+06:01:36 AM, General Travel
+05:35:35 PM, Home (private)
+09:37:32 PM, Home (private)
+05:36:19 PM, General Travel
+06:36:37 AM, General Travel
+02:49:27 PM, Home (private)
+03:42:22 PM, Deli / Bodega
+
+
+User ID: 293, Month: Oct, Date: 25
+08:49:31 PM, Smoke Shop
+07:45:42 PM, Subway
+07:28:12 PM, Train Station
+07:27:28 PM, Subway
+12:59:36 PM, Home (private)
+03:23:08 AM, General Travel
+12:26:50 AM, Bakery
+03:37:35 AM, Deli / Bodega
+12:06:46 AM, Subway
+05:38:06 PM, Subway
+05:56:13 PM, Smoke Shop
+12:59:17 PM, Home (private)
+12:26:22 AM, Pizza Place
+12:25:20 AM, Subway
+01:06:47 PM, Deli / Bodega
+01:07:30 PM, Convenience Store
+02:40:41 PM, Medical Center
+01:02:20 AM, Smoke Shop
+01:07:55 PM, General Travel
+02:21:06 PM, Subway
+07:47:07 PM, Deli / Bodega
+03:38:05 AM, General Travel
+04:58:12 PM, Drugstore / Pharmacy
+04:58:43 PM, Food & Drink Shop
+05:11:37 PM, Park
+05:10:50 PM, Plaza
+05:23:00 PM, Subway
+
+
+User ID: 293, Month: Oct, Date: 24
+05:33:14 PM, General Entertainment
+05:16:20 PM, Park
+04:42:07 PM, Subway
+04:40:43 PM, General Travel
+04:37:02 PM, Home (private)
+04:36:40 PM, Chinese Restaurant
+04:22:45 PM, Home (private)
+03:38:06 AM, Deli / Bodega
+05:33:45 PM, Office
+05:20:22 PM, Paper / Office Supplies Store
+03:25:59 AM, Other Great Outdoors
+12:24:42 AM, Subway
+12:05:52 AM, Subway
+04:39:05 PM, Convenience Store
+12:25:25 AM, Other Great Outdoors
+03:26:43 AM, General Travel
+12:26:13 AM, Pizza Place
+12:06:55 AM, Train Station
+12:27:04 AM, Bakery
+12:28:02 AM, Deli / Bodega
+11:57:59 PM, Subway
+03:26:19 AM, General Travel
+
+
+User ID: 293, Month: Oct, Date: 23
+11:57:51 PM, Road
+06:57:18 PM, Office
+06:31:28 PM, Convenience Store
+06:20:26 PM, Road
+05:27:16 PM, Subway
+04:36:17 PM, Convenience Store
+04:33:39 PM, Chinese Restaurant
+04:34:13 PM, Home (private)
+12:37:37 AM, Subway
+12:21:12 AM, Train Station
+12:38:08 AM, Train Station
+03:40:09 AM, Deli / Bodega
+11:58:32 PM, Subway
+03:27:34 AM, Other Great Outdoors
+06:39:21 PM, Paper / Office Supplies Store
+12:09:19 AM, Department Store
+03:29:38 AM, General Travel
+06:20:03 PM, Subway
+12:59:13 AM, Deli / Bodega
+03:30:15 AM, General Travel
+04:37:00 PM, General Travel
+03:40:48 AM, General Travel
+
+
+User ID: 293, Month: Oct, Date: 23
+11:57:51 PM, Road
+06:57:18 PM, Office
+06:31:28 PM, Convenience Store
+06:20:26 PM, Road
+05:27:16 PM, Subway
+04:36:17 PM, Convenience Store
+04:33:39 PM, Chinese Restaurant
+04:34:13 PM, Home (private)
+12:37:37 AM, Subway
+12:21:12 AM, Train Station
+12:38:08 AM, Train Station
+03:40:09 AM, Deli / Bodega
+11:58:32 PM, Subway
+03:27:34 AM, Other Great Outdoors
+06:39:21 PM, Paper / Office Supplies Store
+12:09:19 AM, Department Store
+03:29:38 AM, General Travel
+06:20:03 PM, Subway
+12:59:13 AM, Deli / Bodega
+03:30:15 AM, General Travel
+04:37:00 PM, General Travel
+03:40:48 AM, General Travel
+
+
+User ID: 293, Month: Oct, Date: 11
+04:55:27 PM, Convenience Store
+10:39:57 PM, General Entertainment
+04:57:04 PM, General Travel
+05:30:28 PM, Subway
+05:31:42 PM, Park
+
+
+User ID: 293, Month: Oct, Date: 31
+08:50:51 PM, Smoke Shop
+07:47:45 PM, Bakery
+07:45:25 PM, Other Great Outdoors
+07:37:19 PM, Deli / Bodega
+06:53:28 PM, Home (private)
+07:48:18 PM, Deli / Bodega
+07:00:26 PM, General Travel
+06:56:38 PM, Home (private)
+07:46:18 PM, Pizza Place
+06:58:34 PM, Convenience Store
+
+
+User ID: 293, Month: Oct, Date: 8
+05:24:33 PM, Convenience Store
+05:23:00 PM, Park
+04:39:53 PM, Subway
+
+
+User ID: 293, Month: Oct, Date: 19
+07:25:49 PM, Office
+06:56:12 PM, Road
+06:58:48 PM, Convenience Store
+06:33:47 PM, Subway
+05:25:36 PM, Convenience Store
+12:19:48 AM, Other Great Outdoors
+12:05:28 AM, Subway
+12:19:17 AM, Subway
+05:23:59 PM, Deli / Bodega
+12:06:14 AM, Train Station
+03:40:38 PM, Home (private)
+03:41:17 PM, Home (private)
+04:22:26 PM, Chinese Restaurant
+05:30:16 PM, Subway
+
+
+User ID: 293, Month: Oct, Date: 19
+07:25:49 PM, Office
+06:56:12 PM, Road
+06:58:48 PM, Convenience Store
+06:33:47 PM, Subway
+05:25:36 PM, Convenience Store
+12:19:48 AM, Other Great Outdoors
+12:05:28 AM, Subway
+12:19:17 AM, Subway
+05:23:59 PM, Deli / Bodega
+12:06:14 AM, Train Station
+03:40:38 PM, Home (private)
+03:41:17 PM, Home (private)
+04:22:26 PM, Chinese Restaurant
+05:30:16 PM, Subway
+
+
+User ID: 293, Month: Oct, Date: 26
+07:07:55 PM, Deli / Bodega
+07:07:11 PM, Bakery
+07:05:42 PM, Subway
+06:39:15 PM, Drugstore / Pharmacy
+03:23:55 AM, General Travel
+03:23:38 AM, General Travel
+06:24:34 PM, Home (private)
+02:59:38 PM, Home (private)
+03:00:07 PM, Home (private)
+03:30:30 PM, Home (private)
+03:23:02 AM, Other Great Outdoors
+06:38:44 PM, Smoke Shop
+03:32:06 PM, Convenience Store
+05:58:02 PM, Medical Center
+
+
+User ID: 293, Month: Oct, Date: 3
+06:09:18 PM, Office
+05:15:43 PM, Convenience Store
+05:11:04 PM, Road
+05:10:22 PM, Subway
+05:28:09 PM, Paper / Office Supplies Store
+04:19:26 PM, Home (private)
+05:38:38 PM, General Entertainment
+04:36:35 PM, General Travel
+04:38:05 PM, General Travel
+04:34:38 PM, Home (private)
+
+
+User ID: 293, Month: Oct, Date: 16
+06:34:47 PM, Office
+05:42:37 PM, Road
+03:58:55 PM, Home (private)
+05:43:17 PM, Park
+04:29:57 PM, Deli / Bodega
+05:42:08 PM, Subway
+04:29:22 PM, Home (private)
+04:31:02 PM, Convenience Store
+
+
+User ID: 293, Month: Oct, Date: 18
+11:59:07 PM, Subway
+11:56:49 PM, General Entertainment
+05:19:20 PM, Road
+04:02:19 PM, Home (private)
+04:02:44 PM, Home (private)
+04:32:25 PM, Home (private)
+04:34:07 PM, Convenience Store
+
+
+User ID: 293, Month: Dec, Date: 30
+05:21:44 PM, Bakery
+05:20:26 PM, Other Great Outdoors
+05:13:19 PM, General Travel
+04:42:35 PM, Convenience Store
+04:03:32 AM, Smoke Shop
+07:06:19 AM, Other Great Outdoors
+04:52:20 PM, General Travel
+03:49:42 PM, Home (private)
+04:41:35 PM, Deli / Bodega
+07:18:14 AM, Deli / Bodega
+
+
+User ID: 293, Month: Dec, Date: 28
+06:39:18 PM, Paper / Office Supplies Store
+06:14:24 PM, Park
+06:11:37 PM, Subway
+05:16:34 AM, General Travel
+01:09:41 AM, Subway
+12:53:52 AM, Subway
+12:45:22 AM, Diner
+04:43:16 PM, Home (private)
+06:15:41 PM, Deli / Bodega
+05:33:49 PM, General Travel
+05:30:32 PM, Chinese Restaurant
+05:31:44 PM, Deli / Bodega
+05:32:18 PM, Convenience Store
+05:34:45 PM, Subway
+
+
+User ID: 293, Month: Dec, Date: 27
+06:15:38 PM, Subway
+06:18:40 PM, Deli / Bodega
+05:38:07 PM, Convenience Store
+05:06:20 PM, Home (private)
+
+
+User ID: 293, Month: Dec, Date: 23
+04:26:40 PM, General Travel
+08:31:36 AM, General Travel
+08:28:18 AM, Park
+08:13:08 AM, Bagel Shop
+08:28:45 AM, Residential Building (Apartment / Condo)
+08:10:32 AM, Other Great Outdoors
+03:13:33 PM, Home (private)
+04:12:58 PM, Convenience Store
+04:26:20 PM, Deli / Bodega
+04:27:44 PM, Pizza Place
+04:12:34 PM, Deli / Bodega
+03:39:04 PM, Donut Shop
+
+
+User ID: 293, Month: Dec, Date: 7
+07:26:54 PM, General Entertainment
+06:32:54 PM, Bank
+01:05:53 AM, Subway
+06:25:44 PM, Park
+01:03:23 AM, General Entertainment
+01:05:22 AM, Road
+01:01:52 AM, Diner
+06:22:14 PM, Subway
+01:29:08 AM, Other Great Outdoors
+04:40:07 AM, General Travel
+06:22:59 PM, Road
+01:14:51 AM, Train Station
+05:06:15 AM, General Travel
+05:44:53 PM, General Travel
+04:41:04 PM, Home (private)
+05:43:29 PM, Convenience Store
+
+
+User ID: 293, Month: Dec, Date: 5
+05:40:05 PM, Convenience Store
+06:20:27 PM, Park
+12:55:22 AM, Diner
+01:29:23 AM, Pizza Place
+06:19:53 PM, Road
+01:30:43 AM, Deli / Bodega
+04:36:56 AM, General Travel
+05:24:28 PM, Home (private)
+12:56:14 AM, Road
+04:34:55 AM, Other Great Outdoors
+12:56:50 AM, Subway
+04:58:29 AM, General Travel
+04:57:33 AM, Deli / Bodega
+05:24:08 PM, Home (private)
+
+
+User ID: 293, Month: Dec, Date: 4
+11:45:03 PM, Office
+06:30:43 PM, Park
+05:46:04 PM, Convenience Store
+06:31:09 PM, Convenience Store
+05:05:01 AM, General Travel
+12:59:31 AM, Subway
+05:04:32 AM, General Travel
+12:58:37 AM, Road
+01:26:43 AM, Other Great Outdoors
+01:28:28 AM, Deli / Bodega
+01:42:53 AM, Smoke Shop
+06:29:31 PM, Subway
+05:03:40 AM, Other Great Outdoors
+05:45:22 PM, Deli / Bodega
+05:21:36 AM, Deli / Bodega
+
+
+User ID: 293, Month: Dec, Date: 4
+11:45:03 PM, Office
+06:30:43 PM, Park
+05:46:04 PM, Convenience Store
+06:31:09 PM, Convenience Store
+05:05:01 AM, General Travel
+12:59:31 AM, Subway
+05:04:32 AM, General Travel
+12:58:37 AM, Road
+01:26:43 AM, Other Great Outdoors
+01:28:28 AM, Deli / Bodega
+01:42:53 AM, Smoke Shop
+06:29:31 PM, Subway
+05:03:40 AM, Other Great Outdoors
+05:45:22 PM, Deli / Bodega
+05:21:36 AM, Deli / Bodega
+
+
+User ID: 293, Month: Dec, Date: 12
+07:30:24 PM, Office
+05:52:28 PM, Subway
+05:49:10 PM, Convenience Store
+01:36:05 AM, Bakery
+05:50:34 PM, General Travel
+01:21:35 AM, Train Station
+01:12:59 AM, Road
+06:33:44 PM, Road
+01:13:43 AM, Subway
+05:11:55 AM, Deli / Bodega
+06:38:22 PM, Paper / Office Supplies Store
+01:02:02 AM, Sandwich Place
+06:35:55 PM, Convenience Store
+05:47:32 PM, Home (private)
+06:33:25 PM, Subway
+05:48:32 PM, Deli / Bodega
+05:07:56 AM, General Travel
+05:46:49 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Dec, Date: 12
+07:30:24 PM, Office
+05:52:28 PM, Subway
+05:49:10 PM, Convenience Store
+01:36:05 AM, Bakery
+05:50:34 PM, General Travel
+01:21:35 AM, Train Station
+01:12:59 AM, Road
+06:33:44 PM, Road
+01:13:43 AM, Subway
+05:11:55 AM, Deli / Bodega
+06:38:22 PM, Paper / Office Supplies Store
+01:02:02 AM, Sandwich Place
+06:35:55 PM, Convenience Store
+05:47:32 PM, Home (private)
+06:33:25 PM, Subway
+05:48:32 PM, Deli / Bodega
+05:07:56 AM, General Travel
+05:46:49 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Dec, Date: 14
+08:19:07 PM, General Entertainment
+06:29:55 PM, Road
+05:56:37 PM, Chinese Restaurant
+05:59:54 PM, General Travel
+06:29:29 PM, Subway
+05:58:05 PM, Home (private)
+06:30:21 PM, Park
+06:00:48 PM, Subway
+05:59:35 PM, Convenience Store
+
+
+User ID: 293, Month: Dec, Date: 15
+10:44:06 PM, Pizza Place
+10:43:38 PM, Other Great Outdoors
+08:28:07 PM, Food & Drink Shop
+08:00:22 PM, General Travel
+05:02:15 PM, Laundry Service
+04:37:21 PM, Home (private)
+01:22:49 AM, Drugstore / Pharmacy
+12:55:51 AM, Road
+12:54:30 AM, General Entertainment
+10:05:58 PM, Convenience Store
+06:37:04 AM, Deli / Bodega
+01:23:57 AM, Smoke Shop
+12:55:00 AM, Diner
+06:25:38 AM, General Travel
+03:22:30 AM, Subway
+07:58:11 PM, Deli / Bodega
+06:24:41 AM, Other Great Outdoors
+08:13:08 PM, Bus Station
+06:37:47 AM, General Travel
+
+
+User ID: 293, Month: Dec, Date: 16
+05:48:38 PM, Deli / Bodega
+05:36:37 PM, Pizza Place
+05:35:54 PM, Bagel Shop
+05:35:17 PM, Other Great Outdoors
+09:19:07 AM, General Travel
+09:18:44 AM, General Travel
+08:16:33 AM, Deli / Bodega
+09:14:30 AM, Deli / Bodega
+05:08:04 PM, Deli / Bodega
+04:35:37 PM, Home (private)
+04:51:11 PM, Home (private)
+04:54:17 PM, Convenience Store
+04:54:52 PM, General Travel
+05:16:04 PM, General Travel
+
+
+User ID: 293, Month: Dec, Date: 17
+07:17:44 PM, Road
+05:54:38 PM, Subway
+08:00:15 PM, Office
+05:41:10 PM, Home (private)
+07:14:39 PM, Road
+05:51:26 PM, Home (private)
+05:52:42 PM, Deli / Bodega
+07:59:26 PM, General Entertainment
+05:53:15 PM, Convenience Store
+
+
+User ID: 293, Month: Dec, Date: 19
+06:39:46 PM, Paper / Office Supplies Store
+06:31:35 PM, Convenience Store
+06:30:24 PM, Park
+06:29:53 PM, Road
+06:29:19 PM, Subway
+05:45:42 PM, Deli / Bodega
+05:34:36 PM, Home (private)
+01:25:28 AM, Bakery
+12:57:50 AM, Subway
+12:56:09 AM, General Entertainment
+05:44:14 PM, Home (private)
+05:31:56 AM, Other Great Outdoors
+05:32:29 AM, General Travel
+05:50:07 AM, Deli / Bodega
+01:26:07 AM, Deli / Bodega
+05:50:44 AM, General Travel
+05:43:53 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Dec, Date: 21
+06:26:32 PM, Smoke Shop
+05:11:41 PM, General Travel
+05:11:12 PM, Convenience Store
+05:09:16 PM, Home (private)
+12:59:53 AM, General Entertainment
+01:00:54 AM, Convenience Store
+05:12:43 PM, Subway
+01:02:55 AM, Subway
+05:08:41 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Dec, Date: 21
+06:26:32 PM, Smoke Shop
+05:11:41 PM, General Travel
+05:11:12 PM, Convenience Store
+05:09:16 PM, Home (private)
+12:59:53 AM, General Entertainment
+01:00:54 AM, Convenience Store
+05:12:43 PM, Subway
+01:02:55 AM, Subway
+05:08:41 PM, Chinese Restaurant
+
+
+User ID: 293, Month: Dec, Date: 22
+10:44:44 PM, Deli / Bodega
+10:31:34 PM, General Travel
+10:06:42 PM, Deli / Bodega
+07:00:05 PM, Camera Store
+06:43:51 PM, Clothing Store
+10:05:59 PM, Chinese Restaurant
+05:44:59 AM, Deli / Bodega
+12:42:34 AM, General Entertainment
+12:39:44 AM, Park
+05:41:15 PM, Home (private)
+12:40:38 AM, General Entertainment
+12:40:11 AM, Convenience Store
+01:07:49 AM, Pizza Place
+12:52:20 AM, Train Station
+01:07:29 AM, Other Great Outdoors
+01:08:17 AM, Bakery
+05:48:15 AM, General Travel
+01:08:44 AM, Deli / Bodega
+05:35:12 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 13
+05:51:04 PM, General Travel
+05:49:27 PM, Convenience Store
+05:48:06 PM, Deli / Bodega
+05:45:42 PM, Chinese Restaurant
+04:32:09 AM, General Travel
+05:46:21 PM, Home (private)
+05:52:07 PM, Subway
+04:39:25 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 9
+07:07:08 PM, General Entertainment
+06:22:44 PM, Road
+05:38:02 PM, Home (private)
+05:40:54 PM, Chinese Restaurant
+05:41:12 PM, Convenience Store
+05:44:06 PM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 12
+07:08:54 PM, Other Great Outdoors
+07:09:23 PM, Pizza Place
+07:02:26 PM, Deli / Bodega
+05:48:26 PM, Home (private)
+05:47:49 PM, Home (private)
+06:54:11 PM, General Travel
+04:20:54 AM, Smoke Shop
+04:20:18 AM, Pizza Place
+04:19:28 AM, Subway
+05:20:05 AM, General Travel
+12:36:07 AM, Train Station
+05:19:49 AM, Other Great Outdoors
+05:20:26 AM, General Travel
+07:38:16 PM, Smoke Shop
+06:51:46 PM, Home (private)
+05:22:44 AM, Deli / Bodega
+06:53:11 PM, Convenience Store
+06:52:52 PM, Deli / Bodega
+04:19:45 AM, Other Great Outdoors
+05:23:14 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 5
+06:25:27 PM, Paper / Office Supplies Store
+06:20:48 PM, Park
+05:30:57 PM, Subway
+06:22:30 PM, Convenience Store
+05:02:12 PM, Home (private)
+05:26:05 PM, Chinese Restaurant
+05:02:45 PM, Home (private)
+05:26:33 PM, Home (private)
+
+
+User ID: 293, Month: Nov, Date: 7
+06:02:02 PM, Road
+05:23:05 PM, Convenience Store
+05:20:49 PM, Chinese Restaurant
+04:53:17 PM, Home (private)
+06:03:17 AM, Other Great Outdoors
+05:41:36 AM, General Travel
+02:24:39 AM, General Travel
+05:07:22 AM, General Travel
+05:23:52 PM, General Travel
+04:53:57 PM, Home (private)
+02:00:54 AM, Deli / Bodega
+02:54:14 AM, Deli / Bodega
+05:40:26 AM, Deli / Bodega
+02:00:20 AM, Train Station
+06:03:46 PM, Paper / Office Supplies Store
+01:59:35 AM, Subway
+02:53:26 AM, Other Great Outdoors
+02:53:46 AM, Pizza Place
+05:21:15 PM, Home (private)
+05:06:38 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 17
+10:57:10 PM, Bakery
+10:54:59 PM, Other Great Outdoors
+10:49:32 PM, Food & Drink Shop
+10:54:17 PM, Pizza Place
+09:56:55 PM, Home (private)
+10:23:05 PM, Home (private)
+06:55:08 PM, Convenience Store
+10:51:56 PM, Pizza Place
+06:53:11 PM, Home (private)
+04:43:53 PM, Laundry Service
+01:06:10 AM, Bakery
+04:33:12 PM, Home (private)
+12:42:54 AM, Subway
+10:58:46 PM, Deli / Bodega
+10:43:08 PM, Residential Building (Apartment / Condo)
+01:05:04 AM, Other Great Outdoors
+01:07:03 AM, Smoke Shop
+05:49:54 AM, Other Great Outdoors
+04:43:01 PM, Deli / Bodega
+05:53:12 AM, Bagel Shop
+01:05:47 AM, Pizza Place
+06:12:37 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 19
+08:22:38 PM, Office
+05:47:31 PM, Chinese Restaurant
+06:31:29 PM, Road
+05:52:47 PM, Subway
+05:48:43 PM, Home (private)
+05:51:46 PM, Convenience Store
+08:22:16 PM, General Entertainment
+04:59:45 PM, Home (private)
+05:52:12 PM, General Travel
+05:01:12 PM, Home (private)
+06:32:10 PM, Park
+
+
+User ID: 293, Month: Nov, Date: 20
+06:51:06 PM, General Entertainment
+06:26:15 PM, Convenience Store
+06:23:18 PM, Road
+05:31:55 PM, General Travel
+05:30:43 PM, Deli / Bodega
+05:29:16 PM, Home (private)
+05:28:48 PM, Chinese Restaurant
+05:01:56 PM, Home (private)
+05:19:19 AM, General Travel
+01:12:22 AM, Subway
+01:01:07 AM, Building
+06:32:29 PM, Post Office
+01:30:47 AM, Other Great Outdoors
+01:31:37 AM, Pizza Place
+06:24:01 PM, Park
+01:05:33 AM, Subway
+05:18:50 AM, Deli / Bodega
+01:41:12 AM, Deli / Bodega
+01:43:37 AM, Smoke Shop
+01:32:10 AM, Bakery
+05:06:50 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 22
+11:23:10 PM, Other Great Outdoors
+04:55:25 PM, Road
+03:46:14 PM, Deli / Bodega
+03:10:12 PM, Home (private)
+03:45:15 PM, Home (private)
+01:22:46 AM, Subway
+01:24:56 AM, Deli / Bodega
+04:56:41 PM, Deli / Bodega
+02:09:42 AM, Smoke Shop
+05:26:09 PM, Office
+01:24:27 AM, Bakery
+12:52:50 AM, Diner
+06:26:10 AM, Other Great Outdoors
+06:28:05 AM, General Travel
+03:47:24 PM, Convenience Store
+06:36:23 AM, Deli / Bodega
+12:55:21 AM, Subway
+06:36:57 AM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 23
+08:17:46 PM, Office
+07:55:07 PM, General Entertainment
+06:18:18 PM, Convenience Store
+04:45:19 PM, Subway
+04:43:08 PM, Chinese Restaurant
+04:44:07 PM, Convenience Store
+05:54:02 PM, Smoke Shop
+05:42:51 PM, Smoke Shop
+04:43:31 PM, Home (private)
+04:44:30 PM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 23
+08:17:46 PM, Office
+07:55:07 PM, General Entertainment
+06:18:18 PM, Convenience Store
+04:45:19 PM, Subway
+04:43:08 PM, Chinese Restaurant
+04:44:07 PM, Convenience Store
+05:54:02 PM, Smoke Shop
+05:42:51 PM, Smoke Shop
+04:43:31 PM, Home (private)
+04:44:30 PM, General Travel
+
+
+User ID: 293, Month: Nov, Date: 25
+04:58:45 PM, Deli / Bodega
+04:50:34 PM, Other Great Outdoors
+04:36:44 PM, General Travel
+04:34:38 PM, Convenience Store
+04:07:01 PM, Food & Drink Shop
+04:46:49 PM, Deli / Bodega
+08:34:11 AM, General Travel
+04:01:22 PM, Home (private)
+08:18:15 AM, Bagel Shop
+08:33:39 AM, Deli / Bodega
+
+
+User ID: 293, Month: Nov, Date: 26
+02:45:56 PM, Home (private)
+07:48:01 PM, Office
+05:46:28 PM, Convenience Store
+05:50:50 AM, General Travel
+05:45:59 PM, Deli / Bodega
+05:35:26 AM, General Travel
+07:47:36 PM, General Entertainment
+05:50:01 PM, Subway
+06:31:53 PM, Subway
+05:43:37 PM, Chinese Restaurant
+07:47:02 PM, Park
+
+
+User ID: 293, Month: Nov, Date: 27
+06:47:14 PM, Office
+06:26:53 PM, Convenience Store
+06:21:05 PM, Park
+06:32:49 PM, Paper / Office Supplies Store
+01:23:53 AM, Other Great Outdoors
+01:09:50 AM, Subway
+05:11:23 PM, Home (private)
+01:23:13 AM, Subway
+05:40:08 PM, Chinese Restaurant
+01:10:16 AM, Subway
+01:24:47 AM, Bakery
+05:44:32 PM, Subway
+05:11:01 PM, Home (private)
+06:18:47 PM, Subway
+
+
+User ID: 704, Month: May, Date: 19
+08:23:39 PM, Convenience Store
+03:13:50 PM, Train Station
+04:00:35 AM, Bowling Alley
+
+
+User ID: 950, Month: Apr, Date: 24
+11:49:03 PM, Diner
+11:41:05 PM, Convenience Store
+12:34:44 AM, Home (private)
+
+
+User ID: 950, Month: May, Date: 9
+05:45:56 PM, Convenience Store
+05:33:04 PM, Home (private)
+05:18:05 PM, Pool
+05:16:58 PM, Gym / Fitness Center
+04:53:20 PM, Scenic Lookout
+05:05:43 PM, Park
+04:54:43 PM, Performing Arts Venue
+04:56:41 PM, Harbor / Marina
+
+
+User ID: 816, Month: Jan, Date: 13
+11:47:08 PM, Convenience Store
+11:47:00 PM, Bank
+
+
+User ID: 816, Month: Dec, Date: 29
+08:11:13 PM, Toy / Game Store
+10:02:27 PM, Sporting Goods Shop
+06:44:07 PM, Taco Place
+04:30:35 AM, Home (private)
+02:52:05 PM, Convenience Store
+06:14:28 PM, Bank
+10:56:31 PM, Home (private)
+06:43:58 PM, Food & Drink Shop
+
+
+User ID: 816, Month: Dec, Date: 22
+01:10:58 AM, Gas Station / Garage
+08:46:50 AM, Home (private)
+06:41:05 AM, Department Store
+03:51:12 AM, Home (private)
+06:19:37 AM, Convenience Store
+
+
+User ID: 816, Month: Jul, Date: 4
+06:31:46 PM, Convenience Store
+10:30:12 PM, Fast Food Restaurant
+02:55:14 PM, Home (private)
+01:18:01 AM, Bank
+07:24:12 PM, Home (private)
+01:31:12 AM, Home (private)
+06:10:43 PM, Video Game Store
+02:09:55 PM, Donut Shop
+02:43:49 PM, Deli / Bodega
+
+
+User ID: 848, Month: Apr, Date: 10
+10:50:20 AM, Gym / Fitness Center
+05:13:39 PM, Convenience Store
+01:31:28 AM, Bar
+
+
+User ID: 853, Month: Jul, Date: 6
+11:03:46 PM, Building
+10:48:14 PM, Food & Drink Shop
+10:17:24 AM, Subway
+01:58:28 PM, Convenience Store
+01:26:47 PM, Subway
+02:16:28 PM, Flea Market
+
+
+User ID: 853, Month: May, Date: 31
+02:30:26 PM, Convenience Store
+01:25:15 PM, Food & Drink Shop
+
+
+User ID: 853, Month: Apr, Date: 17
+05:22:16 PM, Building
+02:17:25 PM, Convenience Store
+02:16:28 PM, Convenience Store
+09:21:21 AM, Subway
+
+
+User ID: 853, Month: Apr, Date: 17
+05:22:16 PM, Building
+02:17:25 PM, Convenience Store
+02:16:28 PM, Convenience Store
+09:21:21 AM, Subway
+
+
+User ID: 853, Month: Apr, Date: 4
+01:33:45 PM, Drugstore / Pharmacy
+01:19:40 PM, Convenience Store
+01:08:23 PM, Coffee Shop
+
+
+User ID: 207, Month: Jun, Date: 18
+02:32:18 PM, School
+02:31:52 PM, School
+02:31:21 PM, Medical Center
+12:48:59 PM, Convenience Store
+
+
+User ID: 1025, Month: Jun, Date: 4
+10:09:47 PM, Residential Building (Apartment / Condo)
+10:09:04 PM, Church
+09:04:06 PM, Convenience Store
+09:20:48 PM, Food & Drink Shop
+09:21:49 PM, Church
+09:22:22 PM, Playground
+
+
+User ID: 443, Month: Apr, Date: 18
+11:23:25 PM, Convenience Store
+10:56:50 PM, Road
+10:34:36 PM, Train Station
+01:20:11 PM, Office
+11:40:53 PM, Bar
+09:47:26 PM, Caf�
+09:22:53 PM, Other Great Outdoors
+04:02:44 PM, Harbor / Marina
+01:34:20 PM, Office
+04:57:46 PM, Building
+
+
+User ID: 443, Month: Jul, Date: 16
+07:57:08 PM, Office
+06:27:24 PM, Office
+11:56:46 AM, Subway
+11:56:21 AM, Residential Building (Apartment / Condo)
+09:44:13 PM, Vietnamese Restaurant
+10:54:06 AM, Building
+07:56:52 PM, Food & Drink Shop
+09:46:51 AM, Bar
+10:50:16 PM, Convenience Store
+06:27:00 PM, Food & Drink Shop
+03:08:38 PM, Office
+10:39:35 PM, Bus Station
+11:57:37 AM, Bridge
+12:11:59 PM, Deli / Bodega
+04:55:28 PM, Food & Drink Shop
+12:13:37 PM, Other Great Outdoors
+12:17:58 PM, Professional & Other Places
+01:58:16 PM, Office
+
+
+User ID: 131, Month: Apr, Date: 29
+02:27:16 AM, Bar
+01:47:02 AM, Convenience Store
+
+
+User ID: 540, Month: Apr, Date: 25
+05:07:42 PM, Home (private)
+04:09:19 PM, Other Great Outdoors
+04:06:18 PM, Art Gallery
+01:16:00 PM, Home (private)
+04:10:59 PM, Convenience Store
+04:09:40 PM, Mall
+01:16:41 PM, Building
+05:11:05 PM, Home (private)
+01:17:03 PM, Bar
+04:00:34 PM, General Travel
+
+
+User ID: 734, Month: Feb, Date: 3
+07:56:24 PM, City
+07:56:33 PM, Home (private)
+05:32:51 AM, Convenience Store
+
+
+User ID: 734, Month: Feb, Date: 5
+10:35:29 PM, General Travel
+09:00:45 PM, Convenience Store
+08:44:35 PM, General Travel
+
+
+User ID: 734, Month: Jan, Date: 8
+10:00:18 PM, Convenience Store
+07:56:12 PM, City
+07:56:02 PM, General Travel
+
+
+User ID: 734, Month: Oct, Date: 8
+08:24:00 PM, Home (private)
+08:23:52 PM, City
+07:48:16 PM, Convenience Store
+
+
+User ID: 734, Month: Dec, Date: 12
+09:35:33 PM, Convenience Store
+09:23:25 PM, Other Great Outdoors
+09:23:11 PM, Bank
+09:17:05 PM, General Travel
+
+
+User ID: 734, Month: Nov, Date: 25
+08:29:36 PM, Convenience Store
+07:49:58 PM, General Travel
+
+
+User ID: 752, Month: Jun, Date: 5
+05:32:52 AM, Home (private)
+02:47:18 AM, Convenience Store
+12:27:52 AM, Home (private)
+
+
+User ID: 354, Month: Apr, Date: 10
+10:00:46 PM, Convenience Store
+10:33:04 PM, Drugstore / Pharmacy
+10:01:29 PM, Deli / Bodega
+01:41:16 AM, Office
+01:40:25 AM, Residential Building (Apartment / Condo)
+10:32:49 PM, Residential Building (Apartment / Condo)
+10:07:04 PM, Drugstore / Pharmacy
+10:32:35 PM, Subway
+12:04:20 AM, Fast Food Restaurant
+10:01:46 PM, Bar
+10:01:12 PM, Fast Food Restaurant
+10:03:51 PM, Bakery
+
+
+User ID: 354, Month: Apr, Date: 9
+11:56:48 PM, Fast Food Restaurant
+11:53:32 PM, Train Station
+11:51:28 PM, Subway
+05:49:40 PM, Sandwich Place
+05:49:03 PM, Sushi Restaurant
+11:55:25 PM, Subway
+11:52:59 PM, Subway
+05:48:38 PM, Residential Building (Apartment / Condo)
+05:46:08 PM, Caf�
+05:45:50 PM, Coffee Shop
+05:45:35 PM, Ice Cream Shop
+05:16:13 PM, Taco Place
+06:26:28 PM, Movie Theater
+05:35:32 PM, French Restaurant
+05:03:34 PM, Deli / Bodega
+06:26:02 PM, Electronics Store
+12:10:08 PM, Office
+05:08:54 PM, Coffee Shop
+12:10:26 PM, Subway
+04:56:36 PM, Restaurant
+12:41:18 PM, Subway
+11:52:48 PM, Subway
+12:41:03 PM, Subway
+12:41:35 PM, Subway
+11:56:33 PM, Drugstore / Pharmacy
+12:40:47 PM, Subway
+03:57:40 PM, Subway
+11:52:18 PM, Subway
+04:56:55 PM, Bar
+12:54:21 PM, Subway
+05:01:43 PM, Convenience Store
+04:42:26 PM, Subway
+12:53:38 PM, Train Station
+04:43:20 PM, Subway
+05:55:17 PM, Caf�
+12:53:57 PM, Train Station
+12:42:07 PM, Subway
+04:59:57 PM, Art Gallery
+12:42:34 PM, Subway
+04:57:31 PM, Art Gallery
+04:42:49 PM, Subway
+05:00:30 PM, Deli / Bodega
+05:02:04 PM, Bar
+
+
+User ID: 354, Month: Apr, Date: 20
+06:31:02 PM, Subway
+06:30:17 PM, Subway
+04:52:19 PM, Government Building
+04:50:12 PM, Subway
+04:40:05 PM, Park
+04:05:57 PM, Government Building
+03:58:08 PM, Government Building
+03:40:38 PM, Subway
+06:31:12 PM, Subway
+03:57:57 PM, Park
+02:03:23 PM, Subway
+12:03:30 PM, Office
+01:00:45 AM, Deli / Bodega
+12:11:52 AM, Office
+12:04:31 PM, Subway
+01:01:04 AM, Bar
+01:00:23 AM, Convenience Store
+12:11:12 AM, Train Station
+01:00:33 PM, Train Station
+12:07:52 PM, Subway
+01:00:34 AM, Bakery
+12:05:31 PM, Subway
+03:55:19 PM, Subway
+12:05:46 PM, Subway
+12:04:14 PM, Subway
+12:07:35 PM, Subway
+03:40:57 PM, Subway
+12:41:20 PM, Train Station
+12:41:34 PM, Subway
+12:41:04 PM, Subway
+12:11:31 AM, Residential Building (Apartment / Condo)
+02:03:12 PM, Subway
+02:03:39 PM, Office
+01:31:37 PM, Train Station
+12:05:02 PM, Subway
+01:31:52 PM, Subway
+
+
+User ID: 364, Month: Jul, Date: 8
+07:13:17 PM, Home (private)
+11:27:06 PM, Latin American Restaurant
+02:04:35 AM, Home (private)
+07:49:40 AM, Home (private)
+07:58:36 AM, Convenience Store
+04:36:59 AM, Bar
+
+
+User ID: 385, Month: May, Date: 23
+10:30:38 PM, Food & Drink Shop
+10:51:11 PM, Food & Drink Shop
+09:17:41 PM, Food & Drink Shop
+08:56:09 PM, Convenience Store
+
+
+User ID: 582, Month: May, Date: 9
+02:59:51 PM, Convenience Store
+05:52:31 PM, Sporting Goods Shop
+05:14:14 PM, Coffee Shop
+12:02:30 PM, Other Great Outdoors
+
+
+User ID: 582, Month: Apr, Date: 23
+10:53:40 PM, Pizza Place
+06:02:20 PM, Home (private)
+05:18:16 PM, Ferry
+04:08:57 PM, Convenience Store
+
+
+User ID: 582, Month: Dec, Date: 21
+10:47:45 PM, Italian Restaurant
+08:47:13 PM, Government Building
+09:09:37 PM, Convenience Store
+09:24:36 PM, Bank
+10:24:56 PM, Food & Drink Shop
+
+
+User ID: 425, Month: Apr, Date: 27
+09:37:15 PM, Convenience Store
+03:41:45 PM, Bookstore
+02:31:07 PM, Arcade
+
+
+User ID: 425, Month: Apr, Date: 13
+03:39:44 PM, Bookstore
+03:39:22 PM, Convenience Store
+03:02:07 PM, Arcade
+03:16:44 AM, Arcade
+
+
+User ID: 425, Month: Apr, Date: 15
+06:52:34 PM, Bookstore
+02:16:06 AM, Drugstore / Pharmacy
+03:21:16 AM, Pizza Place
+06:50:50 PM, Convenience Store
+03:21:31 AM, Arcade
+02:33:14 PM, Arcade
+
+
+User ID: 425, Month: Apr, Date: 18
+08:28:25 PM, Bookstore
+03:43:48 PM, Bookstore
+08:24:28 PM, Convenience Store
+02:55:49 PM, Arcade
+
+
+User ID: 425, Month: May, Date: 25
+10:22:23 PM, Convenience Store
+07:49:25 PM, Bookstore
+02:02:52 PM, Arcade
+03:30:51 PM, Bookstore
+06:10:05 PM, Coffee Shop
+07:49:01 PM, Convenience Store
+
+
+User ID: 425, Month: May, Date: 25
+10:22:23 PM, Convenience Store
+07:49:25 PM, Bookstore
+02:02:52 PM, Arcade
+03:30:51 PM, Bookstore
+06:10:05 PM, Coffee Shop
+07:49:01 PM, Convenience Store
+
+
+User ID: 425, Month: May, Date: 3
+11:34:49 PM, Bookstore
+10:26:41 PM, Coffee Shop
+07:54:27 PM, Convenience Store
+02:37:05 PM, Arcade
+
+
+User ID: 425, Month: May, Date: 13
+08:04:12 PM, Arcade
+12:24:58 AM, Arcade
+03:53:13 PM, Bookstore
+06:38:07 PM, Convenience Store
+07:13:13 PM, Music Venue
+
+
+User ID: 425, Month: Jun, Date: 26
+07:39:50 PM, Bookstore
+11:55:32 PM, Arcade
+07:39:36 PM, Convenience Store
+
+
+User ID: 425, Month: Jun, Date: 7
+08:21:12 PM, Pizza Place
+07:32:07 PM, Convenience Store
+03:47:39 PM, Bookstore
+02:23:21 PM, Arcade
+
+
+User ID: 425, Month: Jun, Date: 10
+10:16:56 PM, Office
+08:25:51 PM, Bookstore
+02:57:37 PM, Arcade
+02:44:44 AM, Arcade
+12:54:13 AM, Arcade
+02:04:31 AM, Music Venue
+03:47:23 PM, Pizza Place
+03:04:02 PM, Deli / Bodega
+07:36:00 PM, Coffee Shop
+07:42:20 PM, Convenience Store
+08:20:50 PM, Coffee Shop
+07:48:36 PM, Bookstore
+
+
+User ID: 425, Month: Jul, Date: 18
+04:21:08 PM, Bookstore
+04:20:37 PM, Convenience Store
+03:00:13 PM, Arcade
+12:11:56 AM, Arcade
+
+
+User ID: 425, Month: Jul, Date: 4
+11:26:31 PM, Arcade
+12:05:40 AM, Office
+02:44:38 AM, Music Venue
+08:04:34 PM, Bookstore
+01:54:00 PM, Arcade
+07:59:23 PM, Convenience Store
+
+
+User ID: 425, Month: Jul, Date: 3
+10:46:00 PM, Bookstore
+06:56:58 PM, Bookstore
+06:50:00 PM, Convenience Store
+02:41:56 AM, Arcade
+03:41:45 AM, Arcade
+01:38:25 PM, Arcade
+01:52:42 PM, Bookstore
+
+
+User ID: 425, Month: Jul, Date: 5
+03:44:40 PM, Bookstore
+03:32:31 AM, Arcade
+04:37:27 AM, Arcade
+02:16:53 PM, Arcade
+07:50:03 PM, Convenience Store
+04:19:22 AM, Music Venue
+
+
+User ID: 425, Month: Jul, Date: 6
+12:23:16 AM, Arcade
+08:00:47 PM, Convenience Store
+03:47:49 PM, Bookstore
+12:54:45 AM, Music Venue
+03:05:21 AM, Arcade
+
+
+User ID: 820, Month: Oct, Date: 23
+11:52:34 AM, Bakery
+11:10:17 AM, Convenience Store
+
+
+User ID: 820, Month: Apr, Date: 15
+08:10:38 PM, Food & Drink Shop
+08:10:03 PM, Park
+08:09:14 PM, Convenience Store
+
+
+User ID: 820, Month: May, Date: 7
+10:44:07 PM, Coffee Shop
+12:17:03 PM, Bakery
+11:36:47 AM, Convenience Store
+11:36:21 AM, Electronics Store
+12:16:11 PM, Bank
+11:36:38 AM, Deli / Bodega
+12:16:51 PM, Caf�
+12:16:24 PM, Bus Station
+12:16:35 PM, Coffee Shop
+11:36:56 AM, Playground
+02:14:55 AM, Laundry Service
+11:37:05 AM, Post Office
+
+
+User ID: 1063, Month: May, Date: 7
+09:00:17 PM, Parking
+06:56:41 PM, Snack Place
+06:38:42 PM, Convenience Store
+10:56:39 AM, Deli / Bodega
+06:21:05 PM, Food & Drink Shop
+10:58:50 AM, Donut Shop
+11:04:53 AM, Parking
+
+
+User ID: 1063, Month: Apr, Date: 21
+07:59:51 PM, Arts & Crafts Store
+06:45:31 PM, Convenience Store
+06:47:40 PM, Fast Food Restaurant
+10:59:54 AM, Food & Drink Shop
+04:16:26 PM, Fast Food Restaurant
+11:18:43 AM, Gas Station / Garage
+11:24:24 AM, Home (private)
+11:30:51 AM, Bank
+
+
+User ID: 1063, Month: Apr, Date: 29
+08:05:47 PM, Food & Drink Shop
+08:17:11 PM, Food & Drink Shop
+06:20:33 PM, Convenience Store
+03:50:24 PM, Snack Place
+
+
+User ID: 1063, Month: Apr, Date: 3
+08:35:02 PM, Convenience Store
+08:24:56 PM, Office
+08:00:39 PM, Home (private)
+07:42:40 PM, Miscellaneous Shop
+
+
+User ID: 976, Month: Jul, Date: 15
+09:00:31 PM, Home (private)
+03:51:05 PM, Food & Drink Shop
+03:46:41 PM, Convenience Store
+
+
+User ID: 976, Month: Jul, Date: 30
+09:23:42 PM, General Travel
+09:07:00 PM, Government Building
+08:21:25 PM, Subway
+03:37:54 AM, Moving Target
+02:05:58 AM, Home (private)
+01:05:17 AM, Bus Station
+03:50:36 AM, Food Truck
+04:16:47 AM, Convenience Store
+04:00:26 AM, Office
+10:33:25 PM, Subway
+04:25:51 AM, Deli / Bodega
+09:57:48 PM, Convenience Store
+06:21:21 AM, Home (private)
+02:23:20 AM, Food & Drink Shop
+05:58:13 AM, Deli / Bodega
+
+
+User ID: 976, Month: Jul, Date: 30
+09:23:42 PM, General Travel
+09:07:00 PM, Government Building
+08:21:25 PM, Subway
+03:37:54 AM, Moving Target
+02:05:58 AM, Home (private)
+01:05:17 AM, Bus Station
+03:50:36 AM, Food Truck
+04:16:47 AM, Convenience Store
+04:00:26 AM, Office
+10:33:25 PM, Subway
+04:25:51 AM, Deli / Bodega
+09:57:48 PM, Convenience Store
+06:21:21 AM, Home (private)
+02:23:20 AM, Food & Drink Shop
+05:58:13 AM, Deli / Bodega
+
+
+User ID: 976, Month: Apr, Date: 11
+08:55:59 PM, Convenience Store
+12:06:34 AM, Subway
+10:36:54 AM, Subway
+12:02:47 AM, Other Great Outdoors
+07:24:09 PM, General Travel
+12:01:12 AM, Electronics Store
+10:39:17 AM, Subway
+11:04:15 AM, Drugstore / Pharmacy
+05:05:37 PM, Plaza
+08:36:20 PM, Food & Drink Shop
+08:13:46 PM, Home (private)
+
+
+User ID: 976, Month: Apr, Date: 24
+09:29:40 AM, Subway
+11:00:38 PM, Food & Drink Shop
+09:49:40 AM, Subway
+10:11:19 AM, Drugstore / Pharmacy
+10:57:51 PM, Convenience Store
+
+
+User ID: 976, Month: Aug, Date: 5
+11:30:31 PM, Home (private)
+07:37:16 PM, Building
+09:43:46 PM, Convenience Store
+10:28:53 AM, Home (private)
+
+
+User ID: 976, Month: Nov, Date: 6
+11:36:26 PM, Train Station
+10:58:42 PM, Bus Station
+12:06:22 AM, Subway
+08:31:24 PM, Bus Station
+12:32:33 AM, Convenience Store
+01:17:48 PM, Gaming Cafe
+01:22:54 PM, Government Building
+
+
+User ID: 468, Month: Jul, Date: 6
+11:44:33 PM, Cemetery
+11:44:26 PM, Cemetery
+08:44:46 PM, Convenience Store
+12:50:40 AM, Bar
+
+
+User ID: 468, Month: Jul, Date: 17
+10:50:39 PM, Ice Cream Shop
+09:30:22 PM, Convenience Store
+02:09:21 AM, Bar
+02:09:13 AM, Bar
+
+
+User ID: 468, Month: May, Date: 16
+09:19:35 PM, Residential Building (Apartment / Condo)
+09:19:24 PM, Residential Building (Apartment / Condo)
+02:47:44 AM, Bar
+09:06:18 PM, Salon / Barbershop
+04:50:06 PM, Building
+09:09:35 PM, Convenience Store
+
+
+User ID: 468, Month: May, Date: 3
+03:53:15 PM, Mall
+07:08:53 PM, Home (private)
+02:08:26 PM, Convenience Store
+01:46:49 PM, General College & University
+
+
+User ID: 468, Month: May, Date: 12
+08:49:49 PM, Park
+02:54:29 AM, Residential Building (Apartment / Condo)
+01:25:41 AM, Convenience Store
+
+
+User ID: 468, Month: Apr, Date: 19
+08:12:02 PM, Restaurant
+07:15:14 PM, Salon / Barbershop
+12:24:47 AM, Cemetery
+12:25:04 AM, Cemetery
+01:07:16 PM, General College & University
+02:13:13 PM, Convenience Store
+
+
+User ID: 468, Month: Apr, Date: 28
+11:45:25 PM, Convenience Store
+01:27:42 AM, Gas Station / Garage
+
+
+User ID: 258, Month: Apr, Date: 21
+07:03:39 PM, Department Store
+06:15:25 PM, Mall
+06:11:45 AM, Convenience Store
+
+
+User ID: 667, Month: Apr, Date: 11
+08:07:22 PM, Home (private)
+07:40:41 PM, Moving Target
+10:24:50 AM, Bus Station
+10:13:56 AM, Bus Station
+12:17:32 AM, Convenience Store
+12:31:34 AM, Home (private)
+09:54:05 AM, Neighborhood
+
+
+User ID: 667, Month: Apr, Date: 22
+06:31:30 PM, Home (private)
+06:08:55 PM, Neighborhood
+05:47:59 PM, Bus Station
+06:49:11 AM, Home (private)
+12:13:30 AM, Bus Station
+12:14:58 AM, Moving Target
+12:37:59 AM, Home (private)
+06:40:54 AM, Convenience Store
+
+
+User ID: 874, Month: Apr, Date: 21
+05:19:17 PM, Convenience Store
+05:19:06 PM, Department Store
+
+
+User ID: 874, Month: Apr, Date: 14
+07:47:20 PM, Food & Drink Shop
+07:46:51 PM, Convenience Store
+06:34:57 PM, Road
+
+
+User ID: 874, Month: May, Date: 7
+09:54:07 PM, Food & Drink Shop
+09:53:54 PM, School
+01:09:36 AM, Convenience Store
+01:01:01 AM, Japanese Restaurant
+
+
+User ID: 874, Month: May, Date: 11
+08:43:54 PM, Road
+07:22:59 PM, Japanese Restaurant
+07:25:04 PM, Asian Restaurant
+07:23:42 PM, Convenience Store
+07:24:20 PM, Food & Drink Shop
+
+
+User ID: 347, Month: May, Date: 8
+11:13:51 AM, Park
+11:14:22 AM, Medical Center
+11:05:59 AM, Gym / Fitness Center
+11:06:15 AM, Gym / Fitness Center
+11:11:45 AM, Convenience Store
+11:07:42 AM, Tea Room
+
+
+User ID: 347, Month: May, Date: 21
+11:39:40 PM, Bank
+11:09:35 AM, Gym / Fitness Center
+12:49:54 PM, Convenience Store
+11:34:50 PM, Mall
+11:39:24 PM, Medical Center
+
+
+User ID: 316, Month: Jul, Date: 2
+06:06:03 PM, Convenience Store
+05:59:40 PM, Coffee Shop
+
+
+User ID: 316, Month: May, Date: 16
+05:59:13 PM, Home (private)
+05:03:06 PM, Fast Food Restaurant
+12:39:09 AM, Gas Station / Garage
+06:58:45 AM, Convenience Store
+08:40:01 AM, Home (private)
+05:01:36 PM, Medical Center
+
+
+User ID: 316, Month: May, Date: 4
+06:28:42 PM, Home (private)
+05:28:53 AM, Home (private)
+03:07:55 PM, Food & Drink Shop
+05:02:09 AM, Convenience Store
+
+
+User ID: 316, Month: May, Date: 2
+07:08:00 AM, Home (private)
+07:05:23 AM, Convenience Store
+
+
+User ID: 316, Month: Apr, Date: 24
+04:17:35 AM, Home (private)
+04:12:52 AM, Convenience Store
+
+
+User ID: 316, Month: Apr, Date: 20
+06:10:05 AM, Home (private)
+05:04:15 PM, Pizza Place
+05:11:01 PM, Coffee Shop
+05:39:03 PM, Home (private)
+05:15:24 PM, Convenience Store
+
+
+User ID: 288, Month: Jul, Date: 17
+04:05:15 PM, Convenience Store
+11:59:20 AM, Office
+11:40:11 AM, Coffee Shop
+
+
+User ID: 288, Month: Jul, Date: 12
+04:30:19 PM, Convenience Store
+04:09:36 PM, Mexican Restaurant
+11:54:18 AM, Office
+11:42:45 AM, American Restaurant
+
+
+User ID: 288, Month: Jun, Date: 12
+07:57:51 PM, Train Station
+04:37:15 PM, Convenience Store
+11:54:47 AM, Office
+11:42:18 AM, American Restaurant
+
+
+User ID: 288, Month: Jun, Date: 7
+07:58:59 PM, Train Station
+11:57:10 AM, Office
+06:09:38 PM, Convenience Store
+11:49:01 AM, American Restaurant
+
+
+User ID: 288, Month: Jun, Date: 8
+06:31:54 PM, Convenience Store
+11:51:44 AM, Office
+11:43:17 AM, American Restaurant
+
+
+User ID: 288, Month: May, Date: 31
+10:21:28 PM, Other Great Outdoors
+07:59:31 PM, Convenience Store
+
+
+User ID: 288, Month: Apr, Date: 25
+07:54:12 PM, Train Station
+07:02:28 PM, Convenience Store
+12:15:17 PM, Office
+11:46:59 AM, American Restaurant
+
+
+User ID: 288, Month: Apr, Date: 20
+07:52:55 PM, Train Station
+12:05:40 PM, American Restaurant
+05:04:58 PM, Office
+12:14:32 PM, Office
+06:48:12 PM, Convenience Store
+
+
+User ID: 335, Month: May, Date: 29
+06:24:43 PM, Food & Drink Shop
+06:18:37 PM, Train Station
+06:18:18 PM, Neighborhood
+06:17:50 PM, Train Station
+03:44:05 AM, Home (private)
+03:44:26 AM, Home (private)
+11:42:47 AM, Train Station
+11:48:46 AM, Train Station
+06:17:30 PM, Subway
+11:49:25 AM, Subway
+06:25:00 PM, Convenience Store
+11:41:29 AM, Food & Drink Shop
+12:29:11 PM, Plaza
+11:49:03 AM, Neighborhood
+03:27:20 AM, Drugstore / Pharmacy
+12:29:57 PM, Department Store
+
+
+User ID: 335, Month: May, Date: 21
+10:15:41 PM, Convenience Store
+06:57:57 PM, Wings Joint
+06:38:09 PM, Home (private)
+
+
+User ID: 559, Month: May, Date: 31
+09:51:14 PM, Mexican Restaurant
+03:19:12 PM, Home (private)
+05:05:51 PM, Park
+09:52:33 PM, Community College
+03:29:14 PM, Convenience Store
+03:30:27 PM, Caf�
+
+
+User ID: 553, Month: Jan, Date: 25
+11:54:53 AM, Donut Shop
+11:50:48 AM, Convenience Store
+
+
+User ID: 553, Month: Jan, Date: 18
+12:37:49 PM, Coffee Shop
+12:24:01 AM, Convenience Store
+
+
+User ID: 526, Month: Apr, Date: 27
+05:37:22 PM, Scenic Lookout
+02:14:30 PM, Bar
+02:08:06 PM, Convenience Store
+
+
+User ID: 526, Month: Jun, Date: 6
+02:09:32 PM, Bar
+01:55:54 PM, Convenience Store
+
+
+User ID: 526, Month: Jun, Date: 1
+02:06:18 PM, Bar
+01:59:17 PM, Convenience Store
+
+
+User ID: 526, Month: Jun, Date: 8
+02:57:52 PM, Bar
+02:57:30 PM, Convenience Store
+
+
+User ID: 526, Month: Jul, Date: 4
+11:40:40 PM, Food & Drink Shop
+04:41:23 PM, Stadium
+12:10:22 AM, Japanese Restaurant
+04:11:33 AM, Convenience Store
+09:10:47 PM, Seafood Restaurant
+04:03:53 PM, Train Station
+05:13:06 AM, Home (private)
+
+
+User ID: 526, Month: Jul, Date: 11
+10:44:10 PM, Bus Station
+04:43:29 PM, Spa / Massage
+11:05:38 PM, Bar
+06:23:54 PM, Bar
+06:50:32 PM, Convenience Store
+06:07:19 PM, Dessert Shop
+
+
+User ID: 658, Month: Dec, Date: 7
+07:40:29 PM, Food & Drink Shop
+07:59:59 PM, Department Store
+04:14:37 PM, Fast Food Restaurant
+06:04:02 PM, Electronics Store
+07:33:19 PM, Subway
+07:33:44 PM, Convenience Store
+
+
+User ID: 458, Month: Apr, Date: 3
+10:05:19 PM, Other Great Outdoors
+09:55:05 PM, Convenience Store
+09:48:45 PM, Subway
+06:34:10 PM, College Academic Building
+06:42:32 PM, University
+09:27:43 PM, Subway
+08:27:35 PM, Park
+
+
+User ID: 50, Month: Apr, Date: 25
+09:47:06 PM, Convenience Store
+09:43:05 PM, Subway
+09:36:55 PM, Subway
+
+
+User ID: 391, Month: May, Date: 3
+10:21:15 PM, Convenience Store
+02:21:37 PM, Deli / Bodega
+
+
+User ID: 231, Month: Apr, Date: 19
+07:27:14 PM, University
+06:27:43 PM, Convenience Store
+01:00:24 AM, Mexican Restaurant
+
+
+User ID: 645, Month: Nov, Date: 29
+08:04:57 PM, Convenience Store
+12:18:44 AM, Bus Station
+12:50:54 AM, Train Station
+02:15:59 AM, Coffee Shop
+03:32:21 AM, Train Station
+03:31:45 AM, Bus Station
+
+
+User ID: 180, Month: May, Date: 15
+07:46:46 PM, Gym / Fitness Center
+07:46:27 PM, Gym / Fitness Center
+12:11:15 AM, Gas Station / Garage
+07:46:12 PM, Gym / Fitness Center
+04:07:23 PM, School
+04:22:02 PM, Convenience Store
+
+
+User ID: 238, Month: Apr, Date: 21
+05:31:25 PM, Convenience Store
+04:51:17 PM, Building
+
+
+User ID: 83, Month: Jul, Date: 3
+12:26:49 PM, Office
+12:32:14 AM, Convenience Store
+
+
+User ID: 83, Month: May, Date: 5
+09:17:30 PM, American Restaurant
+09:06:02 PM, Convenience Store
+02:45:41 AM, Movie Theater
+
+
+User ID: 83, Month: Apr, Date: 11
+10:03:06 PM, Medical Center
+01:19:50 PM, Office
+04:47:48 AM, Convenience Store
+
+
+User ID: 83, Month: Oct, Date: 26
+12:26:09 PM, Office
+04:49:47 AM, Convenience Store
+
+
+User ID: 343, Month: Jul, Date: 4
+08:35:20 PM, Convenience Store
+09:13:17 PM, Beach
+03:23:36 AM, Hot Dog Joint
+02:37:17 PM, Post Office
+03:50:10 AM, Donut Shop
+04:20:18 PM, Movie Theater
+
+
+User ID: 531, Month: Apr, Date: 20
+05:20:28 PM, Home (private)
+11:35:22 AM, Home (private)
+07:20:22 AM, Home (private)
+11:55:14 PM, Italian Restaurant
+01:01:06 AM, Home (private)
+01:10:45 AM, Convenience Store
+03:26:51 AM, Home (private)
+01:19:48 AM, Bar
+03:26:21 AM, Home (private)
+01:23:02 AM, Home (private)
+
+
+User ID: 531, Month: Apr, Date: 26
+01:48:01 PM, Home (private)
+12:07:50 PM, Miscellaneous Shop
+12:46:26 PM, Medical Center
+01:58:42 AM, Home (private)
+11:29:36 AM, Convenience Store
+11:33:48 AM, Home (private)
+11:43:46 AM, Miscellaneous Shop
+
+
+User ID: 531, Month: May, Date: 27
+06:01:17 AM, Home (private)
+07:10:15 PM, Convenience Store
+07:17:35 PM, Hardware Store
+10:52:46 PM, Home (private)
+08:30:09 PM, Home (private)
+
+
+User ID: 531, Month: May, Date: 4
+10:56:10 PM, Home (private)
+10:46:16 PM, Food & Drink Shop
+10:43:31 PM, Bank
+09:55:34 PM, Home (private)
+09:46:28 PM, Pizza Place
+04:41:11 PM, Library
+10:17:12 AM, Home (private)
+10:16:18 AM, Home (private)
+04:13:40 AM, Home (private)
+10:17:33 AM, Home (private)
+10:15:56 AM, Home (private)
+11:51:58 AM, Home (private)
+10:17:50 AM, Home (private)
+10:19:22 AM, Home (private)
+10:36:12 PM, Home (private)
+10:18:57 AM, Home (private)
+11:54:42 AM, Convenience Store
+
+
+User ID: 531, Month: Jun, Date: 12
+02:51:39 PM, Home (private)
+02:05:50 AM, Convenience Store
+01:35:34 AM, Home (private)
+
+
+User ID: 210, Month: May, Date: 23
+10:29:53 PM, Mall
+07:15:10 PM, Chinese Restaurant
+08:05:00 PM, Convenience Store
+06:04:04 PM, High School
+
+
+User ID: 210, Month: Jun, Date: 11
+10:47:25 PM, Playground
+01:09:22 AM, Convenience Store
+
+
+User ID: 493, Month: May, Date: 7
+11:38:22 AM, Convenience Store
+11:10:09 AM, Home (private)
+02:17:13 AM, Korean Restaurant
+01:56:32 AM, Hobby Shop
+
+
+User ID: 70, Month: Feb, Date: 4
+07:54:14 PM, Convenience Store
+06:59:40 PM, Subway
+
+
+User ID: 70, Month: Feb, Date: 2
+07:12:20 PM, Subway
+08:03:32 PM, Convenience Store
+05:48:49 AM, Bus Station
+05:33:36 AM, Train Station
+
+
+User ID: 70, Month: Feb, Date: 8
+12:58:06 AM, Subway
+12:04:44 AM, Convenience Store
+
+
+User ID: 70, Month: Jan, Date: 26
+07:01:13 PM, Bus Station
+09:50:41 PM, Convenience Store
+03:25:25 AM, Train Station
+10:50:51 PM, Bus Station
+04:54:12 AM, Train Station
+05:01:12 AM, Subway
+05:27:27 AM, Bus Station
+
+
+User ID: 70, Month: Jan, Date: 7
+08:24:05 PM, Subway
+07:44:38 PM, Convenience Store
+09:52:46 AM, Train Station
+11:17:51 AM, Neighborhood
+08:57:06 PM, Train Station
+11:18:27 AM, Train Station
+04:44:26 PM, Donut Shop
+11:21:25 AM, Subway
+
+
+User ID: 70, Month: Jan, Date: 29
+07:58:39 PM, Convenience Store
+04:52:48 PM, Subway
+12:04:42 AM, Train Station
+
+
+User ID: 70, Month: Jan, Date: 28
+08:49:12 PM, Convenience Store
+07:24:14 PM, Subway
+
+
+User ID: 70, Month: Jan, Date: 31
+07:52:24 PM, Convenience Store
+07:13:11 PM, Train Station
+05:03:01 AM, Bus Station
+
+
+User ID: 439, Month: Aug, Date: 6
+02:12:10 PM, Food & Drink Shop
+02:02:51 PM, Convenience Store
+01:26:10 PM, Bank
+01:15:45 PM, Park
+
+
+User ID: 439, Month: Aug, Date: 10
+02:11:21 PM, Convenience Store
+01:47:30 PM, Laundry Service
+01:41:05 PM, Park
+
+
+User ID: 439, Month: Apr, Date: 9
+10:55:03 PM, Home (private)
+04:44:14 PM, Drugstore / Pharmacy
+04:08:06 PM, Convenience Store
+04:09:51 PM, Drugstore / Pharmacy
+01:25:41 PM, Park
+01:51:44 PM, Department Store
+10:55:34 PM, Home (private)
+02:32:05 PM, Department Store
+02:31:46 PM, Electronics Store
+
+
+User ID: 439, Month: Apr, Date: 6
+03:18:36 PM, Convenience Store
+02:32:13 PM, Park
+02:46:29 PM, Bank
+02:36:40 PM, Library
+02:43:20 PM, Drugstore / Pharmacy
+
+
+User ID: 439, Month: May, Date: 7
+04:22:15 PM, Home (private)
+03:06:10 PM, Drugstore / Pharmacy
+04:21:02 AM, Home (private)
+03:32:50 PM, Convenience Store
+03:18:16 PM, Bank
+02:59:11 PM, Post Office
+03:42:19 PM, Home (private)
+03:34:59 PM, Drugstore / Pharmacy
+02:48:01 PM, Park
+02:51:58 PM, Library
+
+
+User ID: 439, Month: Jun, Date: 18
+04:54:19 PM, Home (private)
+04:12:41 PM, Home (private)
+03:52:42 PM, Convenience Store
+02:11:15 PM, Deli / Bodega
+04:31:51 AM, Home (private)
+03:26:50 PM, Bank
+03:53:33 PM, Deli / Bodega
+03:20:43 PM, Drugstore / Pharmacy
+04:31:28 AM, Home (private)
+04:30:52 AM, Home (private)
+02:58:50 PM, Park
+03:48:08 PM, Post Office
+03:16:28 PM, Church
+03:45:53 PM, Laundry Service
+
+
+User ID: 439, Month: Jun, Date: 13
+03:37:13 PM, Convenience Store
+02:46:59 PM, Drugstore / Pharmacy
+03:36:38 PM, Food & Drink Shop
+05:22:49 AM, Home (private)
+02:29:10 PM, Church
+06:51:58 PM, Home (private)
+05:23:08 AM, Home (private)
+02:14:19 PM, Park
+
+
+User ID: 439, Month: Jul, Date: 29
+02:31:23 PM, Drugstore / Pharmacy
+02:25:56 PM, Food & Drink Shop
+04:19:42 AM, Home (private)
+02:21:14 PM, Convenience Store
+04:17:34 AM, Home (private)
+01:30:21 PM, Deli / Bodega
+01:30:42 PM, Park
+
+
+User ID: 678, Month: May, Date: 16
+04:38:31 PM, Mall
+04:35:20 AM, Convenience Store
+
+
+User ID: 178, Month: May, Date: 8
+11:56:39 PM, Convenience Store
+11:47:38 PM, Subway
+08:08:22 PM, Deli / Bodega
+06:41:24 PM, Food & Drink Shop
+05:41:32 PM, Coffee Shop
+01:01:09 PM, Drugstore / Pharmacy
+01:10:32 PM, Athletic & Sport
+02:19:02 PM, Playground
+09:10:54 PM, Food Truck
+03:13:18 PM, Chinese Restaurant
+
+
+User ID: 456, Month: May, Date: 13
+10:22:51 PM, Chinese Restaurant
+06:38:54 PM, Convenience Store
+06:03:14 PM, General Entertainment
+05:55:12 PM, Gym / Fitness Center
+
+
+User ID: 331, Month: Dec, Date: 13
+04:14:59 PM, Convenience Store
+01:06:22 PM, Office
+
+
+User ID: 331, Month: Dec, Date: 7
+05:22:18 PM, Convenience Store
+01:20:01 PM, Office
+
+
+User ID: 349, Month: Aug, Date: 5
+05:08:13 PM, Pizza Place
+05:07:31 PM, Convenience Store
+05:05:46 PM, Park
+05:04:58 PM, Bus Station
+
+
+User ID: 349, Month: Jan, Date: 1
+09:30:38 PM, Convenience Store
+09:28:14 PM, Deli / Bodega
+
+
+User ID: 349, Month: Jan, Date: 14
+05:42:29 PM, Residential Building (Apartment / Condo)
+05:42:39 PM, General Travel
+01:40:07 AM, Other Great Outdoors
+01:40:58 AM, Spanish Restaurant
+01:41:16 AM, Convenience Store
+05:42:20 PM, Food & Drink Shop
+
+
+User ID: 277, Month: Apr, Date: 24
+11:29:06 PM, Convenience Store
+05:18:01 PM, Diner
+01:13:14 PM, Office
+
+
+User ID: 277, Month: Apr, Date: 15
+03:55:20 PM, Caf�
+02:55:39 AM, Convenience Store
+
+
+User ID: 277, Month: Apr, Date: 13
+11:47:53 PM, Convenience Store
+11:38:12 AM, Gym / Fitness Center
+
+
+User ID: 277, Month: May, Date: 2
+12:47:15 AM, Convenience Store
+12:38:03 AM, College Academic Building
+
+
+User ID: 277, Month: May, Date: 15
+11:53:03 PM, Convenience Store
+01:13:21 PM, Office
+11:33:55 AM, Gym / Fitness Center
+
+
+User ID: 277, Month: May, Date: 23
+11:12:40 PM, Convenience Store
+04:45:59 PM, French Restaurant
+
+
+User ID: 277, Month: Sep, Date: 15
+11:48:17 PM, Convenience Store
+02:48:54 PM, Medical Center
+01:24:48 PM, Bakery
+
+
+User ID: 314, Month: Jan, Date: 3
+08:00:10 AM, Convenience Store
+07:51:42 AM, Medical Center
+
+
+User ID: 314, Month: Nov, Date: 6
+07:16:19 AM, Outdoors & Recreation
+06:41:58 AM, Medical Center
+06:41:32 AM, Medical Center
+03:38:57 AM, Convenience Store
+
+
+User ID: 23, Month: Jun, Date: 6
+11:51:19 PM, Salon / Barbershop
+09:24:49 PM, Convenience Store
+01:18:29 PM, Building
+01:18:47 PM, General Travel
+01:38:00 PM, American Restaurant
+03:32:28 PM, Miscellaneous Shop
+
+
+User ID: 627, Month: May, Date: 15
+05:42:30 PM, General Travel
+10:31:12 PM, Athletic & Sport
+05:16:38 PM, Automotive Shop
+12:27:27 AM, Other Great Outdoors
+07:49:32 PM, Paper / Office Supplies Store
+02:10:34 PM, Convenience Store
+07:42:23 PM, Coffee Shop
+03:14:15 PM, Bank
+04:22:00 PM, Other Great Outdoors
+
+
+User ID: 627, Month: May, Date: 3
+11:13:32 PM, Bar
+05:21:35 PM, Clothing Store
+06:02:49 PM, Automotive Shop
+10:19:37 PM, Travel & Transport
+10:59:39 PM, Convenience Store
+
+
+User ID: 627, Month: May, Date: 14
+10:44:34 PM, Bar
+03:53:41 PM, Bar
+12:00:55 AM, Airport
+03:31:19 PM, Laundry Service
+05:16:11 PM, Convenience Store
+
+
+User ID: 533, Month: Feb, Date: 6
+03:52:00 PM, Convenience Store
+03:34:47 PM, Hardware Store
+03:27:23 PM, Government Building
+
+
+User ID: 533, Month: Dec, Date: 22
+08:08:33 PM, Hardware Store
+07:58:39 PM, Convenience Store
+
+
+User ID: 482, Month: May, Date: 11
+02:47:30 PM, Coffee Shop
+12:24:20 PM, Ferry
+02:35:23 AM, Convenience Store
+03:33:25 AM, Beach
+12:25:07 PM, Ferry
+12:24:00 PM, Subway
+06:46:39 PM, Mexican Restaurant
+12:24:11 PM, Train Station
+
+
+User ID: 986, Month: Jul, Date: 12
+08:28:52 PM, Drugstore / Pharmacy
+08:20:18 PM, Gas Station / Garage
+08:16:21 PM, Bank
+01:15:40 AM, Convenience Store
+05:08:03 AM, Coffee Shop
+05:09:06 PM, Deli / Bodega
+06:58:12 PM, Medical Center
+
+
+User ID: 308, Month: May, Date: 9
+11:30:43 PM, Convenience Store
+11:13:34 PM, Bus Station
+02:54:42 PM, Office
+
+
+User ID: 308, Month: May, Date: 31
+03:21:11 PM, Office
+02:18:38 PM, Convenience Store
+
+
+User ID: 308, Month: May, Date: 14
+11:12:47 PM, Bus Station
+11:17:06 PM, Convenience Store
+06:05:13 PM, Restaurant
+02:23:42 PM, Office
+
+
+User ID: 308, Month: May, Date: 11
+02:49:55 PM, Office
+11:17:28 PM, Bus Station
+11:15:36 PM, Convenience Store
+02:20:56 PM, Bagel Shop
+
+
+User ID: 308, Month: May, Date: 17
+11:19:21 PM, Convenience Store
+02:23:25 PM, Office
+11:25:33 PM, Bus Station
+01:48:36 PM, Fast Food Restaurant
+
+
+User ID: 306, Month: Jul, Date: 2
+07:29:00 PM, Gas Station / Garage
+07:28:45 PM, Electronics Store
+07:28:25 PM, Neighborhood
+07:22:07 PM, Laundry Service
+07:21:53 PM, Food & Drink Shop
+06:18:49 PM, Bank
+06:17:56 PM, Scenic Lookout
+06:17:03 PM, Bank
+06:18:17 PM, Building
+05:57:50 PM, Food Truck
+05:47:05 PM, Restaurant
+05:48:40 PM, Medical Center
+05:55:20 PM, BBQ Joint
+06:03:03 PM, Hotel
+05:53:14 PM, Automotive Shop
+05:53:02 PM, Fast Food Restaurant
+05:51:34 PM, Bus Station
+05:57:25 PM, Coffee Shop
+05:57:38 PM, Cosmetics Shop
+05:48:12 PM, Ferry
+06:05:49 PM, Sporting Goods Shop
+05:52:49 PM, Neighborhood
+05:48:26 PM, Gym / Fitness Center
+05:46:32 PM, Residential Building (Apartment / Condo)
+06:16:50 PM, Professional & Other Places
+05:54:42 PM, Automotive Shop
+05:51:06 PM, Neighborhood
+06:02:32 PM, Automotive Shop
+05:49:07 PM, Burger Joint
+06:06:50 PM, Food & Drink Shop
+05:50:09 PM, Chinese Restaurant
+07:20:57 PM, Neighborhood
+06:16:36 PM, Bank
+05:54:13 PM, Athletic & Sport
+05:46:22 PM, Medical Center
+07:26:32 PM, Bus Station
+06:15:53 PM, Professional & Other Places
+05:50:19 PM, Park
+06:01:26 PM, Medical Center
+05:58:02 PM, Clothing Store
+05:54:54 PM, Salon / Barbershop
+05:51:21 PM, Neighborhood
+06:00:32 PM, Clothing Store
+06:06:37 PM, Convenience Store
+06:09:20 PM, Building
+06:00:19 PM, Food Truck
+06:02:50 PM, Professional & Other Places
+06:04:22 PM, Sporting Goods Shop
+06:05:26 PM, School
+06:02:12 PM, Fast Food Restaurant
+06:05:37 PM, Food & Drink Shop
+06:06:02 PM, Bar
+06:07:02 PM, School
+06:16:23 PM, Coffee Shop
+06:00:45 PM, Coffee Shop
+06:08:44 PM, Residential Building (Apartment / Condo)
+06:08:58 PM, Church
+06:16:09 PM, Arts & Crafts Store
+
+
+User ID: 684, Month: May, Date: 10
+10:06:22 PM, Mall
+09:17:59 PM, Bank
+08:52:25 PM, Convenience Store
+
+
+User ID: 684, Month: May, Date: 5
+04:57:43 PM, Movie Theater
+09:50:33 AM, Convenience Store
+01:35:18 PM, Diner
+02:19:59 PM, Bookstore
+04:11:53 PM, Bookstore
+
+
+User ID: 684, Month: May, Date: 11
+10:40:53 PM, Movie Theater
+08:50:17 PM, Convenience Store
+04:11:54 PM, Hotel
+
+
+User ID: 684, Month: Apr, Date: 23
+09:44:56 PM, Food & Drink Shop
+09:35:02 AM, Convenience Store
+
+
+User ID: 684, Month: Apr, Date: 14
+05:28:07 PM, Bookstore
+10:55:09 AM, Convenience Store
+
+
+User ID: 684, Month: Aug, Date: 5
+03:38:08 PM, Department Store
+12:09:38 PM, Convenience Store
+
+
+User ID: 684, Month: Oct, Date: 25
+03:20:14 PM, Road
+09:37:20 PM, Road
+11:20:56 AM, Convenience Store
+11:07:04 AM, Bank
+
+
+User ID: 684, Month: Dec, Date: 19
+08:33:18 PM, General Travel
+05:15:19 PM, Convenience Store
+
+
+User ID: 684, Month: Nov, Date: 7
+12:24:28 PM, Convenience Store
+12:13:02 PM, Bank
+
+
+User ID: 684, Month: Nov, Date: 1
+11:24:34 AM, Convenience Store
+11:21:15 AM, Gas Station / Garage
+07:51:19 PM, Video Game Store
+11:12:40 AM, Bank
+
+
+User ID: 767, Month: Apr, Date: 26
+03:19:26 PM, Burger Joint
+11:02:24 AM, Light Rail
+10:50:30 AM, Convenience Store
+
+
+User ID: 767, Month: Apr, Date: 20
+03:42:05 PM, Burger Joint
+01:21:30 PM, Convenience Store
+11:16:19 AM, Light Rail
+
+
+User ID: 767, Month: Apr, Date: 17
+07:16:58 PM, Light Rail
+01:06:38 PM, Playground
+12:37:25 PM, Convenience Store
+11:07:55 AM, Light Rail
+
+
+User ID: 707, Month: Nov, Date: 2
+01:37:29 PM, Convenience Store
+01:28:38 PM, Italian Restaurant
+
+
+User ID: 624, Month: Jul, Date: 7
+09:23:53 PM, Drugstore / Pharmacy
+09:09:40 PM, Furniture / Home Store
+06:58:56 PM, Department Store
+12:20:41 AM, Food & Drink Shop
+05:37:39 PM, Paper / Office Supplies Store
+05:02:18 PM, Caf�
+07:04:11 PM, Clothing Store
+07:54:05 PM, Electronics Store
+07:02:14 PM, Clothing Store
+08:57:20 PM, Convenience Store
+07:35:08 PM, College Academic Building
+09:03:12 PM, Miscellaneous Shop
+
+
+User ID: 744, Month: Jul, Date: 18
+05:19:46 PM, Bus Station
+12:02:37 AM, Neighborhood
+12:06:09 AM, Convenience Store
+01:29:29 PM, Restaurant
+01:30:49 PM, Caf�
+
+
+User ID: 744, Month: Jul, Date: 8
+10:16:44 PM, Neighborhood
+09:26:03 PM, Bus Station
+08:02:20 PM, Convenience Store
+03:07:20 PM, Bridge
+02:41:28 PM, Bus Station
+02:09:37 PM, Airport
+04:54:22 PM, Building
+02:10:18 PM, Airport
+08:02:45 PM, Sandwich Place
+04:54:33 PM, Plaza
+03:09:04 PM, Bus Station
+03:22:51 PM, Office
+03:13:11 PM, General Travel
+09:25:56 PM, Subway
+03:33:36 PM, Deli / Bodega
+
+
+User ID: 744, Month: Aug, Date: 11
+09:10:33 PM, Dessert Shop
+08:28:11 PM, Clothing Store
+06:01:12 PM, Park
+05:36:14 AM, Other Great Outdoors
+08:13:50 PM, Clothing Store
+02:31:54 AM, Neighborhood
+11:39:54 PM, Convenience Store
+12:11:58 AM, Office
+11:38:37 PM, Neighborhood
+07:14:49 PM, Clothing Store
+06:33:33 PM, Bank
+07:20:55 PM, Clothing Store
+07:56:15 PM, Clothing Store
+07:34:20 PM, Clothing Store
+07:43:14 PM, Clothing Store
+
+
+User ID: 744, Month: Jan, Date: 25
+11:49:27 PM, Convenience Store
+06:19:34 PM, Office
+02:03:07 PM, Building
+
+
+User ID: 781, Month: Jul, Date: 28
+08:02:25 PM, Road
+07:48:08 PM, Sporting Goods Shop
+01:46:15 AM, Other Great Outdoors
+03:25:37 AM, Convenience Store
+07:45:03 PM, Department Store
+03:50:48 AM, Scenic Lookout
+08:02:27 AM, Other Great Outdoors
+
+
+User ID: 607, Month: Oct, Date: 27
+10:07:10 PM, Food & Drink Shop
+09:36:12 PM, Caf�
+12:54:16 AM, Arcade
+12:56:26 AM, Food & Drink Shop
+09:26:49 PM, Convenience Store
+07:11:57 PM, Seafood Restaurant
+07:23:32 PM, Laundry Service
+
+
+User ID: 576, Month: Sep, Date: 15
+10:36:08 PM, Home (private)
+12:47:35 PM, Convenience Store
+
+
+User ID: 716, Month: Jul, Date: 12
+10:49:58 PM, Seafood Restaurant
+11:55:49 PM, Movie Theater
+10:13:41 PM, Convenience Store
+04:04:30 AM, Bowling Alley
+
+
+User ID: 776, Month: Apr, Date: 20
+08:20:18 PM, Convenience Store
+05:00:31 PM, Pizza Place
+01:23:05 PM, Building
+12:53:18 PM, Train Station
+
+
+User ID: 776, Month: May, Date: 3
+08:42:11 PM, Convenience Store
+06:07:26 PM, Dessert Shop
+08:54:02 PM, Deli / Bodega
+02:16:17 PM, Building
+
+
+User ID: 635, Month: Jun, Date: 9
+09:06:34 PM, Convenience Store
+09:05:49 PM, Miscellaneous Shop
+
+
+User ID: 635, Month: Apr, Date: 9
+07:06:03 PM, Subway
+07:05:26 PM, Other Great Outdoors
+06:02:15 PM, Road
+07:15:24 PM, Convenience Store
+07:04:29 PM, Train Station
+03:07:50 PM, Subway
+03:08:59 PM, Subway
+03:15:37 PM, Train Station
+03:11:54 PM, Train Station
+06:00:55 PM, Road
+03:09:47 PM, Neighborhood
+07:03:20 PM, Subway
+03:13:07 PM, Subway
+09:08:30 PM, Home (private)
+03:13:41 PM, Train Station
+06:00:22 PM, Medical Center
+03:59:39 PM, Outdoors & Recreation
+
+
+User ID: 635, Month: Apr, Date: 20
+07:54:56 PM, Home (private)
+02:54:28 PM, Neighborhood
+02:55:22 PM, Convenience Store
+03:00:24 PM, Drugstore / Pharmacy
+03:20:27 PM, Food & Drink Shop
+
+
+User ID: 635, Month: Jan, Date: 17
+11:02:46 PM, Home (private)
+08:15:48 PM, Scenic Lookout
+03:58:55 PM, Home (private)
+03:55:03 PM, Convenience Store
+04:22:52 PM, Housing Development
+08:12:39 PM, Road
+07:29:46 PM, Gym / Fitness Center
+04:44:34 PM, Bridge
+08:31:26 PM, University
+08:24:08 PM, Neighborhood
+08:27:39 PM, Government Building
+
+
+User ID: 974, Month: Jul, Date: 24
+05:25:35 PM, Convenience Store
+05:38:13 PM, Light Rail
+05:25:54 PM, Train Station
+05:26:15 PM, Train Station
+05:27:44 PM, Subway
+
+
+User ID: 974, Month: Jul, Date: 9
+11:05:18 PM, Park
+05:41:01 PM, Subway
+05:38:50 PM, Convenience Store
+05:40:18 PM, Train Station
+06:17:20 PM, Neighborhood
+05:39:56 PM, Train Station
+05:43:48 PM, Train Station
+06:18:04 PM, General Travel
+11:02:33 PM, Park
+11:03:23 PM, Gym / Fitness Center
+11:04:01 PM, Pool
+
+
+User ID: 974, Month: Jun, Date: 12
+06:18:10 PM, Train Station
+06:14:26 PM, Light Rail
+05:58:30 AM, Campground
+02:00:52 AM, Pool
+05:39:08 PM, Taxi
+04:25:52 AM, Theater
+01:52:58 AM, Park
+06:30:21 AM, Neighborhood
+06:00:44 PM, Convenience Store
+06:12:59 PM, Train Station
+06:01:52 PM, Train Station
+06:02:38 PM, Subway
+
+
+User ID: 974, Month: May, Date: 31
+06:03:57 PM, Subway
+06:02:28 PM, Train Station
+02:18:17 PM, General Entertainment
+06:01:26 PM, Convenience Store
+02:18:42 PM, Campground
+06:00:51 PM, Train Station
+
+
+User ID: 974, Month: May, Date: 1
+06:53:33 PM, Park
+06:53:12 PM, Scenic Lookout
+06:52:54 PM, General Travel
+05:59:31 PM, Convenience Store
+06:00:15 PM, Train Station
+06:00:57 PM, Subway
+08:49:36 PM, Park
+06:52:26 PM, Subway
+
+
+User ID: 974, Month: May, Date: 23
+06:41:33 PM, Athletic & Sport
+06:40:25 PM, General Travel
+06:39:58 PM, Other Great Outdoors
+06:15:45 PM, Fair
+05:30:42 PM, Train Station
+05:28:59 PM, Convenience Store
+05:51:44 PM, Train Station
+06:41:02 PM, Neighborhood
+06:14:42 PM, Residential Building (Apartment / Condo)
+05:28:37 PM, Train Station
+05:39:48 PM, Light Rail
+05:31:10 PM, Subway
+05:52:14 PM, Train Station
+05:45:23 PM, Light Rail
+05:33:21 PM, Train Station
+06:06:21 PM, Subway
+
+
+User ID: 974, Month: Apr, Date: 25
+06:58:08 PM, Park
+06:46:20 PM, Park
+05:27:39 PM, General Travel
+05:55:17 PM, Light Rail
+06:03:14 PM, Train Station
+05:37:24 PM, Train Station
+06:32:47 PM, Building
+05:28:43 PM, Train Station
+06:38:07 PM, General Travel
+05:27:04 PM, Neighborhood
+05:38:10 PM, Convenience Store
+06:43:45 PM, Scenic Lookout
+
+
+User ID: 974, Month: Apr, Date: 23
+06:49:14 PM, Park
+06:48:50 PM, Scenic Lookout
+06:48:30 PM, General Travel
+05:05:37 AM, Train Station
+06:02:47 AM, Campground
+05:05:10 AM, Train Station
+05:04:45 AM, Train Station
+04:50:29 AM, Light Rail
+06:48:10 PM, Subway
+04:52:31 AM, Train Station
+04:03:18 AM, Subway
+05:53:26 PM, Train Station
+04:52:00 AM, Scenic Lookout
+07:10:24 PM, Gym / Fitness Center
+05:09:35 AM, Taxi
+04:42:58 AM, Train Station
+06:02:03 AM, Bar
+06:03:10 PM, Convenience Store
+04:43:20 AM, Train Station
+06:02:29 AM, Bus Station
+04:42:34 AM, Train Station
+05:52:47 PM, Road
+05:37:51 PM, Taxi
+05:36:08 PM, Neighborhood
+06:03:55 PM, Subway
+06:02:40 PM, Train Station
+06:39:55 PM, Building
+
+
+User ID: 974, Month: Apr, Date: 18
+07:39:39 PM, Park
+07:37:57 PM, Park
+05:53:20 PM, Train Station
+05:41:28 PM, Subway
+03:10:55 AM, Scenic Lookout
+05:56:06 PM, Light Rail
+05:30:16 PM, Train Station
+05:40:03 PM, Convenience Store
+07:37:32 PM, Scenic Lookout
+05:41:15 PM, Train Station
+
+
+User ID: 974, Month: Apr, Date: 11
+07:09:41 PM, Park
+05:55:54 PM, Light Rail
+05:46:36 PM, Convenience Store
+07:11:10 PM, Neighborhood
+06:28:34 PM, General Travel
+04:32:31 AM, Neighborhood
+03:44:03 AM, Neighborhood
+07:07:54 PM, Scenic Lookout
+01:13:30 AM, Park
+04:33:08 AM, Neighborhood
+06:23:30 PM, Building
+03:43:34 AM, Bridge
+05:23:42 PM, Taxi
+04:33:38 AM, Neighborhood
+04:34:27 AM, Campground
+05:25:50 PM, Road
+05:27:54 PM, Train Station
+
+
+User ID: 974, Month: Apr, Date: 17
+07:21:24 PM, Athletic & Sport
+05:33:58 PM, Taxi
+07:22:39 PM, Park
+05:37:17 PM, Convenience Store
+07:18:53 PM, Other Great Outdoors
+07:22:17 PM, Athletic & Sport
+07:19:58 PM, Neighborhood
+06:25:01 PM, Neighborhood
+07:20:25 PM, Scenic Lookout
+06:25:21 PM, Building
+07:20:59 PM, Park
+
+
+User ID: 974, Month: Jan, Date: 31
+09:11:35 PM, City
+06:18:02 PM, Bus Station
+09:13:19 PM, Park
+06:17:35 PM, Convenience Store
+05:34:41 AM, General Entertainment
+05:34:03 AM, Campground
+05:33:39 AM, Bus Station
+12:30:41 AM, Gym / Fitness Center
+12:28:57 AM, Park
+12:31:20 AM, Park
+
+
+User ID: 974, Month: Jan, Date: 30
+06:32:56 PM, Subway
+06:42:32 PM, Train Station
+06:31:33 PM, Convenience Store
+05:48:26 AM, Neighborhood
+05:51:19 AM, Bus Station
+05:51:51 AM, Campground
+10:55:09 PM, City
+06:45:02 PM, Train Station
+05:52:13 AM, General Entertainment
+
+
+User ID: 974, Month: Oct, Date: 16
+07:00:47 PM, Scenic Lookout
+05:36:43 PM, Light Rail
+05:35:25 PM, Convenience Store
+06:59:57 PM, Park
+05:37:39 PM, Subway
+
+
+User ID: 384, Month: May, Date: 10
+08:25:22 PM, Park
+06:31:52 PM, Mexican Restaurant
+06:30:31 PM, Building
+04:57:56 PM, Performing Arts Venue
+12:33:10 AM, Clothing Store
+12:35:11 AM, Bar
+04:56:11 PM, Movie Theater
+04:57:20 PM, Convenience Store
+
+
+User ID: 384, Month: Jul, Date: 4
+04:04:03 PM, Gas Station / Garage
+04:03:42 PM, Housing Development
+04:03:12 PM, Bus Station
+03:14:08 AM, Convenience Store
+02:50:39 AM, Indian Restaurant
+03:23:36 PM, Deli / Bodega
+12:25:55 AM, Office
+03:14:44 AM, Diner
+03:23:20 PM, Deli / Bodega
+12:25:30 AM, Deli / Bodega
+04:04:28 PM, Other Great Outdoors
+03:15:00 AM, Building
+04:10:48 AM, Bank
+10:36:16 AM, Home (private)
+10:36:34 AM, Gym / Fitness Center
+
+

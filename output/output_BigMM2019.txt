@@ -1,0 +1,360 @@
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19114852
+Execution time (ms)	4771.53
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19114852
+Execution time (ms)	4775.62
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19114852
+Execution time (ms)	4767.75
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33259550
+Execution time (ms)	8207.94
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33259550
+Execution time (ms)	8165.86
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33259550
+Execution time (ms)	8157.59
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45383697
+Execution time (ms)	11148.1
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45383697
+Execution time (ms)	11111.4
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45383697
+Execution time (ms)	11147.9
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56156819
+Execution time (ms)	13743.3
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56156819
+Execution time (ms)	13835.2
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56156819
+Execution time (ms)	13757.2
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65698136
+Execution time (ms)	16107.8
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65698136
+Execution time (ms)	16118.4
+
+***
+Approach	Baseline
+Dist.Function	HAVERSINE
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65698136
+Execution time (ms)	16165.3
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	27550232
+Execution time (ms)	4717.52
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	27550232
+Execution time (ms)	4708.1
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	27550232
+Execution time (ms)	4723.45
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	46449824
+Execution time (ms)	7850.56
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	46449824
+Execution time (ms)	7848.03
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	46449824
+Execution time (ms)	7834.86
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	62701249
+Execution time (ms)	10617.9
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	62701249
+Execution time (ms)	10803.8
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	62701249
+Execution time (ms)	10615
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	76324166
+Execution time (ms)	12803.2
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	76324166
+Execution time (ms)	12805.7
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	76324166
+Execution time (ms)	12887.3
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	88022883
+Execution time (ms)	14948.8
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	88022883
+Execution time (ms)	14815.5
+
+***
+Approach	Baseline
+Dist.Function	EQUIRECTANGULAR
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	88022883
+Execution time (ms)	14982.7
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19115926
+Execution time (ms)	4603.64
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19115926
+Execution time (ms)	4508.78
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	1000
+NumOfTrajectories	171
+NumDistanceComputations	19115926
+Execution time (ms)	4502.32
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33260727
+Execution time (ms)	7698.8
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33260727
+Execution time (ms)	7757.28
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	2000
+NumOfTrajectories	171
+NumDistanceComputations	33260727
+Execution time (ms)	7714.73
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45385155
+Execution time (ms)	10363
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45385155
+Execution time (ms)	10371.8
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	3000
+NumOfTrajectories	171
+NumDistanceComputations	45385155
+Execution time (ms)	10371.9
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56158508
+Execution time (ms)	12820.5
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56158508
+Execution time (ms)	12810.4
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	4000
+NumOfTrajectories	171
+NumDistanceComputations	56158508
+Execution time (ms)	12827
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65699558
+Execution time (ms)	14911.2
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65699558
+Execution time (ms)	14987.9
+
+***
+Approach	Baseline
+Dist.Function	SPHERICALLAWOFCOSINES
+Window size	5000
+NumOfTrajectories	171
+NumDistanceComputations	65699558
+Execution time (ms)	14926.9

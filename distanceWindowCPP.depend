@@ -1,0 +1,316 @@
+# depslib dependency file v1.0
+1586855048 source:/home/salman/Development/distanceWindowCPP/main.cpp
+	"stdafx.h"
+	"IO.h"
+	"commonFunctions.h"
+	"spatialFeatures.h"
+	"helperClass.h"
+	"queries.h"
+	<chrono>
+	"baselineWindow.h"
+	"incTrajLengthWindow.h"
+	"incDistArrayWindow.h"
+	<iostream>
+	<cmath>
+	<list>
+	<tuple>
+	<sstream>
+	<unistd.h>
+	<routingkit/osm_simple.h>
+	<routingkit/inverse_vector.h>
+	<routingkit/timer.h>
+	<routingkit/geo_position_to_node.h>
+	<routingkit/contraction_hierarchy.h>
+
+1585136831 /home/salman/Development/distanceWindowCPP/include/spatialDistance.h
+	"stdafx.h"
+	<stdint.h>
+	<routingkit/geo_position_to_node.h>
+	<routingkit/contraction_hierarchy.h>
+
+1586858635 source:/home/salman/Development/distanceWindowCPP/src/spatialDistance.cpp
+	"spatialDistance.h"
+	<iostream>
+	<cmath>
+
+1576233001 source:/home/salman/Development/distanceWindowCPP/src/distanceWindow.cpp
+	"distanceWindow.h"
+	"spatialDistance.h"
+	"helperClass.h"
+
+1576232946 /home/salman/Development/distanceWindowCPP/include/distanceWindow.h
+	<tuple>
+	<list>
+	<unordered_map>
+	<queue>
+	<iostream>
+	"stdafx.h"
+
+1586863066 source:/home/salman/Development/distanceWindowCPP/src/IO.cpp
+	"IO.h"
+	<boost/tokenizer.hpp>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<sstream>
+
+1586863260 /home/salman/Development/distanceWindowCPP/include/IO.h
+	<iostream>
+	<vector>
+	<string>
+	<list>
+	<tuple>
+	<unordered_map>
+	<map>
+	"point.h"
+	"stdafx.h"
+
+1576231719 /home/salman/Development/distanceWindowCPP/include/baselineWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1576231821 source:/home/salman/Development/distanceWindowCPP/src/baselineWindow.cpp
+	"baselineWindow.h"
+	"spatialDistance.h"
+
+1576458766 /home/salman/Development/distanceWindowCPP/include/stdafx.h
+
+1576458636 source:/home/salman/Development/distanceWindowCPP/src/incDistArrayWindow.cpp
+	"incDistArrayWindow.h"
+	"spatialDistance.h"
+
+1576232277 /home/salman/Development/distanceWindowCPP/include/incDistArrayWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1576458646 source:/home/salman/Development/distanceWindowCPP/src/incTrajLengthWindow.cpp
+	"incTrajLengthWindow.h"
+	"spatialDistance.h"
+
+1576232568 /home/salman/Development/distanceWindowCPP/include/incTrajLengthWindow.h
+	<distanceWindow.h>
+	<unordered_map>
+	"stdafx.h"
+
+1568009955 source:/home/salman/Documents/Development/distanceWindowCPP/main.cpp
+	"stdafx.h"
+	"IO.h"
+	"spatialFeatures.h"
+	<chrono>
+	"baselineWindow.h"
+	"incTrajLengthWindow.h"
+	"incDistArrayWindow.h"
+	<iostream>
+	<cmath>
+	<list>
+	<tuple>
+	<sstream>
+
+1561441056 source:/home/salman/Documents/Development/distanceWindowCPP/src/baselineWindow.cpp
+	"baselineWindow.h"
+	"spatialDistance.h"
+
+1561442376 source:/home/salman/Documents/Development/distanceWindowCPP/src/distanceWindow.cpp
+	"distanceWindow.h"
+	"spatialDistance.h"
+
+1565265304 source:/home/salman/Documents/Development/distanceWindowCPP/src/incDistArrayWindow.cpp
+	"incDistArrayWindow.h"
+	"spatialDistance.h"
+
+1561441074 source:/home/salman/Documents/Development/distanceWindowCPP/src/incTrajLengthWindow.cpp
+	"incTrajLengthWindow.h"
+	"spatialDistance.h"
+
+1567424810 source:/home/salman/Documents/Development/distanceWindowCPP/src/IO.cpp
+	"IO.h"
+	<boost/tokenizer.hpp>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+
+1561443740 source:/home/salman/Documents/Development/distanceWindowCPP/src/spatialDistance.cpp
+	"spatialDistance.h"
+	<iostream>
+	<cmath>
+
+1565337188 /home/salman/Documents/Development/distanceWindowCPP/include/stdafx.h
+
+1567424787 /home/salman/Documents/Development/distanceWindowCPP/include/IO.h
+	<iostream>
+	<vector>
+	<string>
+	<list>
+	<tuple>
+	"point.h"
+	"stdafx.h"
+
+1567167363 /home/salman/Documents/Development/distanceWindowCPP/include/spatialDistance.h
+	"stdafx.h"
+
+1567167322 /home/salman/Documents/Development/distanceWindowCPP/include/baselineWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1567422965 /home/salman/Documents/Development/distanceWindowCPP/include/distanceWindow.h
+	<tuple>
+	<list>
+	<unordered_map>
+	<iostream>
+	"stdafx.h"
+
+1567167345 /home/salman/Documents/Development/distanceWindowCPP/include/incTrajLengthWindow.h
+	<distanceWindow.h>
+	<unordered_map>
+	"stdafx.h"
+
+1567167340 /home/salman/Documents/Development/distanceWindowCPP/include/incDistArrayWindow.h
+	<distanceWindow.h>
+	"stdafx.h"
+
+1567478741 /home/salman/Documents/Development/distanceWindowCPP/include/point.h
+	"stdafx.h"
+	<fstream>
+
+1567157779 source:/home/salman/Documents/Development/distanceWindowCPP/src/commonFunctions.cpp
+	<iostream>
+	"commonFunctions.h"
+
+1567167327 /home/salman/Documents/Development/distanceWindowCPP/include/commonFunctions.h
+	"stdafx.h"
+
+1567477840 source:/home/salman/Documents/Development/distanceWindowCPP/src/point.cpp
+	"point.h"
+
+1568007892 source:/home/salman/Documents/Development/distanceWindowCPP/src/spatialFeatures.cpp
+	"spatialFeatures.h"
+
+1567651255 /home/salman/Documents/Development/distanceWindowCPP/include/spatialFeatures.h
+	<list>
+	<tuple>
+	<list>
+	<iostream>
+	<unordered_map>
+	<map>
+	"point.h"
+	"spatialDistance.h"
+	"stdafx.h"
+
+1586863181 source:/home/salman/Development/distanceWindowCPP/src/commonFunctions.cpp
+	<iostream>
+	"commonFunctions.h"
+
+1586863268 /home/salman/Development/distanceWindowCPP/include/commonFunctions.h
+	<tuple>
+	<unordered_map>
+	<map>
+	<sstream>
+	"point.h"
+	"IO.h"
+	"stdafx.h"
+
+1567478740 /home/salman/Development/distanceWindowCPP/include/point.h
+	"stdafx.h"
+	<fstream>
+
+1567477840 source:/home/salman/Development/distanceWindowCPP/src/point.cpp
+	"point.h"
+
+1586858635 source:/home/salman/Development/distanceWindowCPP/src/spatialFeatures.cpp
+	"spatialFeatures.h"
+
+1585207813 /home/salman/Development/distanceWindowCPP/include/spatialFeatures.h
+	<list>
+	<tuple>
+	<list>
+	<iostream>
+	<unordered_map>
+	<map>
+	"point.h"
+	"spatialDistance.h"
+	"stdafx.h"
+	<routingkit/geo_position_to_node.h>
+	<routingkit/contraction_hierarchy.h>
+
+1576236964 source:/home/salman/Development/distanceWindowCPP/src/queries.cpp
+	"queries.h"
+	"distanceWindow.h"
+
+1576236159 /home/salman/Development/distanceWindowCPP/include/queries.h
+
+1576132284 source:/home/salman/Development/distanceWindowCPP/src/helperClass.cpp
+	"helperClass.h"
+	<chrono>
+
+1576132303 /home/salman/Development/distanceWindowCPP/include/helperClass.h
+	<stdint.h>
+
+1585133403 source:/home/salman/Development/distanceWindowCPP/src/roadDistance.cpp
+	"roadDistance.h"
+
+1585136036 /home/salman/Development/distanceWindowCPP/include/roadDistance.h
+	<iostream>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/osm_simple.h
+	<vector>
+	<functional>
+	<string>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/inverse_vector.h
+	<routingkit/sort.h>
+	<routingkit/min_max.h>
+	<assert.h>
+	<algorithm>
+	<vector>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/sort.h
+	<routingkit/permutation.h>
+	<vector>
+	<assert.h>
+	<algorithm>
+	<functional>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/permutation.h
+	<routingkit/constants.h>
+	<vector>
+	<assert.h>
+	<algorithm>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/constants.h
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/min_max.h
+	<vector>
+	<assert.h>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/timer.h
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/geo_position_to_node.h
+	<routingkit/constants.h>
+	<vector>
+	<algorithm>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/contraction_hierarchy.h
+	<routingkit/id_queue.h>
+	<routingkit/timestamp_flag.h>
+	<routingkit/bit_vector.h>
+	<routingkit/permutation.h>
+	<vector>
+	<functional>
+	<cassert>
+	<type_traits>
+	<limits.h>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/id_queue.h
+	<routingkit/constants.h>
+	<vector>
+	<algorithm>
+	<assert.h>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/timestamp_flag.h
+	<vector>
+
+1585028280 /usr/local/lib/RoutingKit/include/routingkit/bit_vector.h
+	<stdint.h>
+	<assert.h>
+	<utility>
+

@@ -1,9 +1,9 @@
 # Don't track content of these folders
 data/
-bin/
-scripts/
-obj/
-output/
+#bin/
+#scripts/
+#obj/
+#output/
 
 
 # Don't track the Compiled source #
@@ -18,11 +18,11 @@ output/
 # Don't track following misc files
 ##################################
 *.csv
-*.cbp
-*.depend
+#*.cbp
+#*.depend
 *.py
 #*.gitignore
-Makefile
+#Makefile
 
 # Packages #
 ############

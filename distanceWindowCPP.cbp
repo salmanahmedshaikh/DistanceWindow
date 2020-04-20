@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="distanceWindowCPP" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/distanceWindowCPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/distanceWindowCPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/IO.h" />
+		<Unit filename="include/baselineWindow.h" />
+		<Unit filename="include/commonFunctions.h" />
+		<Unit filename="include/distanceWindow.h" />
+		<Unit filename="include/helperClass.h" />
+		<Unit filename="include/incDistArrayWindow.h" />
+		<Unit filename="include/incTrajLengthWindow.h" />
+		<Unit filename="include/point.h" />
+		<Unit filename="include/queries.h" />
+		<Unit filename="include/spatialDistance.h" />
+		<Unit filename="include/spatialFeatures.h" />
+		<Unit filename="include/stdafx.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/IO.cpp" />
+		<Unit filename="src/baselineWindow.cpp" />
+		<Unit filename="src/commonFunctions.cpp" />
+		<Unit filename="src/distanceWindow.cpp" />
+		<Unit filename="src/helperClass.cpp" />
+		<Unit filename="src/incDistArrayWindow.cpp" />
+		<Unit filename="src/incTrajLengthWindow.cpp" />
+		<Unit filename="src/point.cpp" />
+		<Unit filename="src/queries.cpp" />
+		<Unit filename="src/spatialDistance.cpp" />
+		<Unit filename="src/spatialFeatures.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

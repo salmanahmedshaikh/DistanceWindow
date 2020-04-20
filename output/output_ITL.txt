@@ -1,0 +1,2250 @@
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	377202
+Execution time (ms)	637.718
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	714296
+Execution time (ms)	562.616
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	1024451
+Execution time (ms)	507.207
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	1317772
+Execution time (ms)	501.178
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	1601488
+Execution time (ms)	521.848
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	1978690
+Execution time (ms)	544.418
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	2315784
+Execution time (ms)	518.37
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	2625939
+Execution time (ms)	507.081
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	2919260
+Execution time (ms)	493.56
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	3202976
+Execution time (ms)	486.696
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	3580178
+Execution time (ms)	546.37
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	3917272
+Execution time (ms)	516.044
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	4227427
+Execution time (ms)	502.959
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	4520748
+Execution time (ms)	495.128
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	4804464
+Execution time (ms)	488.473
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	6327226
+Execution time (ms)	2972.97
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	7713397
+Execution time (ms)	3472.17
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	8999390
+Execution time (ms)	2482.81
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	10206650
+Execution time (ms)	2074.46
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	11361260
+Execution time (ms)	1910.09
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	12884022
+Execution time (ms)	2156.86
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	14270193
+Execution time (ms)	2433.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	15556186
+Execution time (ms)	2016.04
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	16763446
+Execution time (ms)	2194.01
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	17918056
+Execution time (ms)	1893.35
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	19440818
+Execution time (ms)	2142.39
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	20826989
+Execution time (ms)	1934.13
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	22112982
+Execution time (ms)	2433.67
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	23320242
+Execution time (ms)	2038.04
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	ShortLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	24474852
+Execution time (ms)	2694.81
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	27767071
+Execution time (ms)	4201.74
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	30876917
+Execution time (ms)	4164.54
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	33846058
+Execution time (ms)	4157.36
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	36702714
+Execution time (ms)	4104.63
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	39457605
+Execution time (ms)	4217.55
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	42749824
+Execution time (ms)	4996.46
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	45859670
+Execution time (ms)	5018.17
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	48828811
+Execution time (ms)	5170.32
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	51685467
+Execution time (ms)	4597.9
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	54440358
+Execution time (ms)	4067.86
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	57732577
+Execution time (ms)	5033.39
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	60842423
+Execution time (ms)	4695.67
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	63811564
+Execution time (ms)	4135.63
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	66668220
+Execution time (ms)	4099.76
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	MediumLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	69423111
+Execution time (ms)	4088.83
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	76826350
+Execution time (ms)	9217.21
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	84006283
+Execution time (ms)	9027.19
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	90999071
+Execution time (ms)	8934.86
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	97824680
+Execution time (ms)	8781.48
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	104491124
+Execution time (ms)	8695.39
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	111894363
+Execution time (ms)	9136.83
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	119074296
+Execution time (ms)	9041.88
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	126067084
+Execution time (ms)	8919.35
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	132892693
+Execution time (ms)	8802.31
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	139559137
+Execution time (ms)	8714.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	146962376
+Execution time (ms)	9156.86
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	154142309
+Execution time (ms)	9073.71
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	161135097
+Execution time (ms)	8916.78
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	167960706
+Execution time (ms)	8811.01
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	174627150
+Execution time (ms)	8677.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	204936592
+Execution time (ms)	37813.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	234976846
+Execution time (ms)	37863.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	264779423
+Execution time (ms)	37955.6
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	294360167
+Execution time (ms)	38006.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	323727001
+Execution time (ms)	37961.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	354036443
+Execution time (ms)	38332
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	384076697
+Execution time (ms)	38001.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	413879274
+Execution time (ms)	38002.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	443460018
+Execution time (ms)	38034
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	472826852
+Execution time (ms)	37951.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	503136294
+Execution time (ms)	38312.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	533176548
+Execution time (ms)	37769.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	562979125
+Execution time (ms)	37983.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	592559869
+Execution time (ms)	38065.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	LongestLength.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	621926703
+Execution time (ms)	38124.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	630646964
+Execution time (ms)	10259.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	639200985
+Execution time (ms)	9253.24
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	647618038
+Execution time (ms)	9198.24
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	655914905
+Execution time (ms)	9142.34
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	664103661
+Execution time (ms)	9087.25
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	672823922
+Execution time (ms)	9231.94
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	681377943
+Execution time (ms)	9216.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	689794996
+Execution time (ms)	9203.98
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	698091863
+Execution time (ms)	9131.31
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	706280619
+Execution time (ms)	9081.62
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	715000880
+Execution time (ms)	9221.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	723554901
+Execution time (ms)	9250.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	731971954
+Execution time (ms)	9213.11
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	740268821
+Execution time (ms)	9160.32
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	3556Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	3556
+NumDistanceComputations	748457577
+Execution time (ms)	9095
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	766313816
+Execution time (ms)	19561.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	783830955
+Execution time (ms)	19258.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	801070064
+Execution time (ms)	19105.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	818067600
+Execution time (ms)	19054.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	834846878
+Execution time (ms)	18860.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	852703117
+Execution time (ms)	19305.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	870220256
+Execution time (ms)	19279
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	887459365
+Execution time (ms)	19126.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	904456901
+Execution time (ms)	19012.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	921236179
+Execution time (ms)	18887.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	939092418
+Execution time (ms)	19340.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	956609557
+Execution time (ms)	19285
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	973848666
+Execution time (ms)	19206.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	990846202
+Execution time (ms)	19054.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	7113Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	7113
+NumDistanceComputations	1007625480
+Execution time (ms)	18929.9
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1034074404
+Execution time (ms)	29407.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1060014351
+Execution time (ms)	28753
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1085540119
+Execution time (ms)	28472.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1110707753
+Execution time (ms)	28358.9
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1135552868
+Execution time (ms)	28175.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1162001792
+Execution time (ms)	28942.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1187941739
+Execution time (ms)	28782.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1213467507
+Execution time (ms)	28602.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1238635141
+Execution time (ms)	28371.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1263480256
+Execution time (ms)	28166.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1289929180
+Execution time (ms)	29002.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1315869127
+Execution time (ms)	28840.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1341394895
+Execution time (ms)	28694.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1366562529
+Execution time (ms)	28429
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	10670Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	10670
+NumDistanceComputations	1391407644
+Execution time (ms)	28446.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1426470887
+Execution time (ms)	39638.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1460847068
+Execution time (ms)	38752.1
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1494668323
+Execution time (ms)	38413.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1528010526
+Execution time (ms)	38254.9
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1560921174
+Execution time (ms)	37993.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1595984417
+Execution time (ms)	39005.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1630360598
+Execution time (ms)	38885
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1664181853
+Execution time (ms)	38434.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1697524056
+Execution time (ms)	38278.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1730434704
+Execution time (ms)	38044.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1765497947
+Execution time (ms)	39507.7
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1799874128
+Execution time (ms)	39697.9
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1833695383
+Execution time (ms)	42647.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1867037586
+Execution time (ms)	40230
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	14227Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	14227
+NumDistanceComputations	1899948234
+Execution time (ms)	38759.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	1942853098
+Execution time (ms)	49032.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	1984906396
+Execution time (ms)	47455.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2026267050
+Execution time (ms)	47123.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2067030640
+Execution time (ms)	46836.2
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	trajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2107257135
+Execution time (ms)	46558.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2150161999
+Execution time (ms)	47964.4
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2192215297
+Execution time (ms)	47598.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2233575951
+Execution time (ms)	47254.6
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2274339541
+Execution time (ms)	47033.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesCount
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2314566036
+Execution time (ms)	46650.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2357470900
+Execution time (ms)	48003.5
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2399524198
+Execution time (ms)	47595.3
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	1500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2440884852
+Execution time (ms)	47327.6
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2000
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2481648442
+Execution time (ms)	46960.8
+
+***
+Approach	ITL
+Dist.Function	SPHERICALLAWOFCOSINES
+
+Traj File	17784Traj.csv
+Query	filteredTrajectoriesLength
+FilterLowerBound	500
+FilterUpperBound	5000
+Window size	2500
+SlidingStep(micro seconds)	1000000
+StalledTrajThreshold	1000000
+NumOfTrajectories	17780
+NumDistanceComputations	2521874937
+Execution time (ms)	46603.8
